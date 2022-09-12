@@ -188,9 +188,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:49:27.585Z",
             "path": "articles/shekhargulati.com/2022-07-08-my-notes-on-gitlabs-postgres-schema-design.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:50:01.560Z",
+            "domain": "danielsieger.com",
+            "originalUrl": "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html",
+            "slug": "blog-2022-07-25-your-code-doesnt-have-to-be-a-messhtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:50:01.560Z",
+            "path": "articles/danielsieger.com/blog-2022-07-25-your-code-doesnt-have-to-be-a-messhtml.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:49:27.585Z",
-    "articleCount": 21,
+    "lastUpdatedAt": "2022-09-12T03:50:01.560Z",
+    "articleCount": 22,
     "$schema": "./src/db.schema.json"
 }
