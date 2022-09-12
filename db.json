@@ -2316,7 +2316,7 @@
             "originalUrl": "https://herman.bearblog.dev/mvp-vs-slc/",
             "slug": "mvp-vs-slc",
             "tags": [],
-            "updatedAt": "2022-09-12T16:54:47.818Z",
+            "updatedAt": "2022-09-12T17:25:17.696Z",
             "path": "articles/herman.bearblog.dev/mvp-vs-slc.html",
             "namedEntities": {
                 "PERSON": [
@@ -2355,7 +2355,7 @@
             }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T16:54:47.818Z",
+    "lastUpdatedAt": "2022-09-12T17:25:17.696Z",
     "articleCount": 26,
     "$schema": "./src/db.schema.json"
 }
