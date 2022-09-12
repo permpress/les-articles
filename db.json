@@ -3425,9 +3425,41 @@
                     "an hour"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:08:21.347Z",
+            "domain": "florio.dev",
+            "originalUrl": "https://www.florio.dev/posts/20200328-letter-to-myself/",
+            "slug": "posts-20200328-letter-to-myself",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:08:21.347Z",
+            "path": "articles/florio.dev/posts-20200328-letter-to-myself.html",
+            "namedEntities": {
+                "ORG": [
+                    "Dear Self",
+                    "NIH",
+                    "PaperMod"
+                ],
+                "DATE": [
+                    "March 28",
+                    "the next few years",
+                    "decades",
+                    "2022"
+                ],
+                "WORK_OF_ART": [
+                    "Principal Senior Lead Engineering  Chief Architect"
+                ],
+                "CARDINAL": [
+                    "#",
+                    "One"
+                ],
+                "PERSON": [
+                    "erica steeves"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:08:09.820Z",
-    "articleCount": 39,
+    "lastUpdatedAt": "2022-09-12T19:08:21.347Z",
+    "articleCount": 40,
     "$schema": "./src/db.schema.json"
 }
