@@ -39,10 +39,6 @@ let jobs = [
         tags: ['entrepreneurship', 'software-engineering'],
     },
     {
-        url: 'https://collabfund.com/blog/save-like-a-pessimist-invest-like-an-optimist/',
-        tags: ['investmant', 'life-hacks'],
-    },
-    {
         url: 'http://paulgraham.com/fr.html?utm_source=pocket_mylist',
         tags: ['start-ups', 'investment'],
     },

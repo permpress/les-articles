@@ -61,7 +61,7 @@ jobs:
             - name: Add and commit changes
               run: |
                   git pull origin main
-                  git config pull.rebase true
                   git add .
                   git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
+                  git config pull.rebase true
                   git push origin main
