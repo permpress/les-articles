@@ -7,9 +7,7 @@ on:
                 required: true
             tags:
                 description: 'Tags to add to the webpage'
-concurrency:
-    group: ${{ github.workflow }}-${{ github.ref }}
-    cancel-in-progress: false
+
 jobs:
     build_infra_dev:
         name: Update
@@ -79,9 +77,14 @@ jobs:
               run: |
                   ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
             - name: Add and commit changes
-              run: |
-                  git pull origin main
-                  git add .
-                  git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
-                  git config pull.rebase true
-                  git push origin main
+              uses: nick-fields/retry@v2
+              with:
+                  timeout_seconds: 15
+                  max_attempts: 3
+                  retry_on: timeout
+                  command: |
+                      git add .
+                      git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
+                      git config pull.rebase true
+                      git pull origin main
+                      git push origin main
