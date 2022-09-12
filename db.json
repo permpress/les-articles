@@ -170,9 +170,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:47:19.978Z",
             "path": "articles/specbranch.com/posts-one-big-server.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:48:09.481Z",
+            "domain": "gkogan.co",
+            "originalUrl": "https://www.gkogan.co/blog/swamped/",
+            "slug": "blog-swamped",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:48:09.481Z",
+            "path": "articles/gkogan.co/blog-swamped.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:47:19.978Z",
-    "articleCount": 19,
+    "lastUpdatedAt": "2022-09-12T03:48:09.481Z",
+    "articleCount": 20,
     "$schema": "./src/db.schema.json"
 }
