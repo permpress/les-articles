@@ -80,9 +80,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:33:54.677Z",
             "path": "articles/simonwillison.net/2022-aug-29-stable-diffusion.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:37:05.977Z",
+            "domain": "browserlondon.com",
+            "originalUrl": "https://www.browserlondon.com/blog/2022/08/30/why-user-stories-belong-in-the-garbage/",
+            "slug": "blog-2022-08-30-why-user-stories-belong-in-the-garbage",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:37:05.977Z",
+            "path": "articles/browserlondon.com/blog-2022-08-30-why-user-stories-belong-in-the-garbage.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:33:54.677Z",
-    "articleCount": 9,
+    "lastUpdatedAt": "2022-09-12T03:37:05.977Z",
+    "articleCount": 10,
     "$schema": "./src/db.schema.json"
 }
