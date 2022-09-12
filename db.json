@@ -3355,9 +3355,37 @@
                     "Nicheless"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:08:06.804Z",
+            "domain": "leontrolski.github.io",
+            "originalUrl": "https://leontrolski.github.io/33-line-react.html",
+            "slug": "33-line-reacthtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:08:06.804Z",
+            "path": "articles/leontrolski.github.io/33-line-reacthtml.html",
+            "namedEntities": {
+                "ORG": [
+                    "React ⇦ 33",
+                    "React Thoughts",
+                    "JSX",
+                    "DOM"
+                ],
+                "CARDINAL": [
+                    "96",
+                    "2"
+                ],
+                "PERSON": [
+                    "button.cell",
+                    "Cell"
+                ],
+                "ORDINAL": [
+                    "First"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:43:46.786Z",
-    "articleCount": 37,
+    "lastUpdatedAt": "2022-09-12T19:08:06.804Z",
+    "articleCount": 38,
     "$schema": "./src/db.schema.json"
 }
