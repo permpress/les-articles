@@ -8,6 +8,8 @@ on:
             tags:
                 description: 'Tags to add to the webpage'
                 required: true
+concurrency:
+    group: ${{ github.workflow }}-${{ github.ref }}
 jobs:
     build_infra_dev:
         name: Update
@@ -15,6 +17,11 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v2
+              with:
+                  fetch-depth: 0
+            - run: |
+                  git config pull.rebase
+                  git pull
             - name: 'Set up user 🩸'
               uses: fregante/setup-git-user@v1
             - uses: oleksiyrudenko/gha-git-credentials@v2-latest
