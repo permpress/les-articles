@@ -161,9 +161,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:46:18.908Z",
             "path": "articles/dylanpaulus.com/advice-for-new-software-engineers.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:47:19.978Z",
+            "domain": "specbranch.com",
+            "originalUrl": "https://specbranch.com/posts/one-big-server/",
+            "slug": "posts-one-big-server",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:47:19.978Z",
+            "path": "articles/specbranch.com/posts-one-big-server.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:46:18.908Z",
-    "articleCount": 18,
+    "lastUpdatedAt": "2022-09-12T03:47:19.978Z",
+    "articleCount": 19,
     "$schema": "./src/db.schema.json"
 }
