@@ -4673,9 +4673,70 @@
                     "99%"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:30:25.081Z",
+            "domain": "edofic.com",
+            "originalUrl": "https://edofic.com/posts/2022-01-28-low-js/",
+            "slug": "posts-2022-01-28-low-js",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:30:25.081Z",
+            "path": "articles/edofic.com/posts-2022-01-28-low-js.html",
+            "namedEntities": {
+                "ORG": [
+                    "Andraž Bajt's",
+                    "API",
+                    "DOM",
+                    "Different",
+                    "Unpoly",
+                    "Vue Hyperscript",
+                    "Django/Rails/Buffalo/Play",
+                    "Htmx/Turbo/Unpoly",
+                    "the Unpoly Story",
+                    "Conway’s Law",
+                    "Remix",
+                    "CSS"
+                ],
+                "WORK_OF_ART": [
+                    "About Me Archive"
+                ],
+                "DATE": [
+                    "2022-01-28",
+                    "About 5 years ago",
+                    "today",
+                    "a single day",
+                    "years",
+                    "A few years later"
+                ],
+                "CARDINAL": [
+                    "hundreds",
+                    "95%+",
+                    "7",
+                    "10"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "20ms"
+                ],
+                "GPE": [
+                    "React"
+                ],
+                "NORP": [
+                    "Pareto"
+                ],
+                "PERCENT": [
+                    "80%",
+                    "20%"
+                ],
+                "PERSON": [
+                    "Pico CSS",
+                    "Felt"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:16:52.809Z",
-    "articleCount": 53,
+    "lastUpdatedAt": "2022-09-12T21:30:25.081Z",
+    "articleCount": 54,
     "$schema": "./src/db.schema.json"
 }
