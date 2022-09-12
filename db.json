@@ -2518,9 +2518,118 @@
                     "Download"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:24:46.453Z",
+            "domain": "leaddev.com",
+            "originalUrl": "https://leaddev.com/legacy-technical-debt-migrations/how-refactor-legacy-systems-creating-application-seams",
+            "slug": "legacy-technical-debt-migrations-how-refactor-legacy-systems-creating-application-seams",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:24:46.453Z",
+            "path": "articles/leaddev.com/legacy-technical-debt-migrations-how-refactor-legacy-systems-creating-application-seams.html",
+            "namedEntities": {
+                "PERSON": [
+                    "LeadDev Skip",
+                    "Continuous",
+                    "LeadDev San Francisco",
+                    "LeadDev Berlin",
+                    "LeadDev",
+                    "Kevin Ball Kevin Ball @kbal11 Application",
+                    "Kevin Ball",
+                    "Michael Feathers",
+                    "Jun",
+                    "Cassidy\nWilliams 6",
+                    "Said\nKetchman Nelida\nVelazquez +3",
+                    "My Monolith",
+                    "Melting",
+                    "Williams",
+                    "Natalie\nParker 7",
+                    "James\nSmith",
+                    "Reggie\nDavis 4",
+                    "Heidi\nWaterhouse",
+                    "Barbini",
+                    "LeadDev Want",
+                    "Kit ©2022LeadDev"
+                ],
+                "ORG": [
+                    "Topics Back Team Culture",
+                    "Diversity & inclusion",
+                    "Tech Architecture & microservices Building",
+                    "Technical direction &",
+                    "Process Agile &",
+                    "Monitoring & observability Productivity & Eng",
+                    "Your Career Communication &",
+                    "Self-care & burnout Skills",
+                    "Courses Back Group Leadership Courses Pillars of Engineering Management Building and Growing Teams Achieving Velocity Workshops Be",
+                    "LeadingEng",
+                    "Videos",
+                    "LeadDev London",
+                    "LeadDev New York",
+                    "StaffPlus",
+                    "Scroll",
+                    "API",
+                    "Liz\nFong-Jones",
+                    "Living",
+                    "Jai\nChakrabarti 6",
+                    "Scott",
+                    "Nelida\nVelazquez Jack\nFranklin",
+                    "Progressive Rejuvenation",
+                    "Submit",
+                    "Data Promise",
+                    "LeadDev Community",
+                    "Learn",
+                    "Reject Accept"
+                ],
+                "DATE": [
+                    "2022",
+                    "August 2022",
+                    "this month",
+                    "September 20 – November 29",
+                    "next week",
+                    "more than six months ago"
+                ],
+                "GPE": [
+                    "San Francisco",
+                    "Uberto"
+                ],
+                "FAC": [
+                    "Meetups LeadDev New York Meetup"
+                ],
+                "CARDINAL": [
+                    "02",
+                    "six",
+                    "one",
+                    "14",
+                    "01",
+                    "06",
+                    "08",
+                    "10",
+                    "22",
+                    "2021",
+                    "5",
+                    "30",
+                    "45",
+                    "27",
+                    "0/1"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "third"
+                ],
+                "LAW": [
+                    "Article How Eve Online",
+                    "Article How",
+                    "Article Living",
+                    "Article Learnings",
+                    "Article Building"
+                ],
+                "NORP": [
+                    "Meri"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:19:00.271Z",
-    "articleCount": 28,
+    "lastUpdatedAt": "2022-09-12T18:24:46.453Z",
+    "articleCount": 29,
     "$schema": "./src/db.schema.json"
 }
