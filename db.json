@@ -224,9 +224,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T12:03:24.961Z",
             "path": "articles/psyche.co/ideas-why-some-of-the-smartest-people-can-be-so-very-stupid.html"
+        },
+        {
+            "createdAt": "2022-09-12T12:04:30.260Z",
+            "domain": "blog.tdwright.co.uk",
+            "originalUrl": "https://blog.tdwright.co.uk/2022/07/14/fizzbuzz-is-fizzbuzz-years-old-and-still-a-powerful-tool/",
+            "slug": "2022-07-14-fizzbuzz-is-fizzbuzz-years-old-and-still-a-powerful-tool",
+            "tags": [],
+            "updatedAt": "2022-09-12T12:04:30.260Z",
+            "path": "articles/blog.tdwright.co.uk/2022-07-14-fizzbuzz-is-fizzbuzz-years-old-and-still-a-powerful-tool.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T12:03:24.961Z",
-    "articleCount": 25,
+    "lastUpdatedAt": "2022-09-12T12:04:30.261Z",
+    "articleCount": 26,
     "$schema": "./src/db.schema.json"
 }
