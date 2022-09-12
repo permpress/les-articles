@@ -4565,9 +4565,51 @@
                     "RSS"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:16:44.825Z",
+            "domain": "benjamincongdon.me",
+            "originalUrl": "https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/",
+            "slug": "blog-2022-06-22-mental-model-difficult-problems-vs-hard-work",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:16:44.825Z",
+            "path": "articles/benjamincongdon.me/blog-2022-06-22-mental-model-difficult-problems-vs-hard-work.html",
+            "namedEntities": {
+                "WORK_OF_ART": [
+                    "Model: Difficult Problems",
+                    "Difficult Problems and Hard Work",
+                    "Hard Work",
+                    "Difficult Problems"
+                ],
+                "PERSON": [
+                    "Ben Congdon Ben Congdon",
+                    "David McIver",
+                    "Difficult Problem",
+                    "Ben Congdon"
+                ],
+                "DATE": [
+                    "2022",
+                    "2015-2022"
+                ],
+                "TIME": [
+                    "hours"
+                ],
+                "FAC": [
+                    "Difficult Problems"
+                ],
+                "ORG": [
+                    "Difficult Problems",
+                    "Difficult Problem"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "One",
+                    "two"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:16:39.161Z",
-    "articleCount": 51,
+    "lastUpdatedAt": "2022-09-12T19:16:44.825Z",
+    "articleCount": 52,
     "$schema": "./src/db.schema.json"
 }
