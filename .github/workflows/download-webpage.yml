@@ -42,11 +42,11 @@ jobs:
 
             - name: Generate Slug
               id: generate_slug
-              run: echo ::set-output name=slug::$(./scripts/generate-slug.js ${{ github.event.client_payload.url }})
+              run: echo ::set-output name=slug::$(./out/generate-slug.js ${{ github.event.client_payload.url }})
 
             - name: Get Domain
               id: get_domain
-              run: echo ::set-output name=domain::$(./scripts/get-domain.js ${{ github.event.client_payload.url }})
+              run: echo ::set-output name=domain::$(./out/get-domain.js ${{ github.event.client_payload.url }})
 
             - name: Download Page
               run: |
@@ -55,7 +55,7 @@ jobs:
                   docker run singlefile ${{ github.event.client_payload.url }} > articles/${{ steps.get_domain.outputs.domain }}/${{ steps.generate_slug.outputs.slug }}.html
             - name: Update Database
               run: |
-                  ./out/update-db ${{ github.event.client_payload.url }} ${{ github.event.client_payload.tags }}
+                  ./out/update-db.js ${{ github.event.client_payload.url }} ${{ github.event.client_payload.tags }}
             - name: Add and commit changes
               run: |
                   git add .
