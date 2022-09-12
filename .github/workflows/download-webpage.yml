@@ -1,0 +1,56 @@
+name: Download Webpage
+on:
+    repository_dispatch:
+jobs:
+    build_infra_dev:
+        name: Update
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+            - name: 'Set up user 🩸'
+              uses: fregante/setup-git-user@v1
+            - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+              with:
+                  token: '${{ secrets.LES_ARTICLES }}'
+            - name: Set up Node
+              uses: actions/setup-node@v2
+              with:
+                  node-version: 14.x
+            - name: Cache Dependencies
+              uses: actions/cache@v2
+              env:
+                  cache-name: node-cache
+              with:
+                  path: ~/.npm
+                  key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+                  restore-keys: |
+                      ${{ runner.os }}-build-${{ env.cache-name }}-
+                      ${{ runner.os }}-build-
+                      ${{ runner.os }}-
+            - name: Install Dependencies
+              run: npm install
+            - name: Build
+              run: npm run build
+
+            - name: Generate Slug
+              id: generate_slug
+              run: echo ::set-output name=slug::$(./scripts/generate-slug.js ${{ github.event.client_payload.url }})
+
+            - name: Get Domain
+              id: get_domain
+              run: echo ::set-output name=domain::$(./scripts/get-domain.js ${{ github.event.client_payload.url }})
+
+            - name: Download Page
+              run: |
+                  docker pull capsulecode/singlefile 
+                  docker tag capsulecode/singlefile singlefile
+                  docker run singlefile ${{ github.event.client_payload.url }} > articles/${{ steps.get_domain.outputs.domain }}/${{ steps.generate_slug.outputs.slug }}.html
+            - name: Update Database
+              run: |
+                  ./out/update-db ${{ github.event.client_payload.url }} ${{ github.event.client_payload.tags }}
+            - name: Add and commit changes
+              run: |
+                  git add .
+                  git commit -m "article(${{ steps.get_domain.outputs.domain }}): ${{ steps.generate_slug.outputs.slug }}"
+                  git push origin main

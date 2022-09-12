@@ -1,0 +1,55 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://github.com/laudebugs/les-articles#dbschemajson",
+    "title": "DB Schema for les-articles",
+    "properties": {
+        "lastUpdatedAt": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "articles": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/article"
+            }
+        },
+        "articleCount": {
+            "type": "integer"
+        }
+    },
+    "definitions": {
+        "article": {
+            "type": "object",
+            "properties": {
+                "tags": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/tag"
+                    }
+                },
+                "originalUrl": {
+                    "type": "string"
+                },
+                "domain": {
+                    "type": "string"
+                },
+                "slug": {
+                    "type": "string"
+                },
+                "createdAt": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "updatedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "required": ["createdAt", "domain", "originalUrl", "slug", "tags", "updatedAt"]
+        },
+        "tag": {
+            "type": "string"
+        }
+    },
+    "required": ["lastUpdatedAt", "articles", "articleCount"]
+}
