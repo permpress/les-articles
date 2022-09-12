@@ -5386,9 +5386,48 @@
                     "Hacker News"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:38:35.210Z",
+            "domain": "nicolalindgren.com",
+            "originalUrl": "https://nicolalindgren.com/2021/11/15/how-do-you-actually-prevent-bugs/",
+            "slug": "2021-11-15-how-do-you-actually-prevent-bugs",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:38:35.210Z",
+            "path": "articles/nicolalindgren.com/2021-11-15-how-do-you-actually-prevent-bugs.html",
+            "namedEntities": {
+                "ORG": [
+                    "Nicola",
+                    "FE",
+                    "YouTube"
+                ],
+                "DATE": [
+                    "2021-11-15"
+                ],
+                "ORDINAL": [
+                    "3rd"
+                ],
+                "LAW": [
+                    "Chapter 11"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "@NicolaLindgren",
+                    "Handling"
+                ],
+                "CARDINAL": [
+                    "#"
+                ],
+                "MONEY": [
+                    "#How-To"
+                ],
+                "GPE": [
+                    "Testing"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:38:26.838Z",
-    "articleCount": 61,
+    "lastUpdatedAt": "2022-09-12T21:38:35.210Z",
+    "articleCount": 62,
     "$schema": "./src/db.schema.json"
 }
