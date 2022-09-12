@@ -83,7 +83,9 @@ jobs:
                   max_attempts: 3
                   retry_on: timeout
                   command: |
+                      git stash
                       git pull origin main
+                      git stash pop
                       ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
                       git add .
                       git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"

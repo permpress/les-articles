@@ -1,6 +1,6 @@
 # GH Article Repository
 
-### Noteworthy Packages & Libraries Used
+### Noteworthy Libraries Used
 
 -   [metascraper](https://www.npmjs.com/package/metascraper) - a node package extracts metadata from a webpage
 -   [spacy](https://spacy.io/) - a python package used for extracting named entities
