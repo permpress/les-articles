@@ -17,6 +17,7 @@ jobs:
               uses: actions/checkout@v2
               with:
                   fetch-depth: 0
+
             - run: git pull origin main
             - name: 'Set up user 🩸'
               uses: fregante/setup-git-user@v1
@@ -83,8 +84,10 @@ jobs:
                   max_attempts: 3
                   retry_on: timeout
                   command: |
-                      git add .
-                      git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
+                      git stash
                       git config pull.rebase true
                       git pull origin main
+                      git stash pop
+                      git add .
+                      git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
                       git push origin main
