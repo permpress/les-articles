@@ -143,9 +143,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:43:17.314Z",
             "path": "articles/alexanderwales.com/the-ai-art-apocalypse.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:44:04.774Z",
+            "domain": "lucasfcosta.com",
+            "originalUrl": "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html",
+            "slug": "2022-08-07-how-to-improve-daily-standupshtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:44:04.774Z",
+            "path": "articles/lucasfcosta.com/2022-08-07-how-to-improve-daily-standupshtml.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:43:17.314Z",
-    "articleCount": 16,
+    "lastUpdatedAt": "2022-09-12T03:44:04.774Z",
+    "articleCount": 17,
     "$schema": "./src/db.schema.json"
 }
