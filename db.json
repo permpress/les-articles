@@ -2870,9 +2870,169 @@
                     "Unsafe Space Equality Does Not Require Sameness Ivette Rodriguez"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:30:07.142Z",
+            "domain": "perell.com",
+            "originalUrl": "https://perell.com/essay/why-youre-christian/",
+            "slug": "essay-why-youre-christian",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:30:07.142Z",
+            "path": "articles/perell.com/essay-why-youre-christian.html",
+            "namedEntities": {
+                "PERSON": [
+                    "David Perell",
+                    "Christian Becoming",
+                    "John Locke",
+                    "Locke",
+                    "Tom Holland",
+                    "Westerner",
+                    "Zeus",
+                    "Dostoyevsky",
+                    "David Hume",
+                    "Immanuel Kant",
+                    "Gospels",
+                    "Thomas Jefferson",
+                    "Christopher Hitchens",
+                    "Ellen Fishbein",
+                    "Bill Jaworski",
+                    "Tyler Cowen",
+                    "Aaron Burden",
+                    "Ariel Durant",
+                    "Magnifying Glass",
+                    "Filters Sort",
+                    "Jetpack Close Search"
+                ],
+                "GPE": [
+                    "America",
+                    "Aquinas",
+                    "Plato",
+                    "St. Augustine",
+                    "Oxford",
+                    "London",
+                    "Oslo",
+                    "Washington D.C.",
+                    "Brussels",
+                    "Hannover",
+                    "Mumbai",
+                    "Boston",
+                    "Paris",
+                    "Amsterdam",
+                    "intelligentsia",
+                    "Israel"
+                ],
+                "NORP": [
+                    "American",
+                    "Americans",
+                    "Christianity",
+                    "Christian",
+                    "Western",
+                    "Christians",
+                    "Corinthians",
+                    "Jewish",
+                    "Beatitudes",
+                    "Romans",
+                    "Judeo-Christian",
+                    "Brent Beshore"
+                ],
+                "WORK_OF_ART": [
+                    "the Declaration of Independence",
+                    "Bible",
+                    "Greeks",
+                    "Man in the Sky",
+                    "New Testament",
+                    "the Old Testament",
+                    "The Book You Need to Read There",
+                    "The Story of Singapore Singapore"
+                ],
+                "CARDINAL": [
+                    "nine",
+                    "ten",
+                    "one",
+                    "million",
+                    "One",
+                    "a couple hundred",
+                    "two"
+                ],
+                "ORG": [
+                    "St. Paul",
+                    "Dostoevsky",
+                    "the United Nations’ Human Rights",
+                    "Wikipedia",
+                    "the Jefferson Bible",
+                    "a “Liberal Christian",
+                    "Hitchens",
+                    "Echoing Hitchens",
+                    "Christianity",
+                    "C.S. Lewis",
+                    "the Ten Commandments",
+                    "Cross",
+                    "In-N-Out Burger",
+                    "the Liberal Arts",
+                    "Liberal Arts",
+                    "Annual Review 2021",
+                    "The Ultimate Guide to Writing Online",
+                    "Can’t School Be Fun",
+                    "The Lessons of History Book Review In The Lessons of History",
+                    "Write of Passage",
+                    "WordPress",
+                    "Filter"
+                ],
+                "LOC": [
+                    "Europe",
+                    "the Red Sea",
+                    "the Western Mind"
+                ],
+                "DATE": [
+                    "Today",
+                    "tomorrow",
+                    "1878",
+                    "one day",
+                    "today",
+                    "16 years",
+                    "2,000 years ago",
+                    "two centuries ago",
+                    "weekly",
+                    "the past week",
+                    "this perspective half a century ago",
+                    "2000",
+                    "just two decades",
+                    "two millennia ago",
+                    "2021",
+                    "the beginning of the year",
+                    "2022",
+                    "years",
+                    "just 53 years"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "PERCENT": [
+                    "nine percent",
+                    "almost 70%",
+                    "below 50%"
+                ],
+                "LAW": [
+                    "The Many Buckets of Faith"
+                ],
+                "TIME": [
+                    "40 minutes"
+                ],
+                "LANGUAGE": [
+                    "Hebrew"
+                ],
+                "PRODUCT": [
+                    "Excel",
+                    "the Guide Twitter YouTube Notebook"
+                ],
+                "EVENT": [
+                    "the Declaration of Independence"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:28:07.770Z",
-    "articleCount": 31,
+    "lastUpdatedAt": "2022-09-12T18:30:07.142Z",
+    "articleCount": 32,
     "$schema": "./src/db.schema.json"
 }
