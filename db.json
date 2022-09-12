@@ -206,9 +206,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:51:20.110Z",
             "path": "articles/brandur.org/soft-deletion.html"
+        },
+        {
+            "createdAt": "2022-09-12T12:02:29.055Z",
+            "domain": "johnsalvatier.org",
+            "originalUrl": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+            "slug": "blog-2017-reality-has-a-surprising-amount-of-detail",
+            "tags": [],
+            "updatedAt": "2022-09-12T12:02:29.055Z",
+            "path": "articles/johnsalvatier.org/blog-2017-reality-has-a-surprising-amount-of-detail.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:51:20.110Z",
-    "articleCount": 23,
+    "lastUpdatedAt": "2022-09-12T12:02:29.055Z",
+    "articleCount": 24,
     "$schema": "./src/db.schema.json"
 }
