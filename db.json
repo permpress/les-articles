@@ -71,9 +71,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:32:01.579Z",
             "path": "articles/collabfund.com/blog-save-like-a-pessimist-invest-like-an-optimist.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:33:54.677Z",
+            "domain": "simonwillison.net",
+            "originalUrl": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+            "slug": "2022-aug-29-stable-diffusion",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:33:54.677Z",
+            "path": "articles/simonwillison.net/2022-aug-29-stable-diffusion.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:32:01.579Z",
-    "articleCount": 8,
+    "lastUpdatedAt": "2022-09-12T03:33:54.677Z",
+    "articleCount": 9,
     "$schema": "./src/db.schema.json"
 }
