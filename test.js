@@ -19,44 +19,28 @@ async function sendDownloadRequest(url, tags) {
 }
 let jobs = [
     {
-        url: 'https://simonwillison.net/2022/Aug/29/stable-diffusion/',
-        tags: ['ai', 'machine-learning', 'software-engineering'],
+        url: 'http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail',
+        tags: ['life'],
     },
     {
-        url: 'https://www.browserlondon.com/blog/2022/08/30/why-user-stories-belong-in-the-garbage/',
-        tags: ['dev-ops', 'software-engineering'],
+        url: 'https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid',
+        tags: ['sciencd & nature'],
     },
     {
-        url: 'https://wagslane.dev/posts/no-one-does-devops/',
-        tags: ['dev-ops', 'software-engineering'],
+        url: 'https://blog.tdwright.co.uk/2022/07/14/fizzbuzz-is-fizzbuzz-years-old-and-still-a-powerful-tool/',
+        tags: ['interviewing'],
     },
     {
-        url: 'https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/',
-        tags: ['software-engineering', 'debugging'],
-    },
-    {
-        url: 'https://blog.southparkcommons.com/move-fast-or-die/',
-        tags: ['entrepreneurship', 'software-engineering'],
-    },
-    {
-        url: 'http://paulgraham.com/fr.html?utm_source=pocket_mylist',
-        tags: ['start-ups', 'investment'],
-    },
-    {
-        url: 'https://www.piratewires.com/p/jump-23d06adb4cb7',
-        tags: ['life-hacks'],
-    },
-    {
-        url: 'https://alexanderwales.com/the-ai-art-apocalypse/',
-        tags: ['ai', 'machine-learning', 'software-engineering'],
-    },
-    {
-        url: 'https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html',
-        tags: ['dev-ops'],
+        url: 'https://www.twilio.com/blog/sqlite-postgresql-complicated',
+        tags: ['databases'],
     },
 ]
 
-jobs.map(({ url, tags }) => sendDownloadRequest(url, tags))
+jobs.map(({ url, tags }, i) =>
+    setTimeout(() => {
+        sendDownloadRequest(url, tags)
+    }, i * 60 * 1000),
+)
 // sendDownloadRequest('https://cooking.nytimes.com/recipes/1018097-kimchi-fried-rice', ['cooking', 'recipes'])
 
 module.exports = { sendDownloadRequest }
