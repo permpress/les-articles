@@ -3669,9 +3669,105 @@
                     "Checklist"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:08:55.794Z",
+            "domain": "thenewstack.io",
+            "originalUrl": "https://thenewstack.io/when-webassembly-replaces-docker/",
+            "slug": "when-webassembly-replaces-docker",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:08:55.794Z",
+            "path": "articles/thenewstack.io/when-webassembly-replaces-docker.html",
+            "namedEntities": {
+                "ORG": [
+                    "WebAssembly Replaces Docker - The New Stack + More Results",
+                    "CI",
+                    "WebAssembly Replaces Docker",
+                    "Containers / Kubernetes When WebAssembly Replaces Docker One",
+                    "KubeCon + CloudNativeCon",
+                    "WebAssembly",
+                    "Pixabay One",
+                    "Wasm",
+                    "JavaScript",
+                    "CSS",
+                    "CPU",
+                    "the World Wide Web Consortium",
+                    "CVE",
+                    "OSSes",
+                    "IoT",
+                    "Group Created",
+                    "Post-Docker Kubernetes",
+                    "Sentry to Increase Speed to Resolution 6 September 2022",
+                    "Kubernetes Data Workshop",
+                    "Kubecon Detroit",
+                    "Marvel Studios API",
+                    "Speech",
+                    "Unlock Forensics",
+                    "Design Thinking for Graph Data",
+                    "The Secret to Successful Graph-Powered Apps",
+                    "Insight Partners"
+                ],
+                "TIME": [
+                    "10:19:44",
+                    "10:19am",
+                    "5-Minute"
+                ],
+                "PERSON": [
+                    "Docker",
+                    "B. Cameron Gain Feature",
+                    "Colin Murphy",
+                    "Adobe",
+                    "Wasm/ WASI",
+                    "Murphy",
+                    "Jake Levirne",
+                    "Levirne",
+                    "Integrate GitHub",
+                    "Portworx",
+                    "Cypher",
+                    "Free Training",
+                    "Thomas Larsen"
+                ],
+                "ORDINAL": [
+                    "7th",
+                    "fourth",
+                    "third"
+                ],
+                "DATE": [
+                    "2022",
+                    "2019",
+                    "one day",
+                    "today",
+                    "8 September 2022",
+                    "19 August 2022",
+                    "This Week",
+                    "More 12 September 2022",
+                    "9 September 2022",
+                    "7 September 2022",
+                    "week"
+                ],
+                "PRODUCT": [
+                    "OpenClipart-Vectors"
+                ],
+                "NORP": [
+                    "C++"
+                ],
+                "GPE": [
+                    "Kubernetes"
+                ],
+                "CARDINAL": [
+                    "5",
+                    "the millions",
+                    "thousands",
+                    "30"
+                ],
+                "WORK_OF_ART": [
+                    "Docker",
+                    "Using Graphs"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:08:37.745Z",
-    "articleCount": 42,
+    "lastUpdatedAt": "2022-09-12T19:08:55.794Z",
+    "articleCount": 43,
     "$schema": "./src/db.schema.json"
 }
