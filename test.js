@@ -9,10 +9,11 @@ async function sendDownloadRequest(url, tags) {
     return octokit.request('POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches', {
         owner: 'laudebugs',
         repo: 'les-articles',
-        workflow_id: 'download-webpage',
+        workflow_id: 'download-webpage.yml',
+        ref: 'main',
         inputs: {
             url,
-            tags,
+            tags: JSON.stringify(tags),
         },
     })
 }
