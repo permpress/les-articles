@@ -3330,9 +3330,34 @@
                     "Literary"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:43:46.786Z",
+            "domain": "nicheless.blog",
+            "originalUrl": "https://nicheless.blog/post/uniqueness-and-normalcy",
+            "slug": "post-uniqueness-and-normalcy",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:43:46.786Z",
+            "path": "articles/nicheless.blog/post-uniqueness-and-normalcy.html",
+            "namedEntities": {
+                "FAC": [
+                    "LDF Apr"
+                ],
+                "CARDINAL": [
+                    "12",
+                    "2/2",
+                    "1/2"
+                ],
+                "PERSON": [
+                    "mimicry"
+                ],
+                "ORG": [
+                    "Nicheless"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:38:43.947Z",
-    "articleCount": 36,
+    "lastUpdatedAt": "2022-09-12T18:43:46.786Z",
+    "articleCount": 37,
     "$schema": "./src/db.schema.json"
 }
