@@ -5425,9 +5425,165 @@
                     "Testing"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:40:16.902Z",
+            "domain": "r.bluethl.net",
+            "originalUrl": "https://r.bluethl.net/how-to-design-better-apis",
+            "slug": "how-to-design-better-apis",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:40:16.902Z",
+            "path": "articles/r.bluethl.net/how-to-design-better-apis.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "15",
+                    "6",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "14",
+                    "one",
+                    "1.0",
+                    "200",
+                    "201",
+                    "400",
+                    "401",
+                    "403",
+                    "404",
+                    "429",
+                    "12",
+                    "two",
+                    "1",
+                    "378",
+                    "26",
+                    "109",
+                    "43",
+                    "only half"
+                ],
+                "PERSON": [
+                    "Ronald Blüthl",
+                    "❌ BAD",
+                    "Copy //",
+                    "Copy // Request",
+                    "John Doe",
+                    "Bad Request",
+                    "Twitter",
+                    "Ronald Blüthl's",
+                    "Ronald Blüthl Follow",
+                    "Upper Austria",
+                    "Ronald Blüthl Rules",
+                    "Christos Matskas Mar",
+                    "OAuth2",
+                    "Ronald Blüthl Mar",
+                    "Christos Matskas",
+                    "mp.weixin.qq.com/s/v6BO_E8e-oJRazuYEEpksA",
+                    "Annie 🦄⚡",
+                    "Mar 7 Awesome",
+                    "Ronald",
+                    "Annie 🦄",
+                    "Ronald Python",
+                    "Mar 7 Great",
+                    "😉",
+                    "Jackson Lee Full",
+                    "Jackson Lee",
+                    "🤗",
+                    "Rohan Ankarigari Boda",
+                    "Sprint Boot",
+                    "Simon Espigolé",
+                    "Spring Boot",
+                    "Simon Espigolé Mar",
+                    "Spring Boot/Hibernate",
+                    "Xuan Nguyen",
+                    "Robert Moskal People",
+                    "Robert",
+                    "Saikat Roy",
+                    "Saikat",
+                    "Afdallah",
+                    "Mar",
+                    "Ilyas Maulana Mar",
+                    "Ilyas",
+                    "Jun"
+                ],
+                "DATE": [
+                    "3, 2022",
+                    "2022-03-03T21:59:08Z",
+                    "three-week",
+                    "the last couple of years",
+                    "2022"
+                ],
+                "ORG": [
+                    "ISO 8601",
+                    "HTTP",
+                    "API",
+                    "ISO 8601-",
+                    "POST",
+                    "PUT",
+                    "POST /updateUser",
+                    "PATCH",
+                    "Learn",
+                    "JWT Written",
+                    "Front-end",
+                    "BE",
+                    "🙂 1 Ezequiel E. Tejada Code Tinkerer Mar 7 Great Article",
+                    "🤗",
+                    "Yannick Mougin Mobile",
+                    "Yannick",
+                    "Microsoft",
+                    "OData",
+                    "Microsoft’s Graph API",
+                    "The Microsoft Graph API",
+                    "IMO",
+                    "github.com/Cosium/spring-data-jpa-entity-gr",
+                    "Prisma",
+                    "ORM",
+                    "Mar 21 Thank",
+                    "I‘ve",
+                    "JWT",
+                    "POST /users/{id}/follow",
+                    "WRITTEN"
+                ],
+                "PRODUCT": [
+                    "Api-Key",
+                    "HTTP",
+                    "order.ordernumber user.firstName",
+                    "Blog",
+                    "Chinwendu",
+                    "23 Love"
+                ],
+                "LOC": [
+                    "Provide",
+                    "Scandinavia"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "NORP": [
+                    "Chinese"
+                ],
+                "GPE": [
+                    "expand=",
+                    "I‘m"
+                ],
+                "MONEY": [
+                    "1"
+                ],
+                "WORK_OF_ART": [
+                    "Api-Key",
+                    "Blog Archive"
+                ],
+                "LANGUAGE": [
+                    "English"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:38:35.210Z",
-    "articleCount": 62,
+    "lastUpdatedAt": "2022-09-12T21:40:16.902Z",
+    "articleCount": 63,
     "$schema": "./src/db.schema.json"
 }
