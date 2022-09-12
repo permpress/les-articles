@@ -3101,9 +3101,83 @@
                     "The Business Implications of Combinatorial Optimisation"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:36:29.475Z",
+            "domain": "smirk.substack.com",
+            "originalUrl": "https://smirk.substack.com/p/media-vs-messaging-apps?s=r",
+            "slug": "p-media-vs-messaging-appssr",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:36:29.475Z",
+            "path": "articles/smirk.substack.com/p-media-vs-messaging-appssr.html",
+            "namedEntities": {
+                "ORG": [
+                    "Preston - Smirk Smirk Smirk Smirk Subscribe Sign",
+                    "Hinge",
+                    "YOLO",
+                    "Houseparty, Squad, Bunch",
+                    "Roadtrip, Yubo",
+                    "TikTok",
+                    "Instagram",
+                    "iMessage",
+                    "IG",
+                    "UX",
+                    "Rodeo",
+                    "Smirk Software",
+                    "JavaScript"
+                ],
+                "CARDINAL": [
+                    "only two",
+                    "One",
+                    "one",
+                    "380",
+                    "800",
+                    "11",
+                    "5"
+                ],
+                "DATE": [
+                    "25, 2020 11",
+                    "monthly",
+                    "2 years ago",
+                    "2022"
+                ],
+                "GPE": [
+                    "Bumble",
+                    "Triller"
+                ],
+                "PERSON": [
+                    "Zenly",
+                    "Linkedin",
+                    "Roadtrip",
+                    "Muze",
+                    "Vine",
+                    "Courtesy",
+                    "Preston",
+                    "Preston Sep",
+                    "Preston Jul",
+                    "Twitter"
+                ],
+                "FAC": [
+                    "Byte, Dubsmash"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "ORDINAL": [
+                    "First"
+                ],
+                "EVENT": [
+                    "4 Frameworks for Social Apps Get",
+                    "Preston Attebery Privacy ∙"
+                ],
+                "NORP": [
+                    "👋",
+                    "Instagram"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:31:22.567Z",
-    "articleCount": 33,
+    "lastUpdatedAt": "2022-09-12T18:36:29.475Z",
+    "articleCount": 34,
     "$schema": "./src/db.schema.json"
 }
