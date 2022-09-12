@@ -2474,9 +2474,53 @@
                     "UK"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:19:00.271Z",
+            "domain": "bhupesh.me",
+            "originalUrl": "https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/",
+            "slug": "writing-like-a-pro-with-vale-and-neovim",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:19:00.271Z",
+            "path": "articles/bhupesh.me/writing-like-a-pro-with-vale-and-neovim.html",
+            "namedEntities": {
+                "DATE": [
+                    "May 26, 2022",
+                    "5 year old",
+                    "everyday"
+                ],
+                "ORG": [
+                    "• 🕣",
+                    "Google",
+                    "Microsoft",
+                    "IBM",
+                    "RedHat",
+                    "Google & Microsoft",
+                    "BasedOnStyles",
+                    "Install null-ls.nvim",
+                    "doc",
+                    "EOF",
+                    "NeoVim",
+                    "VSCode",
+                    "Undo"
+                ],
+                "PERSON": [
+                    "Vale"
+                ],
+                "CARDINAL": [
+                    "more than 100",
+                    "#",
+                    "7",
+                    "one",
+                    "20"
+                ],
+                "PRODUCT": [
+                    "Download"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:06:52.190Z",
-    "articleCount": 27,
+    "lastUpdatedAt": "2022-09-12T18:19:00.271Z",
+    "articleCount": 28,
     "$schema": "./src/db.schema.json"
 }
