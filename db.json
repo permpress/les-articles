@@ -3457,9 +3457,129 @@
                     "erica steeves"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:08:29.844Z",
+            "domain": "hirrolot.github.io",
+            "originalUrl": "https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html",
+            "slug": "posts-rust-is-hard-or-the-misery-of-mainstream-programminghtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:08:29.844Z",
+            "path": "articles/hirrolot.github.io/posts-rust-is-hard-or-the-misery-of-mainstream-programminghtml.html",
+            "namedEntities": {
+                "ORG": [
+                    "Mainstream\nProgramming 🍭 Hirrolot's",
+                    "Contents Functions",
+                    "Update",
+                    "HRTB",
+                    "Vec<Handler>",
+                    "BoxFuture",
+                    "main.rs:12:21",
+                    "H",
+                    "push_handler",
+                    "API",
+                    "H3",
+                    "DispatcherEnd",
+                    "PushHandler",
+                    "Tail",
+                    "execute(dp , Update",
+                    "Rc / Arc",
+                    "Arc<Update",
+                    "Fn (Arc < Update",
+                    "Handler",
+                    "BoxStream",
+                    "//",
+                    "main.rs:8:34",
+                    "C-Bug",
+                    "Rust",
+                    "PL",
+                    "GCC",
+                    "ABI",
+                    "JavaScript",
+                    "Tokio",
+                    "Drop"
+                ],
+                "PERSON": [
+                    "Blog Jun 2",
+                    "Related ideas Update: Addressing",
+                    "Dispatcher",
+                    "Handler",
+                    "push",
+                    "push_handler",
+                    "Tail",
+                    "NewH >",
+                    "push_handler(handler",
+                    "dp.push_handler",
+                    "dbg_update_fn",
+                    "hacky",
+                    "Vec",
+                    "Niko Matsakis",
+                    "Arc",
+                    "Java",
+                    "UB",
+                    "Python"
+                ],
+                "DATE": [
+                    "2017",
+                    "four years ago",
+                    "lifetime",
+                    "70791",
+                    "earlier than 2020"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "error[E0312",
+                    "17",
+                    "12",
+                    "only one",
+                    "83",
+                    "82:6",
+                    "11",
+                    "16",
+                    "9",
+                    "123",
+                    "20x",
+                    "two",
+                    "8",
+                    "1",
+                    "10",
+                    "3,107",
+                    "114",
+                    "500",
+                    "700",
+                    "One"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "Second",
+                    "Third",
+                    "first",
+                    "second",
+                    "Secondly"
+                ],
+                "NORP": [
+                    "Dispatcher",
+                    "BoxFuture",
+                    "Rustaceans"
+                ],
+                "MONEY": [
+                    "1",
+                    "41078"
+                ],
+                "GPE": [
+                    "NewH",
+                    "Accidentally"
+                ],
+                "LANGUAGE": [
+                    "C++"
+                ],
+                "FAC": [
+                    "the Bronze Garbage Collector"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:08:21.347Z",
-    "articleCount": 40,
+    "lastUpdatedAt": "2022-09-12T19:08:29.844Z",
+    "articleCount": 41,
     "$schema": "./src/db.schema.json"
 }
