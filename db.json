@@ -62,9 +62,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:26:01.134Z",
             "path": "articles/blog.ploeh.dk/2020-09-14-we-need-young-programmers-we-need-old-programmers.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:32:01.579Z",
+            "domain": "collabfund.com",
+            "originalUrl": "https://collabfund.com/blog/save-like-a-pessimist-invest-like-an-optimist/",
+            "slug": "blog-save-like-a-pessimist-invest-like-an-optimist",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:32:01.579Z",
+            "path": "articles/collabfund.com/blog-save-like-a-pessimist-invest-like-an-optimist.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:26:01.134Z",
-    "articleCount": 7,
+    "lastUpdatedAt": "2022-09-12T03:32:01.579Z",
+    "articleCount": 8,
     "$schema": "./src/db.schema.json"
 }
