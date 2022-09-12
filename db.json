@@ -152,9 +152,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:44:04.774Z",
             "path": "articles/lucasfcosta.com/2022-08-07-how-to-improve-daily-standupshtml.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:46:18.908Z",
+            "domain": "dylanpaulus.com",
+            "originalUrl": "https://www.dylanpaulus.com/advice-for-new-software-engineers/",
+            "slug": "advice-for-new-software-engineers",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:46:18.908Z",
+            "path": "articles/dylanpaulus.com/advice-for-new-software-engineers.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:44:04.774Z",
-    "articleCount": 17,
+    "lastUpdatedAt": "2022-09-12T03:46:18.908Z",
+    "articleCount": 18,
     "$schema": "./src/db.schema.json"
 }
