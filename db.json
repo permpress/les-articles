@@ -3903,9 +3903,84 @@
                     "Sharing By Ben Arent View"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:12:07.832Z",
+            "domain": "drewdevault.com",
+            "originalUrl": "https://drewdevault.com/2020/04/22/How-to-store-data-forever.html",
+            "slug": "2020-04-22-how-to-store-data-foreverhtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:12:07.832Z",
+            "path": "articles/drewdevault.com/2020-04-22-how-to-store-data-foreverhtml.html",
+            "namedEntities": {
+                "DATE": [
+                    "April 22, 2020",
+                    "11100111",
+                    "10101100",
+                    "these days",
+                    "monthly",
+                    "500 years",
+                    "August 23, 2022",
+                    "August 2022",
+                    "This month",
+                    "August 14, 2022"
+                ],
+                "ORG": [
+                    "Drew DeVault's",
+                    "RAID",
+                    "Yank",
+                    "Vulnerability Management for Go Announcing",
+                    "SourceHut",
+                    "MIT"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "4",
+                    "5 microSD",
+                    "1",
+                    "One",
+                    "three",
+                    "10101100",
+                    "one",
+                    "ten",
+                    "2"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "third",
+                    "first"
+                ],
+                "PERCENT": [
+                    "almost 2%"
+                ],
+                "PERSON": [
+                    "Rosetta Disk",
+                    "XOR",
+                    "Zed",
+                    "Borg",
+                    "thro"
+                ],
+                "FAC": [
+                    "RAID1"
+                ],
+                "EVENT": [
+                    "XOR",
+                    "The Go Blog September 6, 2022"
+                ],
+                "TIME": [
+                    "5\nminutes",
+                    "48 hours"
+                ],
+                "MONEY": [
+                    "100"
+                ],
+                "GPE": [
+                    "Wayland"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:09:02.426Z",
-    "articleCount": 44,
+    "lastUpdatedAt": "2022-09-12T19:12:07.832Z",
+    "articleCount": 45,
     "$schema": "./src/db.schema.json"
 }
