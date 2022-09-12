@@ -2627,9 +2627,149 @@
                     "Meri"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:26:24.524Z",
+            "domain": "thenervousbreakdown.com",
+            "originalUrl": "https://thenervousbreakdown.com/tnbnonfiction/2012/09/excerpt-from-we-learn-nothing-by-tim-kreider/",
+            "slug": "tnbnonfiction-2012-09-excerpt-from-we-learn-nothing-by-tim-kreider",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:26:24.524Z",
+            "path": "articles/thenervousbreakdown.com/tnbnonfiction-2012-09-excerpt-from-we-learn-nothing-by-tim-kreider.html",
+            "namedEntities": {
+                "WORK_OF_ART": [
+                    "Learn Nothing",
+                    "The Lost City of Mars",
+                    "A Bird",
+                    "Film Quarterly",
+                    "'Can't Talk Now",
+                    "Brad's Face",
+                    "'Two Poems",
+                    "'Primitive Men",
+                    "The TNB Self-Interview"
+                ],
+                "PERSON": [
+                    "Tim Kreider",
+                    "Winston Churchill’s",
+                    "Ray Bradbury",
+                    "Raymond Carver",
+                    "Harold",
+                    "fixes",
+                    "Tim Kreider ’s",
+                    "Learn Nothing",
+                    "Luck",
+                    "Emily Rapp",
+                    "Mira Bartók",
+                    "Nick Flynn",
+                    "Melissa Febos",
+                    "SETH FISCHER",
+                    "Sex Writing",
+                    "Jentel",
+                    "Lambda Literary",
+                    "Tim",
+                    "Lou Wilkinson",
+                    "Close Calls",
+                    "Stephen Dixon",
+                    "Rebecca Fishow",
+                    "Frederick Barthelme",
+                    "Alex",
+                    "Timothy Willis Sanders",
+                    "Gene Morgan",
+                    "Bud Smith",
+                    "Shy Watson",
+                    "Richard Chiem » 'Two Prose Poems",
+                    "Zarah Butcher-McGunnigle » 'Two",
+                    "Willis Plummer",
+                    "Wendy C. Ortiz",
+                    "Mikaela Grantham",
+                    "Connor Ong » 'Two Short Ones",
+                    "Alec Berry",
+                    "Adam Soldofsky",
+                    "Wadi al-Salam",
+                    "Mesha Maren",
+                    "Michael Earl Craig » '",
+                    "Wayne Koestenbaum",
+                    "Sarah Jean Grimm",
+                    "Sam Pink » 'Adulthood",
+                    "Submissions"
+                ],
+                "DATE": [
+                    "September 29",
+                    "Fourteen years ago",
+                    "the years",
+                    "many months",
+                    "an entire year",
+                    "this day",
+                    "months",
+                    "daily",
+                    "the day",
+                    "that year",
+                    "Sunday",
+                    "September 29, 2012",
+                    "July 15, 2021"
+                ],
+                "EVENT": [
+                    "Essay Reprieve"
+                ],
+                "TIME": [
+                    "ten or fifteen minutes",
+                    "night",
+                    "about four minutes",
+                    "1:26 pm",
+                    "12:05 am Outstanding"
+                ],
+                "NORP": [
+                    "Christian",
+                    "Amish",
+                    "BAM"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "first"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "3",
+                    "three",
+                    "2",
+                    "Two",
+                    "Four"
+                ],
+                "GPE": [
+                    "Oklahoma City",
+                    "New York City",
+                    "Indiebound",
+                    "Guernica",
+                    "Los Angeles"
+                ],
+                "ORG": [
+                    "Clouseauesque",
+                    "Free Press",
+                    "a Division of Simon & Schuster, Inc.",
+                    "The New York Times",
+                    "The Comics Journal",
+                    "Nerve.com",
+                    "Fantagraphics",
+                    "Amazon",
+                    "B&N",
+                    "iTunes",
+                    "Joyland",
+                    "The Rumpus",
+                    "the Ucross Foundation",
+                    "Antioch University",
+                    "UCLA-Extension",
+                    "'Three Poems",
+                    "ARTS & CULTURE NEWS & POLITICS Terms & Conditions"
+                ],
+                "LOC": [
+                    "the Chesapeake Bay",
+                    "the Chesapeake Bay area",
+                    "The Best American Essays"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:24:46.453Z",
-    "articleCount": 29,
+    "lastUpdatedAt": "2022-09-12T18:26:24.524Z",
+    "articleCount": 30,
     "$schema": "./src/db.schema.json"
 }
