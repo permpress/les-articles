@@ -52,7 +52,7 @@ jobs:
               run: |
                   docker pull capsulecode/singlefile 
                   docker tag capsulecode/singlefile singlefile
-                  docker run singlefile ${{ github.event.inputs.url }} > "articles/${{steps.get_domain.outputs.domain}}/${{steps.generate_slug.outputs.slug}}.html"
+                  docker run singlefile ${{ github.event.inputs.url }} > "$(./out/get-path.js ${{steps.event.input.url}})"
             - name: Update Database
               run: |
                   ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
