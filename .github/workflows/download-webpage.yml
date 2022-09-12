@@ -42,20 +42,20 @@ jobs:
 
             - name: Generate Slug
               id: generate_slug
-              run: echo ::set-output name=slug::$(./out/generate-slug.js ${{ github.event.client_payload.url }})
+              run: echo ::set-output name=slug::$(./out/generate-slug.js ${{ github.event.inputs.url }})
 
             - name: Get Domain
               id: get_domain
-              run: echo ::set-output name=domain::$(./out/get-domain.js ${{ github.event.client_payload.url }})
+              run: echo ::set-output name=domain::$(./out/get-domain.js ${{ github.event.inputs.url }})
 
             - name: Download Page
               run: |
                   docker pull capsulecode/singlefile 
                   docker tag capsulecode/singlefile singlefile
-                  docker run singlefile ${{ github.event.client_payload.url }} > articles/${{ steps.get_domain.outputs.domain }}/${{ steps.generate_slug.outputs.slug }}.html
+                  docker run singlefile ${{ github.event.inputs.url }} > articles/${{ steps.get_domain.outputs.domain }}/${{ steps.generate_slug.outputs.slug }}.html
             - name: Update Database
               run: |
-                  ./out/update-db.js ${{ github.event.client_payload.url }} ${{ github.event.client_payload.tags }}
+                  ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
             - name: Add and commit changes
               run: |
                   git add .
