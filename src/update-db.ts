@@ -2,8 +2,7 @@
 import path from 'path'
 import chalk from 'chalk'
 import { Database } from './db.model'
-import { getDomainFromUrl } from './get-domain'
-import { generateSlug } from './generate-slug'
+import { generateSlug, getDomainFromUrl } from './helpers'
 
 const originalUrl = process.argv[2]
 const tags: string[] = Array.isArray(process.argv[3]) ? process.argv[3] : []

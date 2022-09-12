@@ -1,9 +1,6 @@
 #!/usr/bin/env node
 
-export function getDomainFromUrl(url: string) {
-    const domain = url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, '')
-    return domain.split('/')[0]
-}
+import { getDomainFromUrl } from './helpers'
 
 const url = process.argv[2]
 if (url) {
