@@ -74,20 +74,17 @@ jobs:
                   pip3 install -U spacy
                   python3 -m spacy download en_core_web_sm
                   python3 nex.py ${{ steps.set_variables.outputs.path }}
-            - name: Update Database
-              run: |
-                  ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
-            - name: Add and commit changes
+
+            - name: Update & Commit changes
               uses: nick-fields/retry@v2
               with:
-                  timeout_seconds: 15
+                  timeout_seconds: 30
                   max_attempts: 3
                   retry_on: timeout
                   command: |
-                      git stash
                       git config pull.rebase true
                       git pull origin main
-                      git stash pop
+                      ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
                       git add .
                       git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
                       git push origin main
