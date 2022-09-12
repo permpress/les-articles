@@ -3978,9 +3978,64 @@
                     "Wayland"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:12:27.978Z",
+            "domain": "sizovs.net",
+            "originalUrl": "https://sizovs.net/2020/03/26/developers-dont-need-ping-pong-tables/",
+            "slug": "2020-03-26-developers-dont-need-ping-pong-tables",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:12:27.978Z",
+            "path": "articles/sizovs.net/2020-03-26-developers-dont-need-ping-pong-tables.html",
+            "namedEntities": {
+                "ORG": [
+                    "Eduards Sizovs",
+                    "Starbucks",
+                    "Fruit Ninja",
+                    "Sprint",
+                    "JavaScript",
+                    "Disqus"
+                ],
+                "DATE": [
+                    "March 2020",
+                    "Today",
+                    "Yesterday",
+                    "the next half an hour",
+                    "every day"
+                ],
+                "GPE": [
+                    "Thailand",
+                    "Barcelona",
+                    "B2C."
+                ],
+                "CARDINAL": [
+                    "12",
+                    "one",
+                    "millions",
+                    "zero"
+                ],
+                "FAC": [
+                    "Disneyland"
+                ],
+                "PERSON": [
+                    "Autonomy Autonomy",
+                    "Product Backlog",
+                    "Mike",
+                    "Kate",
+                    "Jeff",
+                    "Hackathon"
+                ],
+                "TIME": [
+                    "late night",
+                    "6:00 am"
+                ],
+                "PRODUCT": [
+                    "Scrum"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:12:07.832Z",
-    "articleCount": 45,
+    "lastUpdatedAt": "2022-09-12T19:12:27.978Z",
+    "articleCount": 46,
     "$schema": "./src/db.schema.json"
 }
