@@ -197,9 +197,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:50:01.560Z",
             "path": "articles/danielsieger.com/blog-2022-07-25-your-code-doesnt-have-to-be-a-messhtml.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:51:20.110Z",
+            "domain": "brandur.org",
+            "originalUrl": "https://brandur.org/soft-deletion",
+            "slug": "soft-deletion",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:51:20.110Z",
+            "path": "articles/brandur.org/soft-deletion.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:50:01.560Z",
-    "articleCount": 22,
+    "lastUpdatedAt": "2022-09-12T03:51:20.110Z",
+    "articleCount": 23,
     "$schema": "./src/db.schema.json"
 }
