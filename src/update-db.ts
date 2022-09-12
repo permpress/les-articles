@@ -6,7 +6,7 @@ import { getDomainFromUrl } from './get-domain'
 import { generateSlug } from './generate-slug'
 
 const originalUrl = process.argv[2]
-const tags = (process.argv[3] || '').split(',')
+const tags: string[] = Array.isArray(JSON.parse(process.argv[3])) ? JSON.parse(process.argv[3]) : []
 
 if (!originalUrl) {
     console.error(`${chalk.red('✗')} Please provide a URL.`)
