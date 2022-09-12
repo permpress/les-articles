@@ -1,5 +1,13 @@
 name: Download Webpage
-on: workflow_dispatch
+on:
+    workflow_dispatch:
+        inputs:
+            url:
+                description: 'Webpage URL'
+                required: true
+            tags:
+                description: 'Tags to add to the webpage'
+                required: true
 jobs:
     build_infra_dev:
         name: Update
