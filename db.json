@@ -2353,9 +2353,130 @@
                     "RSS"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:06:52.190Z",
+            "domain": "successfulsoftware.net",
+            "originalUrl": "https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/",
+            "slug": "2022-06-19-no-one-knows-what-they-are-doing",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:06:52.190Z",
+            "path": "articles/successfulsoftware.net/2022-06-19-no-one-knows-what-they-are-doing.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "10",
+                    "thousand",
+                    "20/20",
+                    "100",
+                    "1:1",
+                    "2,142",
+                    "2,878,342",
+                    "seven",
+                    "24",
+                    "2",
+                    "1",
+                    "18",
+                    "109",
+                    "12",
+                    "15",
+                    "6",
+                    "14",
+                    "23",
+                    "19",
+                    "4",
+                    "9",
+                    "31",
+                    "141",
+                    "99",
+                    "5",
+                    "7",
+                    "16",
+                    "11",
+                    "25",
+                    "341",
+                    "8)",
+                    "45",
+                    "3",
+                    "13",
+                    "27"
+                ],
+                "NORP": [
+                    "British",
+                    "polish",
+                    "Subscribe"
+                ],
+                "DATE": [
+                    "2005",
+                    "17 years",
+                    "12 July 2012",
+                    "29 December 2008",
+                    "21 April 2008",
+                    "19 June 2022",
+                    "20 June 2022",
+                    "years",
+                    "almost daily",
+                    "21 June 2022",
+                    "22 June 2022",
+                    "32",
+                    "54",
+                    "49",
+                    "QA"
+                ],
+                "ORG": [
+                    "Youtube",
+                    "Toolbars",
+                    "BOS",
+                    "PPC",
+                    "Summerfest",
+                    "Andy Brice Post",
+                    "Easy Data Transform Clean",
+                    "Windows & Mac Free",
+                    "Verifone",
+                    "Search Search",
+                    "Amazon",
+                    "Apple",
+                    "Easy Data Transform",
+                    "Microsoft",
+                    "PayPal",
+                    "a Creative Commons Licence"
+                ],
+                "PERSON": [
+                    "Andy Brice",
+                    "Kierkegaard",
+                    "Andy",
+                    "Qt",
+                    "Startup Founders",
+                    "C++",
+                    "MacOSX",
+                    "malware  "
+                ],
+                "TIME": [
+                    "8:04 am",
+                    "11:22 am “Life",
+                    "10:30 am",
+                    "11:23 am",
+                    "2:23 pm",
+                    "5:08 pm",
+                    "6:42 pm",
+                    "7:15 pm",
+                    "5:25 am",
+                    "30 minute",
+                    "9:46 am"
+                ],
+                "WORK_OF_ART": [
+                    "Hacker News"
+                ],
+                "PRODUCT": [
+                    "Blog Stats",
+                    "Twitter"
+                ],
+                "GPE": [
+                    "UK"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T17:25:17.696Z",
-    "articleCount": 26,
+    "lastUpdatedAt": "2022-09-12T18:06:52.190Z",
+    "articleCount": 27,
     "$schema": "./src/db.schema.json"
 }
