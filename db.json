@@ -5000,9 +5000,114 @@
                     "HTML5"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:35:05.084Z",
+            "domain": "freakingrectangle.com",
+            "originalUrl": "https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/",
+            "slug": "2022-04-15-how-to-freaking-hire-great-developers",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:35:05.084Z",
+            "path": "articles/freakingrectangle.com/2022-04-15-how-to-freaking-hire-great-developers.html",
+            "namedEntities": {
+                "PRODUCT": [
+                    "View menu View",
+                    "Twitter Instagram"
+                ],
+                "DATE": [
+                    "April 15, 2022 August 2, 2022",
+                    "the next several years",
+                    "daily",
+                    "Friday –",
+                    "April 15, 2022",
+                    "April 16, 2022",
+                    "April 25, 2022",
+                    "April 18, 2022",
+                    "Little April 18, 2022",
+                    "today",
+                    "July 29, 2022",
+                    "every day",
+                    "April 19, 2022",
+                    "F. April 22, 2022",
+                    "May 16, 2022",
+                    "July 30, 2022"
+                ],
+                "TIME": [
+                    "the next half hour",
+                    "the first five minutes",
+                    "20 minutes",
+                    "9:12 pm",
+                    "12:31 am",
+                    "2:20 am",
+                    "8:31 am Updated",
+                    "2:41 am",
+                    "1:52 pm",
+                    "11:57 am",
+                    "3:37 pm",
+                    "4:16 pm",
+                    "40-60 minute",
+                    "5:50 pm",
+                    "9:53 pm",
+                    "11:44 am",
+                    "3:17 pm",
+                    "8:00 pm",
+                    "9:54 pm",
+                    "4:47 pm",
+                    "5:40 am",
+                    "5:33 pm",
+                    "5:38 pm",
+                    "4:49 pm",
+                    "7:03 am",
+                    "4:35 pm",
+                    "a minute",
+                    "11:10 am",
+                    "7:01 am",
+                    "7:18 pm",
+                    "30 minutes",
+                    "1-2 minutes",
+                    "8:14 pm"
+                ],
+                "ORG": [
+                    "the white board",
+                    "IDE",
+                    "Better Way",
+                    "AI",
+                    "Previous Post",
+                    "Next Post",
+                    "Lzo Media - Senior Backend Developer",
+                    "Wether",
+                    "IMO",
+                    "CoderPad",
+                    "Reply"
+                ],
+                "PERCENT": [
+                    "95%",
+                    "100%"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "1",
+                    "2",
+                    "around half a dozen",
+                    "one"
+                ],
+                "PERSON": [
+                    "Ian Walsh",
+                    "Googleable",
+                    "Blake Watters",
+                    "Jason Naylor",
+                    "Jason Bourne",
+                    "Reply Long Long",
+                    "Reply",
+                    "Blog"
+                ],
+                "ORDINAL": [
+                    "first"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:32:06.689Z",
-    "articleCount": 55,
+    "lastUpdatedAt": "2022-09-12T21:35:05.084Z",
+    "articleCount": 56,
     "$schema": "./src/db.schema.json"
 }
