@@ -4,12 +4,13 @@ import sys
 import spacy
 from spacy import displacy
 from collections import Counter
+import en_core_web_sm
 import json
 from bs4 import BeautifulSoup
 
 import codecs
 
-nlp = spacy.load("en_core_web_sm")# en_core_web_sm.load()
+nlp = en_core_web_sm.load()
 
 
 def get_named_entities(text):
