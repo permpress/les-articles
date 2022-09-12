@@ -71,9 +71,153 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:32:01.579Z",
             "path": "articles/collabfund.com/blog-save-like-a-pessimist-invest-like-an-optimist.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:33:54.677Z",
+            "domain": "simonwillison.net",
+            "originalUrl": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+            "slug": "2022-aug-29-stable-diffusion",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:33:54.677Z",
+            "path": "articles/simonwillison.net/2022-aug-29-stable-diffusion.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:37:05.977Z",
+            "domain": "browserlondon.com",
+            "originalUrl": "https://www.browserlondon.com/blog/2022/08/30/why-user-stories-belong-in-the-garbage/",
+            "slug": "blog-2022-08-30-why-user-stories-belong-in-the-garbage",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:37:05.977Z",
+            "path": "articles/browserlondon.com/blog-2022-08-30-why-user-stories-belong-in-the-garbage.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:38:10.876Z",
+            "domain": "wagslane.dev",
+            "originalUrl": "https://wagslane.dev/posts/no-one-does-devops/",
+            "slug": "posts-no-one-does-devops",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:38:10.876Z",
+            "path": "articles/wagslane.dev/posts-no-one-does-devops.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:39:10.797Z",
+            "domain": "jvns.ca",
+            "originalUrl": "https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/",
+            "slug": "blog-2022-08-30-a-way-to-categorize-debugging-skills",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:39:10.797Z",
+            "path": "articles/jvns.ca/blog-2022-08-30-a-way-to-categorize-debugging-skills.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:40:03.197Z",
+            "domain": "blog.southparkcommons.com",
+            "originalUrl": "https://blog.southparkcommons.com/move-fast-or-die/",
+            "slug": "move-fast-or-die",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:40:03.197Z",
+            "path": "articles/blog.southparkcommons.com/move-fast-or-die.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:41:15.902Z",
+            "domain": "paulgraham.com",
+            "originalUrl": "http://paulgraham.com/fr.html?utm_source=pocket_mylist",
+            "slug": "frhtmlutmsourcepocketmylist",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:41:15.902Z",
+            "path": "articles/paulgraham.com/frhtmlutmsourcepocketmylist.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:42:20.270Z",
+            "domain": "piratewires.com",
+            "originalUrl": "https://www.piratewires.com/p/jump-23d06adb4cb7",
+            "slug": "p-jump-23d06adb4cb7",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:42:20.270Z",
+            "path": "articles/piratewires.com/p-jump-23d06adb4cb7.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:43:17.314Z",
+            "domain": "alexanderwales.com",
+            "originalUrl": "https://alexanderwales.com/the-ai-art-apocalypse/",
+            "slug": "the-ai-art-apocalypse",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:43:17.314Z",
+            "path": "articles/alexanderwales.com/the-ai-art-apocalypse.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:44:04.774Z",
+            "domain": "lucasfcosta.com",
+            "originalUrl": "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html",
+            "slug": "2022-08-07-how-to-improve-daily-standupshtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:44:04.774Z",
+            "path": "articles/lucasfcosta.com/2022-08-07-how-to-improve-daily-standupshtml.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:46:18.908Z",
+            "domain": "dylanpaulus.com",
+            "originalUrl": "https://www.dylanpaulus.com/advice-for-new-software-engineers/",
+            "slug": "advice-for-new-software-engineers",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:46:18.908Z",
+            "path": "articles/dylanpaulus.com/advice-for-new-software-engineers.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:47:19.978Z",
+            "domain": "specbranch.com",
+            "originalUrl": "https://specbranch.com/posts/one-big-server/",
+            "slug": "posts-one-big-server",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:47:19.978Z",
+            "path": "articles/specbranch.com/posts-one-big-server.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:48:09.481Z",
+            "domain": "gkogan.co",
+            "originalUrl": "https://www.gkogan.co/blog/swamped/",
+            "slug": "blog-swamped",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:48:09.481Z",
+            "path": "articles/gkogan.co/blog-swamped.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:49:27.585Z",
+            "domain": "shekhargulati.com",
+            "originalUrl": "https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/",
+            "slug": "2022-07-08-my-notes-on-gitlabs-postgres-schema-design",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:49:27.585Z",
+            "path": "articles/shekhargulati.com/2022-07-08-my-notes-on-gitlabs-postgres-schema-design.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:50:01.560Z",
+            "domain": "danielsieger.com",
+            "originalUrl": "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html",
+            "slug": "blog-2022-07-25-your-code-doesnt-have-to-be-a-messhtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:50:01.560Z",
+            "path": "articles/danielsieger.com/blog-2022-07-25-your-code-doesnt-have-to-be-a-messhtml.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:51:20.110Z",
+            "domain": "brandur.org",
+            "originalUrl": "https://brandur.org/soft-deletion",
+            "slug": "soft-deletion",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:51:20.110Z",
+            "path": "articles/brandur.org/soft-deletion.html"
+        },
+        {
+            "createdAt": "2022-09-12T12:02:29.055Z",
+            "domain": "johnsalvatier.org",
+            "originalUrl": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+            "slug": "blog-2017-reality-has-a-surprising-amount-of-detail",
+            "tags": [],
+            "updatedAt": "2022-09-12T12:02:29.055Z",
+            "path": "articles/johnsalvatier.org/blog-2017-reality-has-a-surprising-amount-of-detail.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:32:01.579Z",
-    "articleCount": 8,
+    "lastUpdatedAt": "2022-09-12T12:02:29.055Z",
+    "articleCount": 24,
     "$schema": "./src/db.schema.json"
 }
