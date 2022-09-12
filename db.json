@@ -5354,9 +5354,41 @@
                     "Voldemort"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:38:26.837Z",
+            "domain": "rohanrd.xyz",
+            "originalUrl": "https://rohanrd.xyz/posts/why-you-should-start-self-hosting/",
+            "slug": "posts-why-you-should-start-self-hosting",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:38:26.837Z",
+            "path": "articles/rohanrd.xyz/posts-why-you-should-start-self-hosting.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Self Hosting",
+                    "Rohan Deshmukh ← Home Archive Tags"
+                ],
+                "DATE": [
+                    "23, 2022",
+                    "over weekend",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "501",
+                    "millions"
+                ],
+                "TIME": [
+                    "3 minute"
+                ],
+                "ORG": [
+                    "Picasa",
+                    "YouTube",
+                    "Hacker News"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:38:01.209Z",
-    "articleCount": 60,
+    "lastUpdatedAt": "2022-09-12T21:38:26.838Z",
+    "articleCount": 61,
     "$schema": "./src/db.schema.json"
 }
