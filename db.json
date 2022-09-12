@@ -5581,9 +5581,107 @@
                     "English"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:40:42.719Z",
+            "domain": "future.com",
+            "originalUrl": "https://future.com/software-development-building-for-99-developers/",
+            "slug": "software-development-building-for-99-developers",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:40:42.719Z",
+            "path": "articles/future.com/software-development-building-for-99-developers.html",
+            "namedEntities": {
+                "ORG": [
+                    "Crypto & Web3 Marketplaces",
+                    "Building Capital & Fundraising Product,",
+                    "DevOps",
+                    "Microsoft",
+                    "Facebook, Netflix",
+                    "Google",
+                    "Amazon",
+                    "SMB",
+                    "Hive",
+                    "Netflix’s Spinnaker",
+                    "Honeycomb",
+                    "CI",
+                    "GitHub",
+                    "GitLab",
+                    "OpenTelemetry",
+                    "Software",
+                    "Computer Science at Carnegie Mellon University",
+                    "Newsletter Technology"
+                ],
+                "CARDINAL": [
+                    "100",
+                    "hundreds",
+                    "thousands",
+                    "500",
+                    "millions",
+                    "one",
+                    "billions",
+                    "two",
+                    "One"
+                ],
+                "PERSON": [
+                    "Subscribe Top Suggestions",
+                    "Jean Yang",
+                    "Scott Hanselman",
+                    "Netflix",
+                    "Tao",
+                    "Charity Majors",
+                    "Akita Software",
+                    "Subscribe Popular",
+                    "Chris Herd"
+                ],
+                "PERCENT": [
+                    "the 99%",
+                    "60%",
+                    "75%",
+                    "90%",
+                    "99%"
+                ],
+                "PRODUCT": [
+                    "Twitter LinkedIn Facebook Hacker"
+                ],
+                "DATE": [
+                    "daily",
+                    "the last few years",
+                    "decades",
+                    "Today",
+                    "a product day",
+                    "years",
+                    "Day 1",
+                    "the Day 1",
+                    "next quarter",
+                    "the years",
+                    "some quarters later",
+                    "February 16, 2022"
+                ],
+                "LOC": [
+                    "Silicon Valley"
+                ],
+                "LAW": [
+                    "Fortune 500"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "Second"
+                ],
+                "WORK_OF_ART": [
+                    "exemplary"
+                ],
+                "TIME": [
+                    "a few minutes",
+                    "the first 60 seconds",
+                    "the first minute"
+                ],
+                "EVENT": [
+                    "the War for Top Talent"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:40:16.902Z",
-    "articleCount": 63,
+    "lastUpdatedAt": "2022-09-12T21:40:42.719Z",
+    "articleCount": 64,
     "$schema": "./src/db.schema.json"
 }
