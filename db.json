@@ -4033,9 +4033,62 @@
                     "Scrum"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:15:04.503Z",
+            "domain": "austinhenley.com",
+            "originalUrl": "https://austinhenley.com/blog/booksformystudents.html",
+            "slug": "blog-booksformystudentshtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:15:04.503Z",
+            "path": "articles/austinhenley.com/blog-booksformystudentshtml.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Austin Z. Henley Austin Z. Henley",
+                    "@austinzhenley github/AZHenley Home",
+                    "Blog Books",
+                    "Misbehaving",
+                    "Richard Thaler",
+                    "Steve Jobs",
+                    "Edwin",
+                    "Peter Norvig",
+                    "Learn"
+                ],
+                "ORG": [
+                    "Publications",
+                    "Hacker News",
+                    "CS",
+                    "Amazon",
+                    "Edwin Catmull's",
+                    "CTO of Pixar",
+                    "Google",
+                    "NASA",
+                    "Mythical Man-Month",
+                    "Wikipedia",
+                    "AI"
+                ],
+                "CARDINAL": [
+                    "2/29/2020"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "PhD"
+                ],
+                "MONEY": [
+                    "1 penny"
+                ],
+                "GPE": [
+                    "Lucasfilm"
+                ],
+                "DATE": [
+                    "the 1970s"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:12:27.978Z",
-    "articleCount": 46,
+    "lastUpdatedAt": "2022-09-12T19:15:04.503Z",
+    "articleCount": 47,
     "$schema": "./src/db.schema.json"
 }
