@@ -62,6 +62,17 @@ export interface Article {
     updatedAt: string
     path: string
     namedEntities: NamedEntites
+    metaData: MetaData
 }
 
 export type NamedEntites = { [index: string]: string[] }
+interface MetaData {
+    title?: string
+    description?: string
+    image?: string
+    author?: string
+    date?: string
+    publisher?: string
+    url?: string
+    logo?: string
+}

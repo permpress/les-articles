@@ -74,7 +74,7 @@ jobs:
                   pip3 install -U pip setuptools wheel
                   pip3 install -U spacy
                   python3 -m spacy download en_core_web_sm
-                  python3 nex.py ${{ steps.set_variables.outputs.path }}
+                  python3 scripts/nex.py ${{ steps.set_variables.outputs.path }}
 
             - name: Update & Commit changes
               uses: nick-fields/retry@v2

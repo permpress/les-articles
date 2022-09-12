@@ -2,7 +2,7 @@
 import path from 'path'
 import chalk from 'chalk'
 import { Database } from './db.model'
-import { generateSlug, getDomainFromUrl, removeDuplicateEntities } from './helpers'
+import { generateSlug, getDomainFromUrl, getMetadata, getPath, removeDuplicateEntities } from './helpers'
 import fs from 'fs'
 const originalUrl = process.argv[2]
 const tags: string[] = Array.isArray(process.argv[3]) ? process.argv[3] : []
@@ -27,15 +27,18 @@ let getNamedEntities = () => {
 
 let namedEntities = removeDuplicateEntities(getNamedEntities())
 console.log(`${chalk.green('✓')} Named entities: ${JSON.stringify(namedEntities)}`)
-new Database(dbPath).appendArticle({
-    createdAt: new Date().toISOString(),
-    domain,
-    originalUrl,
-    slug,
-    tags,
-    updatedAt: new Date().toISOString(),
-    path: `articles/${domain}/${slug}.html`,
-    namedEntities,
-})
 
-console.log(`${chalk.green('✓')} Added ${chalk.cyan(originalUrl)} to the database.`)
+getMetadata(getPath(originalUrl), originalUrl).then((metaData) => {
+    new Database(dbPath).appendArticle({
+        createdAt: new Date().toISOString(),
+        domain,
+        originalUrl,
+        slug,
+        tags,
+        updatedAt: new Date().toISOString(),
+        path: `articles/${domain}/${slug}.html`,
+        namedEntities,
+        metaData,
+    })
+    console.log(`${chalk.green('✓')} Added ${chalk.cyan(originalUrl)} to the database.`)
+})
