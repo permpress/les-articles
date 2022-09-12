@@ -3765,9 +3765,147 @@
                     "Using Graphs"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:09:02.426Z",
+            "domain": "goteleport.com",
+            "originalUrl": "https://goteleport.com/blog/how-to-ssh-properly/",
+            "slug": "blog-how-to-ssh-properly",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:09:02.426Z",
+            "path": "articles/goteleport.com/blog-how-to-ssh-properly.html",
+            "namedEntities": {
+                "ORG": [
+                    "SSH Security Best Practices",
+                    "SSH",
+                    "-t rsa -b 4096",
+                    "-s host_ca -I",
+                    "DNS",
+                    "FQDN",
+                    "iW9jL0isZrPrmDg/p6Cb6yKnreFEaDFocDhoiIcbUiImIWcp9PJXFOK1Lu8afdeKWJA2f6cC4lnAEq4sA/Phg4xfKMQZUFG5sQ",
+                    "IP",
+                    "RSA SHA256",
+                    "RSA - CERT ID",
+                    "RSA",
+                    "IdentityFile",
+                    "ESTABLISHED -j ACCEPT\n$",
+                    "-s",
+                    "Debian/Ubuntu",
+                    "PAM",
+                    "Save the /etc/pam.d/sshd",
+                    "Teleport",
+                    "the Google Privacy Policy and Terms of Service",
+                    "GitHub",
+                    "Learn Blog Customers Resources Events",
+                    "Security Careers News Status Get",
+                    "Connect Community",
+                    "YouTube",
+                    "2022 Gravitational Inc."
+                ],
+                "CARDINAL": [
+                    "2FA",
+                    "two",
+                    "5.4",
+                    "SHA256",
+                    "8",
+                    "1",
+                    "30",
+                    "737",
+                    "one",
+                    "$",
+                    "49",
+                    "764",
+                    "#",
+                    "50",
+                    "three",
+                    "00 to 2021 - 03",
+                    "21",
+                    "4096",
+                    "3369",
+                    "T16",
+                    "33",
+                    "00",
+                    "34",
+                    "1.2 .3",
+                    "One",
+                    "22",
+                    "2",
+                    "23 16",
+                    "51",
+                    "13",
+                    "29340",
+                    "1.2 .3 .4",
+                    "Zero",
+                    "855",
+                    "818"
+                ],
+                "PERSON": [
+                    "Gus Luxton",
+                    "Raspberry Pi's",
+                    "E|",
+                    "-t rsa - b",
+                    "cDrBSzvSrfOwzkqyzYGHzQhST",
+                    "-s",
+                    "-d -f",
+                    "Lisa Harding Cookie",
+                    "Sakshyam Shah"
+                ],
+                "DATE": [
+                    "the years",
+                    "2010",
+                    "2020-03-16T15:00:00",
+                    "2369",
+                    "52 weeks",
+                    "one year",
+                    "2020 - 03 - 17 T11",
+                    "1 day",
+                    "/home",
+                    "14543",
+                    "53734 ssh2",
+                    "14240",
+                    "42622",
+                    "Every other week",
+                    "today"
+                ],
+                "GPE": [
+                    "host_ca"
+                ],
+                "FAC": [
+                    "16:33 user-key.pub - rw",
+                    "Teleport Teleport",
+                    "Try Teleport",
+                    "Products Teleport Overview Teleport"
+                ],
+                "TIME": [
+                    "16:33",
+                    "19 16:34",
+                    "the next two hours",
+                    "every 30 seconds"
+                ],
+                "MONEY": [
+                    "54 $"
+                ],
+                "PRODUCT": [
+                    "16:33 user-key.pub",
+                    "Google 2",
+                    "-172 -31 -33",
+                    "Add 2-factor"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "first",
+                    "Firstly"
+                ],
+                "QUANTITY": [
+                    "6-digit"
+                ],
+                "WORK_OF_ART": [
+                    "Sharing By Ben Arent View"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:08:55.794Z",
-    "articleCount": 43,
+    "lastUpdatedAt": "2022-09-12T19:09:02.426Z",
+    "articleCount": 44,
     "$schema": "./src/db.schema.json"
 }
