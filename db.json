@@ -6236,9 +6236,141 @@
                     "only $15.99"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:44:21.806Z",
+            "domain": "fastcompany.com",
+            "originalUrl": "https://www.fastcompany.com/90703553/this-career-path-belongs-to-ambitious-introverts",
+            "slug": "90703553-this-career-path-belongs-to-ambitious-introverts",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:44:21.806Z",
+            "path": "articles/fastcompany.com/90703553-this-career-path-belongs-to-ambitious-introverts.html",
+            "namedEntities": {
+                "ORG": [
+                    "IBM Homepage Co.Design Tech Work Life News Impact Podcasts Video Live Event",
+                    "AWS Deloitte Dept Elevate Prize",
+                    "IBM",
+                    "Fast Company's",
+                    "FC Executive Board",
+                    "Innovative Companies Fast Company's",
+                    "World Changing Ideas",
+                    "Newsletter Events Innovation Festival Courses and Learning Advertise Current Issue SUBSCRIBE Follow",
+                    "Personality And Individual Differences",
+                    "OG Mihaly Csikszentmihalyi",
+                    "TikTok",
+                    "BRISTOL MYERS",
+                    "EEG",
+                    "Apple",
+                    "iPhone",
+                    "MTA",
+                    "Valve’s Steam Deck",
+                    "FTC",
+                    "Sci",
+                    "SIM",
+                    "Brands Are Betting Billions",
+                    "Google",
+                    "Congress",
+                    "Knoll",
+                    "Tech",
+                    "News Citi’s",
+                    "Co.Design Co.Design",
+                    "DEI intentions",
+                    "Advertise Privacy Policy Terms Notice of Collection Do Not Sell My Data Permissions",
+                    "Map Fast Company & Inc"
+                ],
+                "PERSON": [
+                    "Klarna Visa",
+                    "jasmin chew /Pexels]",
+                    "Nick Wolny",
+                    "Tingshu Liu",
+                    "Zoom",
+                    "Michaela Coel",
+                    "Featured Video",
+                    "Wendy",
+                    "Clintons",
+                    "Gen Z",
+                    "Eric Yuan",
+                    "How Juul",
+                    "Can Hebbia",
+                    "Marc Newson",
+                    "Queen Elizabeth’s",
+                    "Midjourney",
+                    "Mansueto Ventures"
+                ],
+                "DATE": [
+                    "annual",
+                    "a couple thousand years",
+                    "last year",
+                    "today",
+                    "tomorrow",
+                    "six months or a year ago",
+                    "months",
+                    "years",
+                    "these days",
+                    "earlier this year",
+                    "a day",
+                    "Today",
+                    "2018",
+                    "25-Year-Old",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "12",
+                    "3",
+                    "four",
+                    "one",
+                    "two",
+                    "millions",
+                    "thousand",
+                    "500",
+                    "9/23",
+                    "01",
+                    "02",
+                    "03",
+                    "04",
+                    "05",
+                    "8",
+                    "6",
+                    "14",
+                    "One",
+                    "16",
+                    "thousands",
+                    "eight"
+                ],
+                "GPE": [
+                    "BS",
+                    "U.S.",
+                    "America",
+                    "Germany",
+                    "Design AI"
+                ],
+                "PERCENT": [
+                    "Sixty-five percent",
+                    "0%",
+                    "100%"
+                ],
+                "QUANTITY": [
+                    "two degrees",
+                    "12 degrees"
+                ],
+                "NORP": [
+                    "Avengers",
+                    "French",
+                    "Democrats",
+                    "British",
+                    "Nationalists"
+                ],
+                "TIME": [
+                    "0 seconds of 3 minutes, 9 seconds"
+                ],
+                "WORK_OF_ART": [
+                    "More Top Stories",
+                    "Exclusive: Zoom"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:44:09.323Z",
-    "articleCount": 67,
+    "lastUpdatedAt": "2022-09-12T21:44:21.806Z",
+    "articleCount": 68,
     "$schema": "./src/db.schema.json"
 }
