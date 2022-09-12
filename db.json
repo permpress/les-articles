@@ -4181,9 +4181,54 @@
                     "P.S."
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:16:35.990Z",
+            "domain": "daveceddia.com",
+            "originalUrl": "https://daveceddia.com/interview-questions-to-ask-company/",
+            "slug": "interview-questions-to-ask-company",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:16:35.990Z",
+            "path": "articles/daveceddia.com/interview-questions-to-ask-company.html",
+            "namedEntities": {
+                "DATE": [
+                    "February 08, 2022",
+                    "Snow days",
+                    "Annual",
+                    "2022"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "Kyle Shevlin",
+                    "Zoom",
+                    "Mark Erikson",
+                    "Address Subscribe",
+                    "Dave Ceddia’s",
+                    "Alan Lavender",
+                    "Login Add Comment M",
+                    "Dave Ceddia"
+                ],
+                "TIME": [
+                    "5 minute",
+                    "5-minute",
+                    "hours"
+                ],
+                "CARDINAL": [
+                    "2",
+                    "one",
+                    "90"
+                ],
+                "ORG": [
+                    "SOX",
+                    "Markdown Commento"
+                ],
+                "GPE": [
+                    "London"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:16:28.388Z",
-    "articleCount": 48,
+    "lastUpdatedAt": "2022-09-12T19:16:35.990Z",
+    "articleCount": 49,
     "$schema": "./src/db.schema.json"
 }
