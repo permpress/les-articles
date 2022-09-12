@@ -26,9 +26,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T02:48:20.924Z",
             "path": "articles/joshcollinsworth.com/blog-self-fulfilling-prophecy-of-react.html"
+        },
+        {
+            "createdAt": "2022-09-12T02:50:27.307Z",
+            "domain": "cooking.nytimes.com",
+            "originalUrl": "https://cooking.nytimes.com/recipes/1018097-kimchi-fried-rice",
+            "slug": "recipes-1018097-kimchi-fried-rice",
+            "tags": [],
+            "updatedAt": "2022-09-12T02:50:27.307Z",
+            "path": "articles/cooking.nytimes.com/recipes-1018097-kimchi-fried-rice.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T02:48:20.924Z",
-    "articleCount": 3,
+    "lastUpdatedAt": "2022-09-12T02:50:27.308Z",
+    "articleCount": 4,
     "$schema": "./src/db.schema.json"
 }
