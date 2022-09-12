@@ -5266,9 +5266,40 @@
                     "Docker Hub"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:35:52.247Z",
+            "domain": "schroer.ca",
+            "originalUrl": "https://schroer.ca/2022/04/10/the-joy-of-small-projects/",
+            "slug": "2022-04-10-the-joy-of-small-projects",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:35:52.247Z",
+            "path": "articles/schroer.ca/2022-04-10-the-joy-of-small-projects.html",
+            "namedEntities": {
+                "PRODUCT": [
+                    "Blog Schroer Archive"
+                ],
+                "ORG": [
+                    "Size",
+                    "Going Deeper Start"
+                ],
+                "DATE": [
+                    "multiple days",
+                    "weeks"
+                ],
+                "CARDINAL": [
+                    "two"
+                ],
+                "TIME": [
+                    "hours"
+                ],
+                "MONEY": [
+                    "millions of dollars"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:35:40.101Z",
-    "articleCount": 58,
+    "lastUpdatedAt": "2022-09-12T21:35:52.248Z",
+    "articleCount": 59,
     "$schema": "./src/db.schema.json"
 }
