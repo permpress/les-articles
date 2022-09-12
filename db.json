@@ -215,9 +215,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T12:02:29.055Z",
             "path": "articles/johnsalvatier.org/blog-2017-reality-has-a-surprising-amount-of-detail.html"
+        },
+        {
+            "createdAt": "2022-09-12T12:03:24.961Z",
+            "domain": "psyche.co",
+            "originalUrl": "https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid",
+            "slug": "ideas-why-some-of-the-smartest-people-can-be-so-very-stupid",
+            "tags": [],
+            "updatedAt": "2022-09-12T12:03:24.961Z",
+            "path": "articles/psyche.co/ideas-why-some-of-the-smartest-people-can-be-so-very-stupid.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T12:02:29.055Z",
-    "articleCount": 24,
+    "lastUpdatedAt": "2022-09-12T12:03:24.961Z",
+    "articleCount": 25,
     "$schema": "./src/db.schema.json"
 }
