@@ -5105,9 +5105,94 @@
                     "first"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:35:28.810Z",
+            "domain": "danluu.com",
+            "originalUrl": "https://danluu.com/simple-architectures/",
+            "slug": "simple-architectures",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:35:28.810Z",
+            "path": "articles/danluu.com/simple-architectures.html",
+            "namedEntities": {
+                "ORG": [
+                    "Wave",
+                    "Stackoverflow",
+                    "Alexa",
+                    "quantum computing",
+                    "Python",
+                    "CPU",
+                    "SQLAlchemy",
+                    "Redis",
+                    "CTO",
+                    "API",
+                    "UDP",
+                    "USSD",
+                    "Pythonic",
+                    "Apollo-Android",
+                    "Sierra Rotimi-Williams"
+                ],
+                "MONEY": [
+                    "1.7B",
+                    "1.8B.",
+                    "1.7B."
+                ],
+                "CARDINAL": [
+                    "70",
+                    "100",
+                    "six",
+                    "zero",
+                    "one",
+                    "billions",
+                    "3",
+                    "40",
+                    "two",
+                    "three"
+                ],
+                "GPE": [
+                    "Postgres",
+                    "SF",
+                    "Python",
+                    "Senegal",
+                    "Uganda",
+                    "DB",
+                    "Kubernetes",
+                    "Mali"
+                ],
+                "DATE": [
+                    "2013",
+                    "75k",
+                    "the first few months",
+                    "today"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "Eventlet",
+                    "Python",
+                    "Default GQL",
+                    "Ben Kuhn",
+                    "June Seif",
+                    "Kamal Marhubi",
+                    "Ruthie Byers",
+                    "Lincoln Quirk",
+                    "Calum Ball",
+                    "John Hergenroeder",
+                    "Bill Mill",
+                    "Finbarr Timbers"
+                ],
+                "PRODUCT": [
+                    "Celery"
+                ],
+                "NORP": [
+                    "African"
+                ],
+                "LOC": [
+                    "Africa"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:35:05.084Z",
-    "articleCount": 56,
+    "lastUpdatedAt": "2022-09-12T21:35:28.810Z",
+    "articleCount": 57,
     "$schema": "./src/db.schema.json"
 }
