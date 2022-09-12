@@ -125,9 +125,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:41:15.902Z",
             "path": "articles/paulgraham.com/frhtmlutmsourcepocketmylist.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:42:20.270Z",
+            "domain": "piratewires.com",
+            "originalUrl": "https://www.piratewires.com/p/jump-23d06adb4cb7",
+            "slug": "p-jump-23d06adb4cb7",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:42:20.270Z",
+            "path": "articles/piratewires.com/p-jump-23d06adb4cb7.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:41:15.902Z",
-    "articleCount": 14,
+    "lastUpdatedAt": "2022-09-12T03:42:20.270Z",
+    "articleCount": 15,
     "$schema": "./src/db.schema.json"
 }
