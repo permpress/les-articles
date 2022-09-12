@@ -89,9 +89,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:37:05.977Z",
             "path": "articles/browserlondon.com/blog-2022-08-30-why-user-stories-belong-in-the-garbage.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:38:10.876Z",
+            "domain": "wagslane.dev",
+            "originalUrl": "https://wagslane.dev/posts/no-one-does-devops/",
+            "slug": "posts-no-one-does-devops",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:38:10.876Z",
+            "path": "articles/wagslane.dev/posts-no-one-does-devops.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:37:05.977Z",
-    "articleCount": 10,
+    "lastUpdatedAt": "2022-09-12T03:38:10.877Z",
+    "articleCount": 11,
     "$schema": "./src/db.schema.json"
 }
