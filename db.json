@@ -134,9 +134,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:42:20.270Z",
             "path": "articles/piratewires.com/p-jump-23d06adb4cb7.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:43:17.314Z",
+            "domain": "alexanderwales.com",
+            "originalUrl": "https://alexanderwales.com/the-ai-art-apocalypse/",
+            "slug": "the-ai-art-apocalypse",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:43:17.314Z",
+            "path": "articles/alexanderwales.com/the-ai-art-apocalypse.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:42:20.270Z",
-    "articleCount": 15,
+    "lastUpdatedAt": "2022-09-12T03:43:17.314Z",
+    "articleCount": 16,
     "$schema": "./src/db.schema.json"
 }
