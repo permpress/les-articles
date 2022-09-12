@@ -3383,9 +3383,51 @@
                     "First"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:08:09.820Z",
+            "domain": "dhwthompson.com",
+            "originalUrl": "https://dhwthompson.com/2019/my-favourite-git-commit",
+            "slug": "2019-my-favourite-git-commit",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:08:09.820Z",
+            "path": "articles/dhwthompson.com/2019-my-favourite-git-commit.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Git",
+                    "Dan Carley",
+                    "Convert",
+                    "Dan",
+                    "rspec modules",
+                    "Tekin Süleyman"
+                ],
+                "DATE": [
+                    "30, 2019"
+                ],
+                "ORG": [
+                    "the Government Digital Service",
+                    "GDS",
+                    "GitHub",
+                    "MIME"
+                ],
+                "GPE": [
+                    "US"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "One"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "TIME": [
+                    "One hour",
+                    "an hour"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:08:06.804Z",
-    "articleCount": 38,
+    "lastUpdatedAt": "2022-09-12T19:08:09.820Z",
+    "articleCount": 39,
     "$schema": "./src/db.schema.json"
 }
