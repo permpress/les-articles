@@ -3175,9 +3175,89 @@
                     "Instagram"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:37:27.090Z",
+            "domain": "theprofile.substack.com",
+            "originalUrl": "https://theprofile.substack.com/p/3-ways-to-attract-more-luck-into",
+            "slug": "p-3-ways-to-attract-more-luck-into",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:37:27.090Z",
+            "path": "articles/theprofile.substack.com/p-3-ways-to-attract-more-luck-into.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "3",
+                    "three",
+                    "1.",
+                    "two",
+                    "2.",
+                    "two to three",
+                    "3.",
+                    "36",
+                    "24",
+                    "0"
+                ],
+                "ORG": [
+                    "Ways to Attract More Luck Into Your Life The Profile Subscribe Sign",
+                    "Hanlon’s Razor",
+                    "Profile",
+                    "Collapse Top New Community",
+                    "Couples Share",
+                    "The Profile Privacy ∙",
+                    "JavaScript"
+                ],
+                "PERSON": [
+                    "George Mack",
+                    "Polina Pompliano",
+                    "Mack",
+                    "Luck",
+                    "Josh Wolfe",
+                    "Jim Watson",
+                    "Bezos",
+                    "Netflix",
+                    "Mindset Roulette",
+                    "Dale Carnegie",
+                    "Jalan Aug",
+                    "Maria Konnikova",
+                    "Reply Gift",
+                    "Polina Pompliano Jul"
+                ],
+                "TIME": [
+                    "the 10,000 hour",
+                    "tonight",
+                    "one hour",
+                    "hourly",
+                    "evening"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "GPE": [
+                    "Flywheel",
+                    "U.K."
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "DATE": [
+                    "2021",
+                    "24",
+                    "the first 90 days",
+                    "16",
+                    "2022"
+                ],
+                "WORK_OF_ART": [
+                    "\"The Biggest Bluff\"",
+                    "Polina Pompliano Dec 23, 2020 52 9 See all Ready for more?"
+                ],
+                "EVENT": [
+                    "the World “Blood"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:36:29.475Z",
-    "articleCount": 34,
+    "lastUpdatedAt": "2022-09-12T18:37:27.090Z",
+    "articleCount": 35,
     "$schema": "./src/db.schema.json"
 }
