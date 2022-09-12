@@ -8,9 +8,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T02:18:05.656Z",
             "path": "articles/joshwcomeau.com/react-why-react-re-renders.html"
+        },
+        {
+            "createdAt": "2022-09-12T02:23:06.843Z",
+            "domain": "joshwcomeau.com",
+            "originalUrl": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+            "slug": "react-why-react-re-renders",
+            "tags": [],
+            "updatedAt": "2022-09-12T02:23:06.844Z",
+            "path": "articles/joshwcomeau.com/react-why-react-re-renders.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T02:18:05.656Z",
-    "articleCount": 1,
+    "lastUpdatedAt": "2022-09-12T02:23:06.844Z",
+    "articleCount": 2,
     "$schema": "./src/db.schema.json"
 }
