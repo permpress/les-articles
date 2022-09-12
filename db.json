@@ -4526,9 +4526,48 @@
                     "136"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:16:39.161Z",
+            "domain": "vaghetti.dev",
+            "originalUrl": "https://vaghetti.dev/posts/times-are-great/",
+            "slug": "posts-times-are-great",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:16:39.161Z",
+            "path": "articles/vaghetti.dev/posts-times-are-great.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Douglas Vaghetti",
+                    "Jeff Besos",
+                    "Wanna"
+                ],
+                "DATE": [
+                    "February 20, 2022",
+                    "the last couple of years",
+                    "decades",
+                    "the 90s"
+                ],
+                "LOC": [
+                    "Asia"
+                ],
+                "CARDINAL": [
+                    "#",
+                    "14"
+                ],
+                "ORG": [
+                    "IDE"
+                ],
+                "PERCENT": [
+                    "5%"
+                ],
+                "GPE": [
+                    "AI",
+                    "RSS"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:16:37.354Z",
-    "articleCount": 50,
+    "lastUpdatedAt": "2022-09-12T19:16:39.161Z",
+    "articleCount": 51,
     "$schema": "./src/db.schema.json"
 }
