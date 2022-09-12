@@ -3577,9 +3577,101 @@
                     "the Bronze Garbage Collector"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:08:37.745Z",
+            "domain": "thenewstack.io",
+            "originalUrl": "https://thenewstack.io/git-at-15-how-git-changed-the-way-we-code/",
+            "slug": "git-at-15-how-git-changed-the-way-we-code",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:08:37.745Z",
+            "path": "articles/thenewstack.io/git-at-15-how-git-changed-the-way-we-code.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "15",
+                    "one",
+                    "no more than three seconds",
+                    "1",
+                    "One"
+                ],
+                "ORG": [
+                    "CI",
+                    "BitKeeper",
+                    "Linus Torvalds",
+                    "Linux",
+                    "Torvalds",
+                    "git",
+                    "VCS",
+                    "Version Control Systems",
+                    "GitLab",
+                    "SVN",
+                    "IBM Rational ClearCase",
+                    "CLI",
+                    "GitHub",
+                    "the Future Hold",
+                    "Danic",
+                    "Group Created",
+                    "Amazon",
+                    "IGA",
+                    "Identity Governance & Administration Explained",
+                    "SSH"
+                ],
+                "PERSON": [
+                    "Git",
+                    "Jack Wallen",
+                    "Larry McVoy",
+                    "Linux",
+                    "Linux kernel",
+                    "Torvalds",
+                    "Mario Danic",
+                    "Sean Callen",
+                    "Toss GitHub",
+                    "Callen",
+                    "Nextcloud",
+                    "Callan",
+                    "Danic",
+                    "Bryan Cantrill",
+                    "Docker Containers",
+                    "Zendesk"
+                ],
+                "ORDINAL": [
+                    "15th",
+                    "7th",
+                    "third"
+                ],
+                "DATE": [
+                    "2020 3:00am",
+                    "Fifteen years ago",
+                    "April 7, 2005",
+                    "2018",
+                    "the last year",
+                    "those early days",
+                    "the years",
+                    "2 September 2022",
+                    "1 September 2022",
+                    "31 August 2022",
+                    "September 2022",
+                    "August 2022",
+                    "16 August 2022",
+                    "2022",
+                    "week"
+                ],
+                "GPE": [
+                    "Linux"
+                ],
+                "PERCENT": [
+                    "87.2%"
+                ],
+                "WORK_OF_ART": [
+                    "Formats Explained Insights From Our Sponsors 12 PCI DSS Compliance Requirements Explained"
+                ],
+                "NORP": [
+                    "Checklist"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:08:29.844Z",
-    "articleCount": 41,
+    "lastUpdatedAt": "2022-09-12T19:08:37.745Z",
+    "articleCount": 42,
     "$schema": "./src/db.schema.json"
 }
