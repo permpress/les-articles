@@ -28,6 +28,7 @@ export class Database {
         this.articleCount = this.articles.length
         this.lastUpdatedAt = new Date().toISOString()
         this.write()
+        this.updateArchive()
     }
 
     write() {
@@ -38,6 +39,17 @@ export class Database {
             $schema: this.$schema,
         }
         fs.writeFileSync('./db.json', JSON.stringify(db, null, 4))
+    }
+
+    updateArchive() {
+        fs.writeFileSync(
+            './db.archive.json',
+            JSON.stringify(
+                this.articles.map(({ originalUrl }) => originalUrl),
+                null,
+                4,
+            ),
+        )
     }
 }
 
