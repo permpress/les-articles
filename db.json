@@ -2767,9 +2767,112 @@
                     "The Best American Essays"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:28:07.770Z",
+            "domain": "medium.com",
+            "originalUrl": "https://medium.com/@sfard/the-greatest-privilege-we-hardly-talk-about-beauty-7db3f70c1116",
+            "slug": "sfard-the-greatest-privilege-we-hardly-talk-about-beauty-7db3f70c1116",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:28:07.770Z",
+            "path": "articles/medium.com/sfard-the-greatest-privilege-we-hardly-talk-about-beauty-7db3f70c1116.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Saeid Fard",
+                    "Saeid Fard Jul",
+                    "Dewolf",
+                    "Tanke",
+                    "Thornton",
+                    "Dove",
+                    "Jenna Talackova",
+                    "Jenna",
+                    "Cinderella",
+                    "Saeid Fard Follow Founder",
+                    "Twitter",
+                    "Dick",
+                    "Questioning Meron",
+                    "Nic Cruithne",
+                    "Thomas St Thomas",
+                    "Shoaib Yamin Clothes",
+                    "Gmail",
+                    "Isaiah McCall"
+                ],
+                "ORG": [
+                    "Medium Home Notifications Lists Stories Write",
+                    "Universe Canada",
+                    "WTO",
+                    "Helping ALS Research",
+                    "Self, Community, & Ethical Action Sameness/Differences, Learning",
+                    "Todd Hendricks Black Women Are Leading The Movement",
+                    "Yard Couch YouTube"
+                ],
+                "DATE": [
+                    "2020",
+                    "2013",
+                    "2014",
+                    "1991",
+                    "10x",
+                    "five year olds",
+                    "the past few decades",
+                    "today",
+                    "a century ago",
+                    "24",
+                    "a few weeks",
+                    "century-long",
+                    "Jan 5, 2019",
+                    "15, 2018",
+                    "the early 1990s",
+                    "daily",
+                    "1999",
+                    "Nov 5, 2017",
+                    "several-months-long",
+                    "Sep 27, 2014",
+                    "26, 2014"
+                ],
+                "CARDINAL": [
+                    "8",
+                    "two",
+                    "2011–2016",
+                    "One",
+                    "10",
+                    "five",
+                    "one",
+                    "916",
+                    "millions"
+                ],
+                "LOC": [
+                    "Kanasawa"
+                ],
+                "PERCENT": [
+                    "120–305 percent",
+                    "19%",
+                    "120%"
+                ],
+                "NORP": [
+                    "European"
+                ],
+                "GPE": [
+                    "Vancouver",
+                    "Hollywood",
+                    "Seattle",
+                    "Thinking"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "Medium Aug",
+                    "Love",
+                    "Medium Marissa Vang",
+                    "Medium Eldar Jahijagic"
+                ],
+                "FAC": [
+                    "Unsafe Space Equality Does Not Require Sameness Ivette Rodriguez"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:26:24.524Z",
-    "articleCount": 30,
+    "lastUpdatedAt": "2022-09-12T18:28:07.770Z",
+    "articleCount": 31,
     "$schema": "./src/db.schema.json"
 }
