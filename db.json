@@ -4607,9 +4607,75 @@
                     "two"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:16:52.809Z",
+            "domain": "brandur.org",
+            "originalUrl": "https://brandur.org/graphql",
+            "slug": "graphql",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:16:52.809Z",
+            "path": "articles/brandur.org/graphql.html",
+            "namedEntities": {
+                "DATE": [
+                    "Published June 8, 2018",
+                    "2015",
+                    "2016",
+                    "years",
+                    "today"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "Batch",
+                    "getUser"
+                ],
+                "PRODUCT": [
+                    "Discovery"
+                ],
+                "ORG": [
+                    "API",
+                    "GitHub",
+                    "Amazon",
+                    "Dropbox",
+                    "Google",
+                    "Microsoft",
+                    "Stripe",
+                    "Twilio",
+                    "REST",
+                    "SQL",
+                    "HTTP",
+                    "ID",
+                    "GraphQL",
+                    "Shopify’s",
+                    "CORS",
+                    "JavaScript",
+                    "Hacker News"
+                ],
+                "ORDINAL": [
+                    "third",
+                    "fourth",
+                    "first",
+                    "second"
+                ],
+                "CARDINAL": [
+                    "three",
+                    "1",
+                    "two",
+                    "one",
+                    "up to four",
+                    "4+",
+                    "only five"
+                ],
+                "WORK_OF_ART": [
+                    "Docs"
+                ],
+                "PERCENT": [
+                    "99%"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:16:44.825Z",
-    "articleCount": 52,
+    "lastUpdatedAt": "2022-09-12T19:16:52.809Z",
+    "articleCount": 53,
     "$schema": "./src/db.schema.json"
 }
