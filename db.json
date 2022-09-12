@@ -48,8 +48,17 @@
                     "August 16th",
                     "2020"
                 ],
-                "GPE": ["React", "Format", "class=\"prefix\">Count:</span", "India"],
-                "ORDINAL": ["first", "First", "90th"],
+                "GPE": [
+                    "React",
+                    "Format",
+                    "class=\"prefix\">Count:</span",
+                    "India"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "First",
+                    "90th"
+                ],
                 "PERSON": [
                     "Playground Reset",
                     "Escape You",
@@ -68,12 +77,32 @@
                     "Joshua Comeau",
                     "Nah"
                 ],
-                "PRODUCT": ["Refresh", "Twitter"],
-                "CARDINAL": ["3", "0 to 1", "two", "one", "5", "1", "One", "#"],
-                "PERCENT": ["100%"],
-                "QUANTITY": ["a ton"],
-                "EVENT": ["⌘ + Option +"],
-                "LOC": ["React Europe"]
+                "PRODUCT": [
+                    "Refresh",
+                    "Twitter"
+                ],
+                "CARDINAL": [
+                    "3",
+                    "0 to 1",
+                    "two",
+                    "one",
+                    "5",
+                    "1",
+                    "One",
+                    "#"
+                ],
+                "PERCENT": [
+                    "100%"
+                ],
+                "QUANTITY": [
+                    "a ton"
+                ],
+                "EVENT": [
+                    "⌘ + Option +"
+                ],
+                "LOC": [
+                    "React Europe"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -95,12 +124,26 @@
             "updatedAt": "2022-09-12T14:35:07.612Z",
             "path": "articles/jacobian.org/2022-sep-9-quality-is-systemic.html",
             "namedEntities": {
-                "LAW": ["Footnote 1", "Professionalism Wrap Up and Q&A What"],
-                "CARDINAL": ["two"],
-                "PERSON": ["W. Edwards Deming’s", "© Jacob Kaplan-Moss"],
-                "ORG": ["@jacobian"],
-                "DATE": ["September 9th, 2022"],
-                "FAC": ["Algorithm"]
+                "LAW": [
+                    "Footnote 1",
+                    "Professionalism Wrap Up and Q&A What"
+                ],
+                "CARDINAL": [
+                    "two"
+                ],
+                "PERSON": [
+                    "W. Edwards Deming’s",
+                    "© Jacob Kaplan-Moss"
+                ],
+                "ORG": [
+                    "@jacobian"
+                ],
+                "DATE": [
+                    "September 9th, 2022"
+                ],
+                "FAC": [
+                    "Algorithm"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -174,12 +217,36 @@
                     "three years",
                     "recent years"
                 ],
-                "CARDINAL": ["one", "1:1", "two", "at least two", "over 100", "at least six", "One"],
-                "GPE": ["Vue", "React", "Omaha", "Nebraska", "Gridsome"],
-                "PERCENT": ["75%", "50%", "80%"],
-                "PRODUCT": ["Legend of Zelda"],
-                "FAC": ["JavaScript"],
-                "MONEY": ["2015–2022"]
+                "CARDINAL": [
+                    "one",
+                    "1:1",
+                    "two",
+                    "at least two",
+                    "over 100",
+                    "at least six",
+                    "One"
+                ],
+                "GPE": [
+                    "Vue",
+                    "React",
+                    "Omaha",
+                    "Nebraska",
+                    "Gridsome"
+                ],
+                "PERCENT": [
+                    "75%",
+                    "50%",
+                    "80%"
+                ],
+                "PRODUCT": [
+                    "Legend of Zelda"
+                ],
+                "FAC": [
+                    "JavaScript"
+                ],
+                "MONEY": [
+                    "2015–2022"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -297,10 +364,37 @@
                     "Subscribe",
                     "The New York Times Company Terms of Service Privacy Policy"
                 ],
-                "CARDINAL": ["223", "2", "1", "3", "5", "35", "291", "four", "two", "128", "78"],
-                "NORP": ["Koreans", "American", "Korean", "Brazilian", "Filipino"],
-                "QUANTITY": ["1 cup", "6 ounces"],
-                "GPE": ["kimchi", "2 Break", "White Kimchi", "Maqluba", "Turkey"],
+                "CARDINAL": [
+                    "223",
+                    "2",
+                    "1",
+                    "3",
+                    "5",
+                    "35",
+                    "291",
+                    "four",
+                    "two",
+                    "128",
+                    "78"
+                ],
+                "NORP": [
+                    "Koreans",
+                    "American",
+                    "Korean",
+                    "Brazilian",
+                    "Filipino"
+                ],
+                "QUANTITY": [
+                    "1 cup",
+                    "6 ounces"
+                ],
+                "GPE": [
+                    "kimchi",
+                    "2 Break",
+                    "White Kimchi",
+                    "Maqluba",
+                    "Turkey"
+                ],
                 "TIME": [
                     "about 2 minutes",
                     "about 3 minutes",
@@ -320,7 +414,12 @@
                     "2 1/2 hours",
                     "2 hours"
                 ],
-                "DATE": ["season", "5 2797", "4 years ago", "Christmas"],
+                "DATE": [
+                    "season",
+                    "5 2797",
+                    "4 years ago",
+                    "Christmas"
+                ],
                 "LAW": [
                     "Tomato Fried Rice Hetty McKinnon Kimbap Darun Kwak Rice Bowl With Oven-Baked Miso Tofu Martha Rose Shulman"
                 ]
@@ -345,13 +444,41 @@
             "updatedAt": "2022-09-12T14:35:11.637Z",
             "path": "articles/matthewbilyeu.com/blog-2022-09-01-responding-to-recruiter-emails-with-gpt-3.html",
             "namedEntities": {
-                "ORG": ["GPT-3", "Apple Computer Company", "API"],
-                "PERSON": ["Matt", "Steve Jobs", "Steve", "loads", "Playground", "Jekyll", "Tale"],
-                "DATE": ["September 01, 2022", "each week", "2022"],
-                "CARDINAL": ["four", "#", "20", "0"],
-                "TIME": ["two minutes", "about seven hours"],
-                "PRODUCT": ["GPT-3"],
-                "ORDINAL": ["first"]
+                "ORG": [
+                    "GPT-3",
+                    "Apple Computer Company",
+                    "API"
+                ],
+                "PERSON": [
+                    "Matt",
+                    "Steve Jobs",
+                    "Steve",
+                    "loads",
+                    "Playground",
+                    "Jekyll",
+                    "Tale"
+                ],
+                "DATE": [
+                    "September 01, 2022",
+                    "each week",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "four",
+                    "#",
+                    "20",
+                    "0"
+                ],
+                "TIME": [
+                    "two minutes",
+                    "about seven hours"
+                ],
+                "PRODUCT": [
+                    "GPT-3"
+                ],
+                "ORDINAL": [
+                    "first"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -373,7 +500,10 @@
             "updatedAt": "2022-09-12T14:35:13.097Z",
             "path": "articles/martinheinz.dev/blog-79.html",
             "namedEntities": {
-                "PERSON": ["Martin Heinz", "Python"],
+                "PERSON": [
+                    "Martin Heinz",
+                    "Python"
+                ],
                 "CARDINAL": [
                     "15",
                     "3.8",
@@ -413,9 +543,32 @@
                     "Optional",
                     "Martin Heinz Home Contact Subscribe"
                 ],
-                "ORDINAL": ["first", "First", "second", "1st", "2nd", "Second"],
-                "DATE": ["2nd", "9", "12", "20", "60", "today", "Today", "2022-07-01", "Friday", "datetime.today", "4", "3"],
-                "MONEY": ["# False #", "12"]
+                "ORDINAL": [
+                    "first",
+                    "First",
+                    "second",
+                    "1st",
+                    "2nd",
+                    "Second"
+                ],
+                "DATE": [
+                    "2nd",
+                    "9",
+                    "12",
+                    "20",
+                    "60",
+                    "today",
+                    "Today",
+                    "2022-07-01",
+                    "Friday",
+                    "datetime.today",
+                    "4",
+                    "3"
+                ],
+                "MONEY": [
+                    "# False #",
+                    "12"
+                ]
             },
             "metadata": {
                 "author": "Martin Heinz",
@@ -455,7 +608,18 @@
                     "Clean Coders",
                     "Twitter Bootstrap"
                 ],
-                "CARDINAL": ["one", "21", "five", "NoSQL", "millions", "million", "ten million", "fifty", "#", "One"],
+                "CARDINAL": [
+                    "one",
+                    "21",
+                    "five",
+                    "NoSQL",
+                    "millions",
+                    "million",
+                    "ten million",
+                    "fifty",
+                    "#",
+                    "One"
+                ],
                 "DATE": [
                     "around 28 years",
                     "24",
@@ -470,12 +634,29 @@
                     "Monday",
                     "14 September 2020"
                 ],
-                "ORDINAL": ["first", "second", "third", "fourth", "fifth"],
-                "GPE": ["Entscheidungsproblem", "Denmark"],
-                "NORP": ["Danish"],
-                "PRODUCT": ["Twitter"],
-                "TIME": ["05:46:00"],
-                "WORK_OF_ART": ["Code That Fits"]
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third",
+                    "fourth",
+                    "fifth"
+                ],
+                "GPE": [
+                    "Entscheidungsproblem",
+                    "Denmark"
+                ],
+                "NORP": [
+                    "Danish"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "TIME": [
+                    "05:46:00"
+                ],
+                "WORK_OF_ART": [
+                    "Code That Fits"
+                ]
             },
             "metadata": {
                 "author": "Mark Seemann",
@@ -573,13 +754,32 @@
                     "134,217,728",
                     "Three"
                 ],
-                "GPE": ["Gates"],
-                "ORDINAL": ["first"],
-                "TIME": ["eight hours", "a few seconds"],
-                "PERCENT": ["1%", "0.5%", "2%", "8+8+8+8+8+8+8+8+8"],
-                "WORK_OF_ART": ["The End is Always Near", "The Psychology of Money"],
-                "NORP": ["Americans"],
-                "EVENT": ["the Great Recession of 2008"]
+                "GPE": [
+                    "Gates"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "TIME": [
+                    "eight hours",
+                    "a few seconds"
+                ],
+                "PERCENT": [
+                    "1%",
+                    "0.5%",
+                    "2%",
+                    "8+8+8+8+8+8+8+8+8"
+                ],
+                "WORK_OF_ART": [
+                    "The End is Always Near",
+                    "The Psychology of Money"
+                ],
+                "NORP": [
+                    "Americans"
+                ],
+                "EVENT": [
+                    "the Great Recession of 2008"
+                ]
             },
             "metadata": {
                 "author": "Morgan Housel",
@@ -663,12 +863,30 @@
                     "27",
                     "9"
                 ],
-                "PRODUCT": ["Twitter", "M1 Mac’s", "LAION-5B"],
-                "NORP": ["Reddit", "American"],
-                "GPE": ["AI"],
-                "WORK_OF_ART": ["Stable Diffusion", "The Stable Diffusion v1 Model Card"],
-                "TIME": ["every 36 hours", "1:09 am"],
-                "ORDINAL": ["first", "30th"]
+                "PRODUCT": [
+                    "Twitter",
+                    "M1 Mac’s",
+                    "LAION-5B"
+                ],
+                "NORP": [
+                    "Reddit",
+                    "American"
+                ],
+                "GPE": [
+                    "AI"
+                ],
+                "WORK_OF_ART": [
+                    "Stable Diffusion",
+                    "The Stable Diffusion v1 Model Card"
+                ],
+                "TIME": [
+                    "every 36 hours",
+                    "1:09 am"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "30th"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -700,7 +918,13 @@
                     "Paul Tyson",
                     "Zak Knudsen Zak"
                 ],
-                "DATE": ["August 2022", "weekly", "March 2022", "10 January 2022", "October 2021"],
+                "DATE": [
+                    "August 2022",
+                    "weekly",
+                    "March 2022",
+                    "10 January 2022",
+                    "October 2021"
+                ],
                 "ORG": [
                     "Teamwork",
                     "Digital",
@@ -709,7 +933,11 @@
                     "The Clubhouse Improv Club",
                     "Us Our Services Contact Us Policies Browser Group"
                 ],
-                "CARDINAL": ["One", "two", "Three"]
+                "CARDINAL": [
+                    "One",
+                    "two",
+                    "Three"
+                ]
             },
             "metadata": {
                 "author": "Zak Knudsen",
@@ -731,10 +959,26 @@
             "updatedAt": "2022-09-12T14:35:19.333Z",
             "path": "articles/wagslane.dev/posts-no-one-does-devops.html",
             "namedEntities": {
-                "PERSON": ["Blog Articles", "Boot.dev", "Kanban", "© Lane Wagner", "Github Twitter"],
-                "ORG": ["RSS Learn", "Boot.dev Devops", "DevOps", "DevOps Engineer"],
-                "CARDINAL": ["one", "two"],
-                "PRODUCT": ["Scrum"]
+                "PERSON": [
+                    "Blog Articles",
+                    "Boot.dev",
+                    "Kanban",
+                    "© Lane Wagner",
+                    "Github Twitter"
+                ],
+                "ORG": [
+                    "RSS Learn",
+                    "Boot.dev Devops",
+                    "DevOps",
+                    "DevOps Engineer"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "two"
+                ],
+                "PRODUCT": [
+                    "Scrum"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -756,9 +1000,25 @@
             "updatedAt": "2022-09-12T14:35:20.442Z",
             "path": "articles/jvns.ca/blog-2022-08-30-a-way-to-categorize-debugging-skills.html",
             "namedEntities": {
-                "DATE": ["last week", "weekly"],
-                "PERSON": ["Greg Wilson", "Ulia Ea"],
-                "CARDINAL": ["One", "five", "1", "one", "2", "3", "4", "million", "5"],
+                "DATE": [
+                    "last week",
+                    "weekly"
+                ],
+                "PERSON": [
+                    "Greg Wilson",
+                    "Ulia Ea"
+                ],
+                "CARDINAL": [
+                    "One",
+                    "five",
+                    "1",
+                    "one",
+                    "2",
+                    "3",
+                    "4",
+                    "million",
+                    "5"
+                ],
                 "WORK_OF_ART": [
                     "System Knowledge",
                     "Domain Knowledge",
@@ -766,8 +1026,14 @@
                     "Strategic Knowledge",
                     "Experiential Knowledge"
                 ],
-                "ORDINAL": ["first", "fifth", "20th"],
-                "ORG": ["the Recurse Center"]
+                "ORDINAL": [
+                    "first",
+                    "fifth",
+                    "20th"
+                ],
+                "ORG": [
+                    "the Recurse Center"
+                ]
             },
             "metadata": {
                 "author": "Julia Evans",
@@ -816,13 +1082,36 @@
                     "Mike Krieger",
                     "Dennis Woodside's"
                 ],
-                "ORDINAL": ["first"],
-                "DATE": ["Day 1", "Day 2", "2-3 weeks", "Sep 9, 2022"],
-                "CARDINAL": ["three", "zero", "two", "One"],
-                "TIME": ["1-2 hours"],
-                "GPE": ["Drew", "Arash", "San Francisco"],
-                "PRODUCT": ["Subscribe Open Source Investing"],
-                "FAC": ["South Park Commons Sep 2, 2022", "South Park Commons"]
+                "ORDINAL": [
+                    "first"
+                ],
+                "DATE": [
+                    "Day 1",
+                    "Day 2",
+                    "2-3 weeks",
+                    "Sep 9, 2022"
+                ],
+                "CARDINAL": [
+                    "three",
+                    "zero",
+                    "two",
+                    "One"
+                ],
+                "TIME": [
+                    "1-2 hours"
+                ],
+                "GPE": [
+                    "Drew",
+                    "Arash",
+                    "San Francisco"
+                ],
+                "PRODUCT": [
+                    "Subscribe Open Source Investing"
+                ],
+                "FAC": [
+                    "South Park Commons Sep 2, 2022",
+                    "South Park Commons"
+                ]
             },
             "metadata": {
                 "author": "Aditya Agarwal",
@@ -956,10 +1245,21 @@
                     "Nick\nTomarello",
                     "Russian Translation"
                 ],
-                "FAC": ["VC"],
-                "EVENT": ["a Demo Day"],
-                "ORDINAL": ["first", "third"],
-                "GPE": ["m.o.", "Parker", "Conrad"],
+                "FAC": [
+                    "VC"
+                ],
+                "EVENT": [
+                    "a Demo Day"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "GPE": [
+                    "m.o.",
+                    "Parker",
+                    "Conrad"
+                ],
                 "PERSON": [
                     "Larry",
                     "VC",
@@ -991,10 +1291,21 @@
                     "Rajat Suri",
                     "Garry Tan"
                 ],
-                "NORP": ["Chinese"],
-                "PRODUCT": ["VC", "Pride"],
-                "PERCENT": ["more than 25%", "about 40%", "less than 15%"],
-                "WORK_OF_ART": ["hardball"]
+                "NORP": [
+                    "Chinese"
+                ],
+                "PRODUCT": [
+                    "VC",
+                    "Pride"
+                ],
+                "PERCENT": [
+                    "more than 25%",
+                    "about 40%",
+                    "less than 15%"
+                ],
+                "WORK_OF_ART": [
+                    "hardball"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1050,9 +1361,21 @@
                     "strip",
                     "palo alto"
                 ],
-                "ORDINAL": ["first", "First", "second"],
-                "LOC": ["Catholic Mass", "West", "Europe", "the Middle East", "Africa"],
-                "WORK_OF_ART": ["Star Trek"],
+                "ORDINAL": [
+                    "first",
+                    "First",
+                    "second"
+                ],
+                "LOC": [
+                    "Catholic Mass",
+                    "West",
+                    "Europe",
+                    "the Middle East",
+                    "Africa"
+                ],
+                "WORK_OF_ART": [
+                    "Star Trek"
+                ],
                 "ORG": [
                     "Borg",
                     "the Starship Enterprise",
@@ -1123,10 +1446,27 @@
                     "4",
                     "6"
                 ],
-                "MONEY": ["’s 5.7 billion dollar", "tens of millions", "a few billion", "115 8 8", "69", "23", "73"],
-                "PRODUCT": ["Twitter"],
-                "TIME": ["less than an hour", "seconds"],
-                "PERCENT": ["around thirty percent", "over sixty percent", "forty percent"],
+                "MONEY": [
+                    "’s 5.7 billion dollar",
+                    "tens of millions",
+                    "a few billion",
+                    "115 8 8",
+                    "69",
+                    "23",
+                    "73"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "TIME": [
+                    "less than an hour",
+                    "seconds"
+                ],
+                "PERCENT": [
+                    "around thirty percent",
+                    "over sixty percent",
+                    "forty percent"
+                ],
                 "NORP": [
                     "Arab",
                     "American",
@@ -1139,8 +1479,12 @@
                     "Americans",
                     "american"
                 ],
-                "EVENT": ["The Arab Spring"],
-                "LAW": ["Collapse 1"]
+                "EVENT": [
+                    "The Arab Spring"
+                ],
+                "LAW": [
+                    "Collapse 1"
+                ]
             },
             "metadata": {
                 "author": "Pirate Wires",
@@ -1197,8 +1541,18 @@
                     "August 19, 2022",
                     "2020"
                 ],
-                "WORK_OF_ART": ["wildfire", "AI", "The AI Art Apocalypse"],
-                "TIME": ["seconds", "multiple hours", "minutes", "8:56 am", "9:54 am"],
+                "WORK_OF_ART": [
+                    "wildfire",
+                    "AI",
+                    "The AI Art Apocalypse"
+                ],
+                "TIME": [
+                    "seconds",
+                    "multiple hours",
+                    "minutes",
+                    "8:56 am",
+                    "9:54 am"
+                ],
                 "CARDINAL": [
                     "one",
                     "2",
@@ -1213,14 +1567,35 @@
                     "ten",
                     "hundreds"
                 ],
-                "PERCENT": ["95%", "90%"],
-                "PRODUCT": ["Patreon", "Twitter"],
-                "GPE": ["America", "AI"],
-                "ORDINAL": ["First", "first"],
-                "MONEY": ["7,000", "100"],
-                "LAW": ["the AI Art Apocalypse: Theft Next 19"],
-                "NORP": ["Chinese"],
-                "QUANTITY": ["three-zillion"]
+                "PERCENT": [
+                    "95%",
+                    "90%"
+                ],
+                "PRODUCT": [
+                    "Patreon",
+                    "Twitter"
+                ],
+                "GPE": [
+                    "America",
+                    "AI"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "MONEY": [
+                    "7,000",
+                    "100"
+                ],
+                "LAW": [
+                    "the AI Art Apocalypse: Theft Next 19"
+                ],
+                "NORP": [
+                    "Chinese"
+                ],
+                "QUANTITY": [
+                    "three-zillion"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1257,8 +1632,18 @@
                     "Today",
                     "Daily"
                 ],
-                "GPE": ["Github", "London", "United Kingdom", "the United States", "DM"],
-                "WORK_OF_ART": ["Blog Talks", "scrum master", "Daily Scrum"],
+                "GPE": [
+                    "Github",
+                    "London",
+                    "United Kingdom",
+                    "the United States",
+                    "DM"
+                ],
+                "WORK_OF_ART": [
+                    "Blog Talks",
+                    "scrum master",
+                    "Daily Scrum"
+                ],
                 "ORG": [
                     "Lucas Fernandes da Costa",
                     "🇧 Daily",
@@ -1275,10 +1660,28 @@
                     "Software",
                     "The Agile Manifesto Putting"
                 ],
-                "CARDINAL": ["more than", "three", "one", "One", "13", "less than three"],
-                "PERSON": ["Scrum", "Extreme Programming", "W. Edwards", "Kindle Edition"],
-                "FAC": ["the Sprint Backlog"],
-                "TIME": ["the very first minute", "flexible working hours", "8:30 AM"]
+                "CARDINAL": [
+                    "more than",
+                    "three",
+                    "one",
+                    "One",
+                    "13",
+                    "less than three"
+                ],
+                "PERSON": [
+                    "Scrum",
+                    "Extreme Programming",
+                    "W. Edwards",
+                    "Kindle Edition"
+                ],
+                "FAC": [
+                    "the Sprint Backlog"
+                ],
+                "TIME": [
+                    "the very first minute",
+                    "flexible working hours",
+                    "8:30 AM"
+                ]
             },
             "metadata": {
                 "author": "Lucas Fernandes da Costa at London, United Kingdom",
@@ -1300,7 +1703,13 @@
             "updatedAt": "2022-09-12T14:35:31.366Z",
             "path": "articles/dylanpaulus.com/advice-for-new-software-engineers.html",
             "namedEntities": {
-                "DATE": ["About July 04, 2022", "four years", "Pruitt, 2018", "2018", "4 July 2022"],
+                "DATE": [
+                    "About July 04, 2022",
+                    "four years",
+                    "Pruitt, 2018",
+                    "2018",
+                    "4 July 2022"
+                ],
                 "ORG": [
                     "4 min Advice for New Software Engineers A",
                     "Schweitzer Engineering Laboratories",
@@ -1310,9 +1719,17 @@
                     "DNS",
                     "Titanic"
                 ],
-                "ORDINAL": ["first"],
-                "CARDINAL": ["two", "one"],
-                "PERSON": ["Haskell", "Pruitt"]
+                "ORDINAL": [
+                    "first"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "one"
+                ],
+                "PERSON": [
+                    "Haskell",
+                    "Pruitt"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1404,7 +1821,10 @@
                     "Division Categories Breaking the Coding Interview Fundamentals of Performance Meta Posts Numerical Libraries",
                     "Functions Random Tags Division"
                 ],
-                "WORK_OF_ART": ["monoliths vs. microservices", "Cloud Ops"],
+                "WORK_OF_ART": [
+                    "monoliths vs. microservices",
+                    "Cloud Ops"
+                ],
                 "DATE": [
                     "These days",
                     "early 2000",
@@ -1422,8 +1842,13 @@
                     "25x",
                     "2022"
                 ],
-                "ORDINAL": ["third", "second"],
-                "QUANTITY": ["4-6"],
+                "ORDINAL": [
+                    "third",
+                    "second"
+                ],
+                "QUANTITY": [
+                    "4-6"
+                ],
                 "PERSON": [
                     "~200 Gbps",
                     "Gbps",
@@ -1436,10 +1861,30 @@
                     "Monoliths Thinking",
                     "Join Email"
                 ],
-                "GPE": ["PostgreSQL", "RAM", "US"],
-                "TIME": ["20 seconds", "GB-seconds"],
-                "MONEY": ["1,318", "about €140.00", "8.2944", "6,055", "about $40,000", "0.20", "0.0000166667", "about $46/hour"],
-                "PERCENT": ["5-30%", "20%", "5%"]
+                "GPE": [
+                    "PostgreSQL",
+                    "RAM",
+                    "US"
+                ],
+                "TIME": [
+                    "20 seconds",
+                    "GB-seconds"
+                ],
+                "MONEY": [
+                    "1,318",
+                    "about €140.00",
+                    "8.2944",
+                    "6,055",
+                    "about $40,000",
+                    "0.20",
+                    "0.0000166667",
+                    "about $46/hour"
+                ],
+                "PERCENT": [
+                    "5-30%",
+                    "20%",
+                    "5%"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1461,9 +1906,18 @@
             "updatedAt": "2022-09-12T14:35:34.076Z",
             "path": "articles/gkogan.co/blog-swamped.html",
             "namedEntities": {
-                "PERSON": ["Being Swamped", "Greg Kogan"],
-                "ORG": ["PS - Liked", "JavaScript", "Disqus"],
-                "DATE": ["one every month"]
+                "PERSON": [
+                    "Being Swamped",
+                    "Greg Kogan"
+                ],
+                "ORG": [
+                    "PS - Liked",
+                    "JavaScript",
+                    "Disqus"
+                ],
+                "DATE": [
+                    "one every month"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1616,7 +2070,10 @@
                     "https://guides.rubyonrails.org/active_record_migrations.html",
                     "destilan"
                 ],
-                "PERCENT": ["25%", "'%"],
+                "PERCENT": [
+                    "25%",
+                    "'%"
+                ],
                 "PERSON": [
                     "web_hooks",
                     "g.n from generate_series(1,10000000",
@@ -1784,16 +2241,38 @@
                     "4) September 2009",
                     "6) August 2009"
                 ],
-                "TIME": ["11 seconds", "36 seconds", "9:00 pm", "7:11 am", "1:50 pm", "4:27 pm", "3:01 pm", "5:22 pm"],
-                "ORDINAL": ["first"],
-                "NORP": ["project_id", "English", "cost=0.00", "Yannis"],
+                "TIME": [
+                    "11 seconds",
+                    "36 seconds",
+                    "9:00 pm",
+                    "7:11 am",
+                    "1:50 pm",
+                    "4:27 pm",
+                    "3:01 pm",
+                    "5:22 pm"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "NORP": [
+                    "project_id",
+                    "English",
+                    "cost=0.00",
+                    "Yannis"
+                ],
                 "QUANTITY": [
                     "merge_request_assignees merge_request_blocks merge_request_cleanup_schedules merge_request_context_commit_diff_files",
                     "4-byte"
                 ],
-                "LOC": ["Relationship"],
-                "WORK_OF_ART": ["My Notes on GitLab Postgres Schema Design"],
-                "MONEY": ["#bbdd #gitlab #PostgreSQL 3000"]
+                "LOC": [
+                    "Relationship"
+                ],
+                "WORK_OF_ART": [
+                    "My Notes on GitLab Postgres Schema Design"
+                ],
+                "MONEY": [
+                    "#bbdd #gitlab #PostgreSQL 3000"
+                ]
             },
             "metadata": {
                 "author": "shekhargulati",
@@ -1825,11 +2304,24 @@
                     "Robert C. Martin",
                     "John Ousterhout"
                 ],
-                "DATE": ["2022"],
-                "ORG": ["Define Clear Goals Define", "Epigrams in Programming", "HackerNews", "RSS"],
-                "CARDINAL": ["one"],
-                "NORP": ["C++"],
-                "GPE": ["Lean"]
+                "DATE": [
+                    "2022"
+                ],
+                "ORG": [
+                    "Define Clear Goals Define",
+                    "Epigrams in Programming",
+                    "HackerNews",
+                    "RSS"
+                ],
+                "CARDINAL": [
+                    "one"
+                ],
+                "NORP": [
+                    "C++"
+                ],
+                "GPE": [
+                    "Lean"
+                ]
             },
             "metadata": {
                 "author": "Daniel Sieger",
@@ -1851,7 +2343,13 @@
             "updatedAt": "2022-09-12T14:35:38.585Z",
             "path": "articles/brandur.org/soft-deletion.html",
             "namedEntities": {
-                "DATE": ["July 19, 2022", "64977", "The last few years", "ten plus years", "the old days"],
+                "DATE": [
+                    "July 19, 2022",
+                    "64977",
+                    "The last few years",
+                    "ten plus years",
+                    "the old days"
+                ],
                 "ORG": [
                     "Location San Francisco Find",
                     "DELETE",
@@ -1864,12 +2362,29 @@
                     "Heroku",
                     "INSERT INTO"
                 ],
-                "PRODUCT": ["Twitter", "WHERE cluster_id"],
-                "MONEY": ["1"],
-                "GPE": ["DELETE"],
-                "ORDINAL": ["first"],
-                "LOC": ["Europe"],
-                "CARDINAL": ["five", "30", "1", "200", "one"]
+                "PRODUCT": [
+                    "Twitter",
+                    "WHERE cluster_id"
+                ],
+                "MONEY": [
+                    "1"
+                ],
+                "GPE": [
+                    "DELETE"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "LOC": [
+                    "Europe"
+                ],
+                "CARDINAL": [
+                    "five",
+                    "30",
+                    "1",
+                    "200",
+                    "one"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1891,15 +2406,49 @@
             "updatedAt": "2022-09-12T14:35:39.985Z",
             "path": "articles/johnsalvatier.org/blog-2017-reality-has-a-surprising-amount-of-detail.html",
             "namedEntities": {
-                "PERSON": ["John Salvatier Reality", "Transparent Detail", "Jean-André De Luc", "Sarah"],
-                "CARDINAL": ["13", "18", "just two", "2", "12", "100", "two", "at least 300", "0", "16", "one"],
-                "DATE": ["May 2017", "the early days", "the 18th century"],
-                "GPE": ["Colombia"],
-                "LOC": ["North America"],
-                "ORDINAL": ["first", "second"],
-                "ORG": ["Haskell"],
-                "NORP": ["Swiss"],
-                "TIME": ["the next 3 hours"]
+                "PERSON": [
+                    "John Salvatier Reality",
+                    "Transparent Detail",
+                    "Jean-André De Luc",
+                    "Sarah"
+                ],
+                "CARDINAL": [
+                    "13",
+                    "18",
+                    "just two",
+                    "2",
+                    "12",
+                    "100",
+                    "two",
+                    "at least 300",
+                    "0",
+                    "16",
+                    "one"
+                ],
+                "DATE": [
+                    "May 2017",
+                    "the early days",
+                    "the 18th century"
+                ],
+                "GPE": [
+                    "Colombia"
+                ],
+                "LOC": [
+                    "North America"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second"
+                ],
+                "ORG": [
+                    "Haskell"
+                ],
+                "NORP": [
+                    "Swiss"
+                ],
+                "TIME": [
+                    "the next 3 hours"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -1921,7 +2470,15 @@
             "updatedAt": "2022-09-12T14:35:41.320Z",
             "path": "articles/psyche.co/ideas-why-some-of-the-smartest-people-can-be-so-very-stupid.html",
             "namedEntities": {
-                "GPE": ["Romania", "France", "London", "Vienna", "the United States", "South Africa", "Machiavellian"],
+                "GPE": [
+                    "Romania",
+                    "France",
+                    "London",
+                    "Vienna",
+                    "the United States",
+                    "South Africa",
+                    "Machiavellian"
+                ],
                 "PERSON": [
                     "Douglas Haig",
                     "Ernest Brooks",
@@ -1965,11 +2522,32 @@
                     "a few hundred years from now",
                     "2022"
                 ],
-                "NORP": ["French", "German", "Nazism", "Austrian", "British"],
-                "CARDINAL": ["one", "two", "zero", "at least one", "4", "501(c)(3"],
-                "EVENT": ["the First World War"],
-                "LOC": ["Europe", "Aeon America"],
-                "ORDINAL": ["First", "Second"]
+                "NORP": [
+                    "French",
+                    "German",
+                    "Nazism",
+                    "Austrian",
+                    "British"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "two",
+                    "zero",
+                    "at least one",
+                    "4",
+                    "501(c)(3"
+                ],
+                "EVENT": [
+                    "the First World War"
+                ],
+                "LOC": [
+                    "Europe",
+                    "Aeon America"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "Second"
+                ]
             },
             "metadata": {
                 "author": "Sacha Golob",
@@ -1991,7 +2569,14 @@
             "updatedAt": "2022-09-12T17:25:17.696Z",
             "path": "articles/herman.bearblog.dev/mvp-vs-slc.html",
             "namedEntities": {
-                "PERSON": ["Herman", "Jason Cohen", "Complete", "Bear Blog", "Marie Kondo", "Twitter"],
+                "PERSON": [
+                    "Herman",
+                    "Jason Cohen",
+                    "Complete",
+                    "Bear Blog",
+                    "Marie Kondo",
+                    "Twitter"
+                ],
                 "ORG": [
                     "Home Projects Podcast Blog",
                     "MVP",
@@ -2002,10 +2587,21 @@
                     "Colossus",
                     "Bear ʕ•ᴥ•ʔ"
                 ],
-                "DATE": ["the past decade", "a few years ago"],
-                "CARDINAL": ["One", "three", "2"],
-                "PRODUCT": ["Shadow"],
-                "FAC": ["RSS"]
+                "DATE": [
+                    "the past decade",
+                    "a few years ago"
+                ],
+                "CARDINAL": [
+                    "One",
+                    "three",
+                    "2"
+                ],
+                "PRODUCT": [
+                    "Shadow"
+                ],
+                "FAC": [
+                    "RSS"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -2064,7 +2660,11 @@
                     "13",
                     "27"
                 ],
-                "NORP": ["British", "polish", "Subscribe"],
+                "NORP": [
+                    "British",
+                    "polish",
+                    "Subscribe"
+                ],
                 "DATE": [
                     "2005",
                     "17 years",
@@ -2100,7 +2700,16 @@
                     "PayPal",
                     "a Creative Commons Licence"
                 ],
-                "PERSON": ["Andy Brice", "Kierkegaard", "Andy", "Qt", "Startup Founders", "C++", "MacOSX", "malware  "],
+                "PERSON": [
+                    "Andy Brice",
+                    "Kierkegaard",
+                    "Andy",
+                    "Qt",
+                    "Startup Founders",
+                    "C++",
+                    "MacOSX",
+                    "malware  "
+                ],
                 "TIME": [
                     "8:04 am",
                     "11:22 am “Life",
@@ -2114,9 +2723,16 @@
                     "30 minute",
                     "9:46 am"
                 ],
-                "WORK_OF_ART": ["Hacker News"],
-                "PRODUCT": ["Blog Stats", "Twitter"],
-                "GPE": ["UK"]
+                "WORK_OF_ART": [
+                    "Hacker News"
+                ],
+                "PRODUCT": [
+                    "Blog Stats",
+                    "Twitter"
+                ],
+                "GPE": [
+                    "UK"
+                ]
             },
             "metadata": {
                 "author": "Andy Brice",
@@ -2138,7 +2754,11 @@
             "updatedAt": "2022-09-12T18:19:00.271Z",
             "path": "articles/bhupesh.me/writing-like-a-pro-with-vale-and-neovim.html",
             "namedEntities": {
-                "DATE": ["May 26, 2022", "5 year old", "everyday"],
+                "DATE": [
+                    "May 26, 2022",
+                    "5 year old",
+                    "everyday"
+                ],
                 "ORG": [
                     "• 🕣",
                     "Google",
@@ -2154,9 +2774,19 @@
                     "VSCode",
                     "Undo"
                 ],
-                "PERSON": ["Vale"],
-                "CARDINAL": ["more than 100", "#", "7", "one", "20"],
-                "PRODUCT": ["Download"]
+                "PERSON": [
+                    "Vale"
+                ],
+                "CARDINAL": [
+                    "more than 100",
+                    "#",
+                    "7",
+                    "one",
+                    "20"
+                ],
+                "PRODUCT": [
+                    "Download"
+                ]
             },
             "metadata": {
                 "author": "Bhupesh Varshney",
@@ -2238,12 +2868,44 @@
                     "next week",
                     "more than six months ago"
                 ],
-                "GPE": ["San Francisco", "Uberto"],
-                "FAC": ["Meetups LeadDev New York Meetup"],
-                "CARDINAL": ["02", "six", "one", "14", "01", "06", "08", "10", "22", "2021", "5", "30", "45", "27", "0/1"],
-                "ORDINAL": ["First", "third"],
-                "LAW": ["Article How Eve Online", "Article How", "Article Living", "Article Learnings", "Article Building"],
-                "NORP": ["Meri"]
+                "GPE": [
+                    "San Francisco",
+                    "Uberto"
+                ],
+                "FAC": [
+                    "Meetups LeadDev New York Meetup"
+                ],
+                "CARDINAL": [
+                    "02",
+                    "six",
+                    "one",
+                    "14",
+                    "01",
+                    "06",
+                    "08",
+                    "10",
+                    "22",
+                    "2021",
+                    "5",
+                    "30",
+                    "45",
+                    "27",
+                    "0/1"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "third"
+                ],
+                "LAW": [
+                    "Article How Eve Online",
+                    "Article How",
+                    "Article Living",
+                    "Article Learnings",
+                    "Article Building"
+                ],
+                "NORP": [
+                    "Meri"
+                ]
             },
             "metadata": {
                 "author": "Kevin Ball",
@@ -2336,12 +2998,40 @@
                     "September 29, 2012",
                     "July 15, 2021"
                 ],
-                "EVENT": ["Essay Reprieve"],
-                "TIME": ["ten or fifteen minutes", "night", "about four minutes", "1:26 pm", "12:05 am Outstanding"],
-                "NORP": ["Christian", "Amish", "BAM"],
-                "ORDINAL": ["second", "first"],
-                "CARDINAL": ["one", "3", "three", "2", "Two", "Four"],
-                "GPE": ["Oklahoma City", "New York City", "Indiebound", "Guernica", "Los Angeles"],
+                "EVENT": [
+                    "Essay Reprieve"
+                ],
+                "TIME": [
+                    "ten or fifteen minutes",
+                    "night",
+                    "about four minutes",
+                    "1:26 pm",
+                    "12:05 am Outstanding"
+                ],
+                "NORP": [
+                    "Christian",
+                    "Amish",
+                    "BAM"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "first"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "3",
+                    "three",
+                    "2",
+                    "Two",
+                    "Four"
+                ],
+                "GPE": [
+                    "Oklahoma City",
+                    "New York City",
+                    "Indiebound",
+                    "Guernica",
+                    "Los Angeles"
+                ],
                 "ORG": [
                     "Clouseauesque",
                     "Free Press",
@@ -2361,7 +3051,11 @@
                     "'Three Poems",
                     "ARTS & CULTURE NEWS & POLITICS Terms & Conditions"
                 ],
-                "LOC": ["the Chesapeake Bay", "the Chesapeake Bay area", "The Best American Essays"]
+                "LOC": [
+                    "the Chesapeake Bay",
+                    "the Chesapeake Bay area",
+                    "The Best American Essays"
+                ]
             },
             "metadata": {
                 "author": "SETH FISCHER",
@@ -2435,14 +3129,46 @@
                     "Sep 27, 2014",
                     "26, 2014"
                 ],
-                "CARDINAL": ["8", "two", "2011–2016", "One", "10", "five", "one", "916", "millions"],
-                "LOC": ["Kanasawa"],
-                "PERCENT": ["120–305 percent", "19%", "120%"],
-                "NORP": ["European"],
-                "GPE": ["Vancouver", "Hollywood", "Seattle", "Thinking"],
-                "ORDINAL": ["first"],
-                "WORK_OF_ART": ["Medium Aug", "Love", "Medium Marissa Vang", "Medium Eldar Jahijagic"],
-                "FAC": ["Unsafe Space Equality Does Not Require Sameness Ivette Rodriguez"]
+                "CARDINAL": [
+                    "8",
+                    "two",
+                    "2011–2016",
+                    "One",
+                    "10",
+                    "five",
+                    "one",
+                    "916",
+                    "millions"
+                ],
+                "LOC": [
+                    "Kanasawa"
+                ],
+                "PERCENT": [
+                    "120–305 percent",
+                    "19%",
+                    "120%"
+                ],
+                "NORP": [
+                    "European"
+                ],
+                "GPE": [
+                    "Vancouver",
+                    "Hollywood",
+                    "Seattle",
+                    "Thinking"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "Medium Aug",
+                    "Love",
+                    "Medium Marissa Vang",
+                    "Medium Eldar Jahijagic"
+                ],
+                "FAC": [
+                    "Unsafe Space Equality Does Not Require Sameness Ivette Rodriguez"
+                ]
             },
             "metadata": {
                 "author": "Saeid Fard",
@@ -2529,7 +3255,15 @@
                     "The Book You Need to Read There",
                     "The Story of Singapore Singapore"
                 ],
-                "CARDINAL": ["nine", "ten", "one", "million", "One", "a couple hundred", "two"],
+                "CARDINAL": [
+                    "nine",
+                    "ten",
+                    "one",
+                    "million",
+                    "One",
+                    "a couple hundred",
+                    "two"
+                ],
                 "ORG": [
                     "St. Paul",
                     "Dostoevsky",
@@ -2554,7 +3288,11 @@
                     "WordPress",
                     "Filter"
                 ],
-                "LOC": ["Europe", "the Red Sea", "the Western Mind"],
+                "LOC": [
+                    "Europe",
+                    "the Red Sea",
+                    "the Western Mind"
+                ],
                 "DATE": [
                     "Today",
                     "tomorrow",
@@ -2576,13 +3314,31 @@
                     "years",
                     "just 53 years"
                 ],
-                "ORDINAL": ["first", "third"],
-                "PERCENT": ["nine percent", "almost 70%", "below 50%"],
-                "LAW": ["The Many Buckets of Faith"],
-                "TIME": ["40 minutes"],
-                "LANGUAGE": ["Hebrew"],
-                "PRODUCT": ["Excel", "the Guide Twitter YouTube Notebook"],
-                "EVENT": ["the Declaration of Independence"]
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "PERCENT": [
+                    "nine percent",
+                    "almost 70%",
+                    "below 50%"
+                ],
+                "LAW": [
+                    "The Many Buckets of Faith"
+                ],
+                "TIME": [
+                    "40 minutes"
+                ],
+                "LANGUAGE": [
+                    "Hebrew"
+                ],
+                "PRODUCT": [
+                    "Excel",
+                    "the Guide Twitter YouTube Notebook"
+                ],
+                "EVENT": [
+                    "the Declaration of Independence"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -2615,7 +3371,13 @@
                     "May 27, 2021 See",
                     "2021"
                 ],
-                "PERSON": ["Christopher Laing", "Jeff Bezos", "Bezos", "Benedict Evans", "Deep Learning"],
+                "PERSON": [
+                    "Christopher Laing",
+                    "Jeff Bezos",
+                    "Bezos",
+                    "Benedict Evans",
+                    "Deep Learning"
+                ],
                 "ORG": [
                     "Amazon",
                     "HTTP",
@@ -2626,15 +3388,38 @@
                     "Are All The Amazons",
                     "↩︎ Business Technology Opinion"
                 ],
-                "NORP": ["technologists", "Memo", "Australian"],
-                "CARDINAL": ["1", "2", "several hundred", "3", "hundreds or thousands", "Three", "three", "One", "11", "4"],
-                "FAC": ["the API Mandate"],
-                "ORDINAL": ["first", "second", "third"],
+                "NORP": [
+                    "technologists",
+                    "Memo",
+                    "Australian"
+                ],
+                "CARDINAL": [
+                    "1",
+                    "2",
+                    "several hundred",
+                    "3",
+                    "hundreds or thousands",
+                    "Three",
+                    "three",
+                    "One",
+                    "11",
+                    "4"
+                ],
+                "FAC": [
+                    "the API Mandate"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third"
+                ],
                 "WORK_OF_ART": [
                     "AI The Business Implications of Combinatorial Optimisation by Deep Learning Recent Posts Three Categories of AI July 25, 2021",
                     "The Bitter Lesson Conditions"
                 ],
-                "LAW": ["The Business Implications of Combinatorial Optimisation"]
+                "LAW": [
+                    "The Business Implications of Combinatorial Optimisation"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -2671,9 +3456,25 @@
                     "Smirk Software",
                     "JavaScript"
                 ],
-                "CARDINAL": ["only two", "One", "one", "380", "800", "11", "5"],
-                "DATE": ["25, 2020 11", "monthly", "2 years ago", "2022"],
-                "GPE": ["Bumble", "Triller"],
+                "CARDINAL": [
+                    "only two",
+                    "One",
+                    "one",
+                    "380",
+                    "800",
+                    "11",
+                    "5"
+                ],
+                "DATE": [
+                    "25, 2020 11",
+                    "monthly",
+                    "2 years ago",
+                    "2022"
+                ],
+                "GPE": [
+                    "Bumble",
+                    "Triller"
+                ],
                 "PERSON": [
                     "Zenly",
                     "Linkedin",
@@ -2686,11 +3487,23 @@
                     "Preston Jul",
                     "Twitter"
                 ],
-                "FAC": ["Byte, Dubsmash"],
-                "PRODUCT": ["Twitter"],
-                "ORDINAL": ["First"],
-                "EVENT": ["4 Frameworks for Social Apps Get", "Preston Attebery Privacy ∙"],
-                "NORP": ["👋", "Instagram"]
+                "FAC": [
+                    "Byte, Dubsmash"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "ORDINAL": [
+                    "First"
+                ],
+                "EVENT": [
+                    "4 Frameworks for Social Apps Get",
+                    "Preston Attebery Privacy ∙"
+                ],
+                "NORP": [
+                    "👋",
+                    "Instagram"
+                ]
             },
             "metadata": {
                 "author": "Preston",
@@ -2712,7 +3525,18 @@
             "updatedAt": "2022-09-12T18:37:27.090Z",
             "path": "articles/theprofile.substack.com/p-3-ways-to-attract-more-luck-into.html",
             "namedEntities": {
-                "CARDINAL": ["3", "three", "1.", "two", "2.", "two to three", "3.", "36", "24", "0"],
+                "CARDINAL": [
+                    "3",
+                    "three",
+                    "1.",
+                    "two",
+                    "2.",
+                    "two to three",
+                    "3.",
+                    "36",
+                    "24",
+                    "0"
+                ],
                 "ORG": [
                     "Ways to Attract More Luck Into Your Life The Profile Subscribe Sign",
                     "Hanlon’s Razor",
@@ -2738,13 +3562,38 @@
                     "Reply Gift",
                     "Polina Pompliano Jul"
                 ],
-                "TIME": ["the 10,000 hour", "tonight", "one hour", "hourly", "evening"],
-                "ORDINAL": ["First", "first"],
-                "GPE": ["Flywheel", "U.K."],
-                "PRODUCT": ["Twitter"],
-                "DATE": ["2021", "24", "the first 90 days", "16", "2022"],
-                "WORK_OF_ART": ["\"The Biggest Bluff\"", "Polina Pompliano Dec 23, 2020 52 9 See all Ready for more?"],
-                "EVENT": ["the World “Blood"]
+                "TIME": [
+                    "the 10,000 hour",
+                    "tonight",
+                    "one hour",
+                    "hourly",
+                    "evening"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "GPE": [
+                    "Flywheel",
+                    "U.K."
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "DATE": [
+                    "2021",
+                    "24",
+                    "the first 90 days",
+                    "16",
+                    "2022"
+                ],
+                "WORK_OF_ART": [
+                    "\"The Biggest Bluff\"",
+                    "Polina Pompliano Dec 23, 2020 52 9 See all Ready for more?"
+                ],
+                "EVENT": [
+                    "the World “Blood"
+                ]
             },
             "metadata": {
                 "author": "Polina Pompliano",
@@ -2766,8 +3615,28 @@
             "updatedAt": "2022-09-12T18:38:43.947Z",
             "path": "articles/deepfix.substack.com/p-breaking-free-from-productivity-addiction.html",
             "namedEntities": {
-                "CARDINAL": ["16", "6", "one", "1x1", "two", "zero", "5", "1", "2", "17", "7", "4", "23"],
-                "PERSON": ["Alex Olshonsky", "Richard Rohr", "Alex Olshonsky Alex", "Madman", "Alexander"],
+                "CARDINAL": [
+                    "16",
+                    "6",
+                    "one",
+                    "1x1",
+                    "two",
+                    "zero",
+                    "5",
+                    "1",
+                    "2",
+                    "17",
+                    "7",
+                    "4",
+                    "23"
+                ],
+                "PERSON": [
+                    "Alex Olshonsky",
+                    "Richard Rohr",
+                    "Alex Olshonsky Alex",
+                    "Madman",
+                    "Alexander"
+                ],
                 "DATE": [
                     "twelve years",
                     "earlier this year",
@@ -2785,9 +3654,15 @@
                     "15, 2021 47",
                     "2022"
                 ],
-                "LOC": ["Silicon Valley"],
-                "ORDINAL": ["first"],
-                "TIME": ["all morning"],
+                "LOC": [
+                    "Silicon Valley"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "TIME": [
+                    "all morning"
+                ],
                 "ORG": [
                     "Amazon",
                     "Slack",
@@ -2797,8 +3672,13 @@
                     "12 Addiction & Ayahuasca",
                     "JavaScript"
                 ],
-                "GPE": ["Spotify", "Angel"],
-                "PRODUCT": ["Literary"]
+                "GPE": [
+                    "Spotify",
+                    "Angel"
+                ],
+                "PRODUCT": [
+                    "Literary"
+                ]
             },
             "metadata": {
                 "author": "Alex Olshonsky",
@@ -2820,10 +3700,20 @@
             "updatedAt": "2022-09-12T18:43:46.786Z",
             "path": "articles/nicheless.blog/post-uniqueness-and-normalcy.html",
             "namedEntities": {
-                "FAC": ["LDF Apr"],
-                "CARDINAL": ["12", "2/2", "1/2"],
-                "PERSON": ["mimicry"],
-                "ORG": ["Nicheless"]
+                "FAC": [
+                    "LDF Apr"
+                ],
+                "CARDINAL": [
+                    "12",
+                    "2/2",
+                    "1/2"
+                ],
+                "PERSON": [
+                    "mimicry"
+                ],
+                "ORG": [
+                    "Nicheless"
+                ]
             },
             "metadata": {
                 "author": "LDF",
@@ -2845,10 +3735,23 @@
             "updatedAt": "2022-09-12T19:08:06.804Z",
             "path": "articles/leontrolski.github.io/33-line-reacthtml.html",
             "namedEntities": {
-                "ORG": ["React ⇦ 33", "React Thoughts", "JSX", "DOM"],
-                "CARDINAL": ["96", "2"],
-                "PERSON": ["button.cell", "Cell"],
-                "ORDINAL": ["First"]
+                "ORG": [
+                    "React ⇦ 33",
+                    "React Thoughts",
+                    "JSX",
+                    "DOM"
+                ],
+                "CARDINAL": [
+                    "96",
+                    "2"
+                ],
+                "PERSON": [
+                    "button.cell",
+                    "Cell"
+                ],
+                "ORDINAL": [
+                    "First"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -2870,13 +3773,37 @@
             "updatedAt": "2022-09-12T19:08:09.820Z",
             "path": "articles/dhwthompson.com/2019-my-favourite-git-commit.html",
             "namedEntities": {
-                "PERSON": ["Git", "Dan Carley", "Convert", "Dan", "rspec modules", "Tekin Süleyman"],
-                "DATE": ["30, 2019"],
-                "ORG": ["the Government Digital Service", "GDS", "GitHub", "MIME"],
-                "GPE": ["US"],
-                "CARDINAL": ["one", "One"],
-                "ORDINAL": ["first"],
-                "TIME": ["One hour", "an hour"]
+                "PERSON": [
+                    "Git",
+                    "Dan Carley",
+                    "Convert",
+                    "Dan",
+                    "rspec modules",
+                    "Tekin Süleyman"
+                ],
+                "DATE": [
+                    "30, 2019"
+                ],
+                "ORG": [
+                    "the Government Digital Service",
+                    "GDS",
+                    "GitHub",
+                    "MIME"
+                ],
+                "GPE": [
+                    "US"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "One"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "TIME": [
+                    "One hour",
+                    "an hour"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -2898,11 +3825,27 @@
             "updatedAt": "2022-09-12T19:08:21.347Z",
             "path": "articles/florio.dev/posts-20200328-letter-to-myself.html",
             "namedEntities": {
-                "ORG": ["Dear Self", "NIH", "PaperMod"],
-                "DATE": ["March 28", "the next few years", "decades", "2022"],
-                "WORK_OF_ART": ["Principal Senior Lead Engineering  Chief Architect"],
-                "CARDINAL": ["#", "One"],
-                "PERSON": ["erica steeves"]
+                "ORG": [
+                    "Dear Self",
+                    "NIH",
+                    "PaperMod"
+                ],
+                "DATE": [
+                    "March 28",
+                    "the next few years",
+                    "decades",
+                    "2022"
+                ],
+                "WORK_OF_ART": [
+                    "Principal Senior Lead Engineering  Chief Architect"
+                ],
+                "CARDINAL": [
+                    "#",
+                    "One"
+                ],
+                "PERSON": [
+                    "erica steeves"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -2976,7 +3919,13 @@
                     "UB",
                     "Python"
                 ],
-                "DATE": ["2017", "four years ago", "lifetime", "70791", "earlier than 2020"],
+                "DATE": [
+                    "2017",
+                    "four years ago",
+                    "lifetime",
+                    "70791",
+                    "earlier than 2020"
+                ],
                 "CARDINAL": [
                     "one",
                     "error[E0312",
@@ -3000,12 +3949,33 @@
                     "700",
                     "One"
                 ],
-                "ORDINAL": ["First", "Second", "Third", "first", "second", "Secondly"],
-                "NORP": ["Dispatcher", "BoxFuture", "Rustaceans"],
-                "MONEY": ["1", "41078"],
-                "GPE": ["NewH", "Accidentally"],
-                "LANGUAGE": ["C++"],
-                "FAC": ["the Bronze Garbage Collector"]
+                "ORDINAL": [
+                    "First",
+                    "Second",
+                    "Third",
+                    "first",
+                    "second",
+                    "Secondly"
+                ],
+                "NORP": [
+                    "Dispatcher",
+                    "BoxFuture",
+                    "Rustaceans"
+                ],
+                "MONEY": [
+                    "1",
+                    "41078"
+                ],
+                "GPE": [
+                    "NewH",
+                    "Accidentally"
+                ],
+                "LANGUAGE": [
+                    "C++"
+                ],
+                "FAC": [
+                    "the Bronze Garbage Collector"
+                ]
             },
             "metadata": {
                 "author": "Hirrolot’s Blog",
@@ -3027,7 +3997,13 @@
             "updatedAt": "2022-09-12T19:08:37.745Z",
             "path": "articles/thenewstack.io/git-at-15-how-git-changed-the-way-we-code.html",
             "namedEntities": {
-                "CARDINAL": ["15", "one", "no more than three seconds", "1", "One"],
+                "CARDINAL": [
+                    "15",
+                    "one",
+                    "no more than three seconds",
+                    "1",
+                    "One"
+                ],
                 "ORG": [
                     "CI",
                     "BitKeeper",
@@ -3068,7 +4044,11 @@
                     "Docker Containers",
                     "Zendesk"
                 ],
-                "ORDINAL": ["15th", "7th", "third"],
+                "ORDINAL": [
+                    "15th",
+                    "7th",
+                    "third"
+                ],
                 "DATE": [
                     "2020 3:00am",
                     "Fifteen years ago",
@@ -3086,10 +4066,18 @@
                     "2022",
                     "week"
                 ],
-                "GPE": ["Linux"],
-                "PERCENT": ["87.2%"],
-                "WORK_OF_ART": ["Formats Explained Insights From Our Sponsors 12 PCI DSS Compliance Requirements Explained"],
-                "NORP": ["Checklist"]
+                "GPE": [
+                    "Linux"
+                ],
+                "PERCENT": [
+                    "87.2%"
+                ],
+                "WORK_OF_ART": [
+                    "Formats Explained Insights From Our Sponsors 12 PCI DSS Compliance Requirements Explained"
+                ],
+                "NORP": [
+                    "Checklist"
+                ]
             },
             "metadata": {
                 "author": "Jack Wallen",
@@ -3139,7 +4127,11 @@
                     "The Secret to Successful Graph-Powered Apps",
                     "Insight Partners"
                 ],
-                "TIME": ["10:19:44", "10:19am", "5-Minute"],
+                "TIME": [
+                    "10:19:44",
+                    "10:19am",
+                    "5-Minute"
+                ],
                 "PERSON": [
                     "Docker",
                     "B. Cameron Gain Feature",
@@ -3155,7 +4147,11 @@
                     "Free Training",
                     "Thomas Larsen"
                 ],
-                "ORDINAL": ["7th", "fourth", "third"],
+                "ORDINAL": [
+                    "7th",
+                    "fourth",
+                    "third"
+                ],
                 "DATE": [
                     "2022",
                     "2019",
@@ -3169,11 +4165,25 @@
                     "7 September 2022",
                     "week"
                 ],
-                "PRODUCT": ["OpenClipart-Vectors"],
-                "NORP": ["C++"],
-                "GPE": ["Kubernetes"],
-                "CARDINAL": ["5", "the millions", "thousands", "30"],
-                "WORK_OF_ART": ["Docker", "Using Graphs"]
+                "PRODUCT": [
+                    "OpenClipart-Vectors"
+                ],
+                "NORP": [
+                    "C++"
+                ],
+                "GPE": [
+                    "Kubernetes"
+                ],
+                "CARDINAL": [
+                    "5",
+                    "the millions",
+                    "thousands",
+                    "30"
+                ],
+                "WORK_OF_ART": [
+                    "Docker",
+                    "Using Graphs"
+                ]
             },
             "metadata": {
                 "author": "B. Cameron Gain",
@@ -3287,14 +4297,41 @@
                     "Every other week",
                     "today"
                 ],
-                "GPE": ["host_ca"],
-                "FAC": ["16:33 user-key.pub - rw", "Teleport Teleport", "Try Teleport", "Products Teleport Overview Teleport"],
-                "TIME": ["16:33", "19 16:34", "the next two hours", "every 30 seconds"],
-                "MONEY": ["54 $"],
-                "PRODUCT": ["16:33 user-key.pub", "Google 2", "-172 -31 -33", "Add 2-factor"],
-                "ORDINAL": ["second", "first", "Firstly"],
-                "QUANTITY": ["6-digit"],
-                "WORK_OF_ART": ["Sharing By Ben Arent View"]
+                "GPE": [
+                    "host_ca"
+                ],
+                "FAC": [
+                    "16:33 user-key.pub - rw",
+                    "Teleport Teleport",
+                    "Try Teleport",
+                    "Products Teleport Overview Teleport"
+                ],
+                "TIME": [
+                    "16:33",
+                    "19 16:34",
+                    "the next two hours",
+                    "every 30 seconds"
+                ],
+                "MONEY": [
+                    "54 $"
+                ],
+                "PRODUCT": [
+                    "16:33 user-key.pub",
+                    "Google 2",
+                    "-172 -31 -33",
+                    "Add 2-factor"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "first",
+                    "Firstly"
+                ],
+                "QUANTITY": [
+                    "6-digit"
+                ],
+                "WORK_OF_ART": [
+                    "Sharing By Ben Arent View"
+                ]
             },
             "metadata": {
                 "author": "Teleport",
@@ -3328,16 +4365,58 @@
                     "This month",
                     "August 14, 2022"
                 ],
-                "ORG": ["Drew DeVault's", "RAID", "Yank", "Vulnerability Management for Go Announcing", "SourceHut", "MIT"],
-                "CARDINAL": ["two", "4", "5 microSD", "1", "One", "three", "10101100", "one", "ten", "2"],
-                "ORDINAL": ["second", "third", "first"],
-                "PERCENT": ["almost 2%"],
-                "PERSON": ["Rosetta Disk", "XOR", "Zed", "Borg", "thro"],
-                "FAC": ["RAID1"],
-                "EVENT": ["XOR", "The Go Blog September 6, 2022"],
-                "TIME": ["5\nminutes", "48 hours"],
-                "MONEY": ["100"],
-                "GPE": ["Wayland"]
+                "ORG": [
+                    "Drew DeVault's",
+                    "RAID",
+                    "Yank",
+                    "Vulnerability Management for Go Announcing",
+                    "SourceHut",
+                    "MIT"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "4",
+                    "5 microSD",
+                    "1",
+                    "One",
+                    "three",
+                    "10101100",
+                    "one",
+                    "ten",
+                    "2"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "third",
+                    "first"
+                ],
+                "PERCENT": [
+                    "almost 2%"
+                ],
+                "PERSON": [
+                    "Rosetta Disk",
+                    "XOR",
+                    "Zed",
+                    "Borg",
+                    "thro"
+                ],
+                "FAC": [
+                    "RAID1"
+                ],
+                "EVENT": [
+                    "XOR",
+                    "The Go Blog September 6, 2022"
+                ],
+                "TIME": [
+                    "5\nminutes",
+                    "48 hours"
+                ],
+                "MONEY": [
+                    "100"
+                ],
+                "GPE": [
+                    "Wayland"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -3359,14 +4438,50 @@
             "updatedAt": "2022-09-12T19:12:27.978Z",
             "path": "articles/sizovs.net/2020-03-26-developers-dont-need-ping-pong-tables.html",
             "namedEntities": {
-                "ORG": ["Eduards Sizovs", "Starbucks", "Fruit Ninja", "Sprint", "JavaScript", "Disqus"],
-                "DATE": ["March 2020", "Today", "Yesterday", "the next half an hour", "every day"],
-                "GPE": ["Thailand", "Barcelona", "B2C."],
-                "CARDINAL": ["12", "one", "millions", "zero"],
-                "FAC": ["Disneyland"],
-                "PERSON": ["Autonomy Autonomy", "Product Backlog", "Mike", "Kate", "Jeff", "Hackathon"],
-                "TIME": ["late night", "6:00 am"],
-                "PRODUCT": ["Scrum"]
+                "ORG": [
+                    "Eduards Sizovs",
+                    "Starbucks",
+                    "Fruit Ninja",
+                    "Sprint",
+                    "JavaScript",
+                    "Disqus"
+                ],
+                "DATE": [
+                    "March 2020",
+                    "Today",
+                    "Yesterday",
+                    "the next half an hour",
+                    "every day"
+                ],
+                "GPE": [
+                    "Thailand",
+                    "Barcelona",
+                    "B2C."
+                ],
+                "CARDINAL": [
+                    "12",
+                    "one",
+                    "millions",
+                    "zero"
+                ],
+                "FAC": [
+                    "Disneyland"
+                ],
+                "PERSON": [
+                    "Autonomy Autonomy",
+                    "Product Backlog",
+                    "Mike",
+                    "Kate",
+                    "Jeff",
+                    "Hackathon"
+                ],
+                "TIME": [
+                    "late night",
+                    "6:00 am"
+                ],
+                "PRODUCT": [
+                    "Scrum"
+                ]
             },
             "metadata": {
                 "author": "Eduards Sizovs",
@@ -3412,12 +4527,24 @@
                     "Wikipedia",
                     "AI"
                 ],
-                "CARDINAL": ["2/29/2020"],
-                "ORDINAL": ["first"],
-                "WORK_OF_ART": ["PhD"],
-                "MONEY": ["1 penny"],
-                "GPE": ["Lucasfilm"],
-                "DATE": ["the 1970s"]
+                "CARDINAL": [
+                    "2/29/2020"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "PhD"
+                ],
+                "MONEY": [
+                    "1 penny"
+                ],
+                "GPE": [
+                    "Lucasfilm"
+                ],
+                "DATE": [
+                    "the 1970s"
+                ]
             },
             "metadata": {
                 "author": "Austin Z. Henley",
@@ -3454,8 +4581,20 @@
                     "Previous Article Productivity Experiments Next Article",
                     "Developer Microskills"
                 ],
-                "PERSON": ["Sam Julien", "Jane", "Ashley", "Stephanie", "Harry Potter", "Sam", "Twitter", "Susan", "Netrunner"],
-                "WORK_OF_ART": ["The Painfully Shy Developer's Guide to Networking for a Better Job"],
+                "PERSON": [
+                    "Sam Julien",
+                    "Jane",
+                    "Ashley",
+                    "Stephanie",
+                    "Harry Potter",
+                    "Sam",
+                    "Twitter",
+                    "Susan",
+                    "Netrunner"
+                ],
+                "WORK_OF_ART": [
+                    "The Painfully Shy Developer's Guide to Networking for a Better Job"
+                ],
                 "DATE": [
                     "July 07, 2017 Look",
                     "years",
@@ -3471,13 +4610,46 @@
                     "1770",
                     "2015 - Present"
                 ],
-                "CARDINAL": ["zero", "two", "3", "5", "1", "2", "4", "more than", "100", "one", "three", "6"],
-                "ORDINAL": ["first", "second", "third", "First"],
-                "PERCENT": ["100%"],
-                "QUANTITY": ["a mile"],
-                "TIME": ["about 30 seconds", "a few minutes", "a minute"],
-                "PRODUCT": ["Magic Plugin X"],
-                "GPE": ["Ohio", "America", "Michigan", "P.S."]
+                "CARDINAL": [
+                    "zero",
+                    "two",
+                    "3",
+                    "5",
+                    "1",
+                    "2",
+                    "4",
+                    "more than",
+                    "100",
+                    "one",
+                    "three",
+                    "6"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third",
+                    "First"
+                ],
+                "PERCENT": [
+                    "100%"
+                ],
+                "QUANTITY": [
+                    "a mile"
+                ],
+                "TIME": [
+                    "about 30 seconds",
+                    "a few minutes",
+                    "a minute"
+                ],
+                "PRODUCT": [
+                    "Magic Plugin X"
+                ],
+                "GPE": [
+                    "Ohio",
+                    "America",
+                    "Michigan",
+                    "P.S."
+                ]
             },
             "metadata": {
                 "author": "Sam Julien",
@@ -3499,7 +4671,12 @@
             "updatedAt": "2022-09-12T19:16:35.990Z",
             "path": "articles/daveceddia.com/interview-questions-to-ask-company.html",
             "namedEntities": {
-                "DATE": ["February 08, 2022", "Snow days", "Annual", "2022"],
+                "DATE": [
+                    "February 08, 2022",
+                    "Snow days",
+                    "Annual",
+                    "2022"
+                ],
                 "PERSON": [
                     "Twitter",
                     "Kyle Shevlin",
@@ -3511,10 +4688,23 @@
                     "Login Add Comment M",
                     "Dave Ceddia"
                 ],
-                "TIME": ["5 minute", "5-minute", "hours"],
-                "CARDINAL": ["2", "one", "90"],
-                "ORG": ["SOX", "Markdown Commento"],
-                "GPE": ["London"]
+                "TIME": [
+                    "5 minute",
+                    "5-minute",
+                    "hours"
+                ],
+                "CARDINAL": [
+                    "2",
+                    "one",
+                    "90"
+                ],
+                "ORG": [
+                    "SOX",
+                    "Markdown Commento"
+                ],
+                "GPE": [
+                    "London"
+                ]
             },
             "metadata": {
                 "author": "By",
@@ -3744,8 +4934,21 @@
                     "2) April 2011",
                     "4) March 2011"
                 ],
-                "WORK_OF_ART": ["The Collapse of Complex Societies", "Analysis and Design", "Fall of Civilizations", "About Me"],
-                "NORP": ["Romans", "Mayans", "Chacoans", "Caesar", "Belady", "Complex", "japanese"],
+                "WORK_OF_ART": [
+                    "The Collapse of Complex Societies",
+                    "Analysis and Design",
+                    "Fall of Civilizations",
+                    "About Me"
+                ],
+                "NORP": [
+                    "Romans",
+                    "Mayans",
+                    "Chacoans",
+                    "Caesar",
+                    "Belady",
+                    "Complex",
+                    "japanese"
+                ],
                 "TIME": [
                     "1:43 PM",
                     "4:54 PM",
@@ -3787,11 +4990,31 @@
                     "7:34 AM",
                     "6:10 PM"
                 ],
-                "GPE": ["tetsuoii", "Louis", "Cliff", "Gesundheit", "Ansehen", "Absturz", "Seattle"],
-                "PERCENT": ["100%", "33%", "8:35 AM Mark"],
-                "PRODUCT": ["Enigma", "Institution"],
-                "ORDINAL": ["first", "third"],
-                "MONEY": ["136"]
+                "GPE": [
+                    "tetsuoii",
+                    "Louis",
+                    "Cliff",
+                    "Gesundheit",
+                    "Ansehen",
+                    "Absturz",
+                    "Seattle"
+                ],
+                "PERCENT": [
+                    "100%",
+                    "33%",
+                    "8:35 AM Mark"
+                ],
+                "PRODUCT": [
+                    "Enigma",
+                    "Institution"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "MONEY": [
+                    "136"
+                ]
             },
             "metadata": {
                 "author": "cataraducan",
@@ -3813,13 +5036,34 @@
             "updatedAt": "2022-09-12T19:16:39.161Z",
             "path": "articles/vaghetti.dev/posts-times-are-great.html",
             "namedEntities": {
-                "PERSON": ["Douglas Vaghetti", "Jeff Besos", "Wanna"],
-                "DATE": ["February 20, 2022", "the last couple of years", "decades", "the 90s"],
-                "LOC": ["Asia"],
-                "CARDINAL": ["#", "14"],
-                "ORG": ["IDE"],
-                "PERCENT": ["5%"],
-                "GPE": ["AI", "RSS"]
+                "PERSON": [
+                    "Douglas Vaghetti",
+                    "Jeff Besos",
+                    "Wanna"
+                ],
+                "DATE": [
+                    "February 20, 2022",
+                    "the last couple of years",
+                    "decades",
+                    "the 90s"
+                ],
+                "LOC": [
+                    "Asia"
+                ],
+                "CARDINAL": [
+                    "#",
+                    "14"
+                ],
+                "ORG": [
+                    "IDE"
+                ],
+                "PERCENT": [
+                    "5%"
+                ],
+                "GPE": [
+                    "AI",
+                    "RSS"
+                ]
             },
             "metadata": {
                 "author": "Douglas Vaghetti",
@@ -3847,12 +5091,31 @@
                     "Hard Work",
                     "Difficult Problems"
                 ],
-                "PERSON": ["Ben Congdon Ben Congdon", "David McIver", "Difficult Problem", "Ben Congdon"],
-                "DATE": ["2022", "2015-2022"],
-                "TIME": ["hours"],
-                "FAC": ["Difficult Problems"],
-                "ORG": ["Difficult Problems", "Difficult Problem"],
-                "CARDINAL": ["one", "One", "two"]
+                "PERSON": [
+                    "Ben Congdon Ben Congdon",
+                    "David McIver",
+                    "Difficult Problem",
+                    "Ben Congdon"
+                ],
+                "DATE": [
+                    "2022",
+                    "2015-2022"
+                ],
+                "TIME": [
+                    "hours"
+                ],
+                "FAC": [
+                    "Difficult Problems"
+                ],
+                "ORG": [
+                    "Difficult Problems",
+                    "Difficult Problem"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "One",
+                    "two"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -3874,9 +5137,21 @@
             "updatedAt": "2022-09-12T19:16:52.809Z",
             "path": "articles/brandur.org/graphql.html",
             "namedEntities": {
-                "DATE": ["Published June 8, 2018", "2015", "2016", "years", "today"],
-                "PERSON": ["Twitter", "Batch", "getUser"],
-                "PRODUCT": ["Discovery"],
+                "DATE": [
+                    "Published June 8, 2018",
+                    "2015",
+                    "2016",
+                    "years",
+                    "today"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "Batch",
+                    "getUser"
+                ],
+                "PRODUCT": [
+                    "Discovery"
+                ],
                 "ORG": [
                     "API",
                     "GitHub",
@@ -3896,10 +5171,27 @@
                     "JavaScript",
                     "Hacker News"
                 ],
-                "ORDINAL": ["third", "fourth", "first", "second"],
-                "CARDINAL": ["three", "1", "two", "one", "up to four", "4+", "only five"],
-                "WORK_OF_ART": ["Docs"],
-                "PERCENT": ["99%"]
+                "ORDINAL": [
+                    "third",
+                    "fourth",
+                    "first",
+                    "second"
+                ],
+                "CARDINAL": [
+                    "three",
+                    "1",
+                    "two",
+                    "one",
+                    "up to four",
+                    "4+",
+                    "only five"
+                ],
+                "WORK_OF_ART": [
+                    "Docs"
+                ],
+                "PERCENT": [
+                    "99%"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -3935,14 +5227,42 @@
                     "Remix",
                     "CSS"
                 ],
-                "WORK_OF_ART": ["About Me Archive"],
-                "DATE": ["2022-01-28", "About 5 years ago", "today", "a single day", "years", "A few years later"],
-                "CARDINAL": ["hundreds", "95%+", "7", "10"],
-                "ORDINAL": ["first", "second", "20ms"],
-                "GPE": ["React"],
-                "NORP": ["Pareto"],
-                "PERCENT": ["80%", "20%"],
-                "PERSON": ["Pico CSS", "Felt"]
+                "WORK_OF_ART": [
+                    "About Me Archive"
+                ],
+                "DATE": [
+                    "2022-01-28",
+                    "About 5 years ago",
+                    "today",
+                    "a single day",
+                    "years",
+                    "A few years later"
+                ],
+                "CARDINAL": [
+                    "hundreds",
+                    "95%+",
+                    "7",
+                    "10"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "20ms"
+                ],
+                "GPE": [
+                    "React"
+                ],
+                "NORP": [
+                    "Pareto"
+                ],
+                "PERCENT": [
+                    "80%",
+                    "20%"
+                ],
+                "PERSON": [
+                    "Pico CSS",
+                    "Felt"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -4084,7 +5404,13 @@
                     "Learn",
                     "Address Free Sign"
                 ],
-                "ORDINAL": ["3rd", "second", "Third", "first", "Firstly"],
+                "ORDINAL": [
+                    "3rd",
+                    "second",
+                    "Third",
+                    "first",
+                    "Firstly"
+                ],
                 "WORK_OF_ART": [
                     "Helvetica San Francisco",
                     "GNU/Linux 4",
@@ -4093,8 +5419,18 @@
                     "Favourites in Finder and you",
                     "Me Subscribe Citations Support My Blog About Me ISSN"
                 ],
-                "GPE": ["Linux", "Sareh", "Distroland", "BetterTouchTool", "Jeroen"],
-                "MONEY": ["100", "only $1,799", "Multi billion dollar"],
+                "GPE": [
+                    "Linux",
+                    "Sareh",
+                    "Distroland",
+                    "BetterTouchTool",
+                    "Jeroen"
+                ],
+                "MONEY": [
+                    "100",
+                    "only $1,799",
+                    "Multi billion dollar"
+                ],
                 "DATE": [
                     "2018-05-22",
                     "about 1998",
@@ -4185,11 +5521,24 @@
                     "Task View",
                     "AltTab"
                 ],
-                "TIME": ["13:38"],
-                "FAC": ["🙂 Reply", "https://github.com/ganeshrvel/openmtp Always", "Sway"],
-                "PERCENT": ["150%"],
-                "LAW": ["Title Bar"],
-                "NORP": ["Rectangle", "HTML5"]
+                "TIME": [
+                    "13:38"
+                ],
+                "FAC": [
+                    "🙂 Reply",
+                    "https://github.com/ganeshrvel/openmtp Always",
+                    "Sway"
+                ],
+                "PERCENT": [
+                    "150%"
+                ],
+                "LAW": [
+                    "Title Bar"
+                ],
+                "NORP": [
+                    "Rectangle",
+                    "HTML5"
+                ]
             },
             "metadata": {
                 "author": "edent",
@@ -4211,7 +5560,10 @@
             "updatedAt": "2022-09-12T21:35:05.084Z",
             "path": "articles/freakingrectangle.com/2022-04-15-how-to-freaking-hire-great-developers.html",
             "namedEntities": {
-                "PRODUCT": ["View menu View", "Twitter Instagram"],
+                "PRODUCT": [
+                    "View menu View",
+                    "Twitter Instagram"
+                ],
                 "DATE": [
                     "April 15, 2022 August 2, 2022",
                     "the next several years",
@@ -4278,8 +5630,17 @@
                     "CoderPad",
                     "Reply"
                 ],
-                "PERCENT": ["95%", "100%"],
-                "CARDINAL": ["two", "1", "2", "around half a dozen", "one"],
+                "PERCENT": [
+                    "95%",
+                    "100%"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "1",
+                    "2",
+                    "around half a dozen",
+                    "one"
+                ],
                 "PERSON": [
                     "Ian Walsh",
                     "Googleable",
@@ -4290,7 +5651,9 @@
                     "Reply",
                     "Blog"
                 ],
-                "ORDINAL": ["first"]
+                "ORDINAL": [
+                    "first"
+                ]
             },
             "metadata": {
                 "author": "freakingrectangle",
@@ -4329,10 +5692,39 @@
                     "Apollo-Android",
                     "Sierra Rotimi-Williams"
                 ],
-                "MONEY": ["1.7B", "1.8B.", "1.7B."],
-                "CARDINAL": ["70", "100", "six", "zero", "one", "billions", "3", "40", "two", "three"],
-                "GPE": ["Postgres", "SF", "Python", "Senegal", "Uganda", "DB", "Kubernetes", "Mali"],
-                "DATE": ["2013", "75k", "the first few months", "today"],
+                "MONEY": [
+                    "1.7B",
+                    "1.8B.",
+                    "1.7B."
+                ],
+                "CARDINAL": [
+                    "70",
+                    "100",
+                    "six",
+                    "zero",
+                    "one",
+                    "billions",
+                    "3",
+                    "40",
+                    "two",
+                    "three"
+                ],
+                "GPE": [
+                    "Postgres",
+                    "SF",
+                    "Python",
+                    "Senegal",
+                    "Uganda",
+                    "DB",
+                    "Kubernetes",
+                    "Mali"
+                ],
+                "DATE": [
+                    "2013",
+                    "75k",
+                    "the first few months",
+                    "today"
+                ],
                 "PERSON": [
                     "Twitter",
                     "Eventlet",
@@ -4348,9 +5740,15 @@
                     "Bill Mill",
                     "Finbarr Timbers"
                 ],
-                "PRODUCT": ["Celery"],
-                "NORP": ["African"],
-                "LOC": ["Africa"]
+                "PRODUCT": [
+                    "Celery"
+                ],
+                "NORP": [
+                    "African"
+                ],
+                "LOC": [
+                    "Africa"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -4385,7 +5783,12 @@
                     "CONFIG_FEATURE_HTTPD_CGI",
                     "Switch"
                 ],
-                "WORK_OF_ART": ["Crystal and Rust", "Network Utilities", "Settings", "httpd.conf"],
+                "WORK_OF_ART": [
+                    "Crystal and Rust",
+                    "Network Utilities",
+                    "Settings",
+                    "httpd.conf"
+                ],
                 "ORG": [
                     "GitHub",
                     "BusyBox",
@@ -4414,11 +5817,24 @@
                     "httpd.conf #",
                     "154"
                 ],
-                "ORDINAL": ["first"],
-                "MONEY": ["busybox:1.35 #", "# Run BusyBox"],
-                "GPE": ["WORKDIR /home", "Uploads"],
-                "PRODUCT": ["Alpine", "Download"],
-                "LOC": ["Docker Hub"]
+                "ORDINAL": [
+                    "first"
+                ],
+                "MONEY": [
+                    "busybox:1.35 #",
+                    "# Run BusyBox"
+                ],
+                "GPE": [
+                    "WORKDIR /home",
+                    "Uploads"
+                ],
+                "PRODUCT": [
+                    "Alpine",
+                    "Download"
+                ],
+                "LOC": [
+                    "Docker Hub"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -4440,12 +5856,26 @@
             "updatedAt": "2022-09-12T21:35:52.247Z",
             "path": "articles/schroer.ca/2022-04-10-the-joy-of-small-projects.html",
             "namedEntities": {
-                "PRODUCT": ["Blog Schroer Archive"],
-                "ORG": ["Size", "Going Deeper Start"],
-                "DATE": ["multiple days", "weeks"],
-                "CARDINAL": ["two"],
-                "TIME": ["hours"],
-                "MONEY": ["millions of dollars"]
+                "PRODUCT": [
+                    "Blog Schroer Archive"
+                ],
+                "ORG": [
+                    "Size",
+                    "Going Deeper Start"
+                ],
+                "DATE": [
+                    "multiple days",
+                    "weeks"
+                ],
+                "CARDINAL": [
+                    "two"
+                ],
+                "TIME": [
+                    "hours"
+                ],
+                "MONEY": [
+                    "millions of dollars"
+                ]
             },
             "metadata": {
                 "author": "Dominick Schroer",
@@ -4467,7 +5897,14 @@
             "updatedAt": "2022-09-12T21:38:01.209Z",
             "path": "articles/lepiter.io/feenk-developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py.html",
             "namedEntities": {
-                "ORG": ["Developers", "Shaw", "Xia, Bao, Lo", "Software Engineering", "Software", "Tudor Girba"],
+                "ORG": [
+                    "Developers",
+                    "Shaw",
+                    "Xia, Bao, Lo",
+                    "Software Engineering",
+                    "Software",
+                    "Tudor Girba"
+                ],
                 "DATE": [
                     "1979",
                     "more than 4 decades later",
@@ -4479,13 +5916,33 @@
                     "a decade from now",
                     "1 year ago"
                 ],
-                "PERSON": ["Zelkowitz", "Hassan", "Glamorous Toolkit"],
-                "PERCENT": ["67%", "24%"],
-                "GPE": ["Xing"],
-                "WORK_OF_ART": ["Measuring Program Comprehension: A Large-Scale Field Study with Professionals"],
-                "CARDINAL": ["951", "two"],
-                "ORDINAL": ["third", "first"],
-                "PRODUCT": ["Navigation", "Voldemort"]
+                "PERSON": [
+                    "Zelkowitz",
+                    "Hassan",
+                    "Glamorous Toolkit"
+                ],
+                "PERCENT": [
+                    "67%",
+                    "24%"
+                ],
+                "GPE": [
+                    "Xing"
+                ],
+                "WORK_OF_ART": [
+                    "Measuring Program Comprehension: A Large-Scale Field Study with Professionals"
+                ],
+                "CARDINAL": [
+                    "951",
+                    "two"
+                ],
+                "ORDINAL": [
+                    "third",
+                    "first"
+                ],
+                "PRODUCT": [
+                    "Navigation",
+                    "Voldemort"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -4507,11 +5964,27 @@
             "updatedAt": "2022-09-12T21:38:26.837Z",
             "path": "articles/rohanrd.xyz/posts-why-you-should-start-self-hosting.html",
             "namedEntities": {
-                "PERSON": ["Self Hosting", "Rohan Deshmukh ← Home Archive Tags"],
-                "DATE": ["23, 2022", "over weekend", "2022"],
-                "CARDINAL": ["501", "millions"],
-                "TIME": ["3 minute"],
-                "ORG": ["Picasa", "YouTube", "Hacker News"]
+                "PERSON": [
+                    "Self Hosting",
+                    "Rohan Deshmukh ← Home Archive Tags"
+                ],
+                "DATE": [
+                    "23, 2022",
+                    "over weekend",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "501",
+                    "millions"
+                ],
+                "TIME": [
+                    "3 minute"
+                ],
+                "ORG": [
+                    "Picasa",
+                    "YouTube",
+                    "Hacker News"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -4533,14 +6006,34 @@
             "updatedAt": "2022-09-12T21:38:35.210Z",
             "path": "articles/nicolalindgren.com/2021-11-15-how-do-you-actually-prevent-bugs.html",
             "namedEntities": {
-                "ORG": ["Nicola", "FE", "YouTube"],
-                "DATE": ["2021-11-15"],
-                "ORDINAL": ["3rd"],
-                "LAW": ["Chapter 11"],
-                "PERSON": ["Twitter", "@NicolaLindgren", "Handling"],
-                "CARDINAL": ["#"],
-                "MONEY": ["#How-To"],
-                "GPE": ["Testing"]
+                "ORG": [
+                    "Nicola",
+                    "FE",
+                    "YouTube"
+                ],
+                "DATE": [
+                    "2021-11-15"
+                ],
+                "ORDINAL": [
+                    "3rd"
+                ],
+                "LAW": [
+                    "Chapter 11"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "@NicolaLindgren",
+                    "Handling"
+                ],
+                "CARDINAL": [
+                    "#"
+                ],
+                "MONEY": [
+                    "#How-To"
+                ],
+                "GPE": [
+                    "Testing"
+                ]
             },
             "metadata": {
                 "author": null,
@@ -4636,7 +6129,13 @@
                     "Ilyas",
                     "Jun"
                 ],
-                "DATE": ["3, 2022", "2022-03-03T21:59:08Z", "three-week", "the last couple of years", "2022"],
+                "DATE": [
+                    "3, 2022",
+                    "2022-03-03T21:59:08Z",
+                    "three-week",
+                    "the last couple of years",
+                    "2022"
+                ],
                 "ORG": [
                     "ISO 8601",
                     "HTTP",
@@ -4668,14 +6167,39 @@
                     "POST /users/{id}/follow",
                     "WRITTEN"
                 ],
-                "PRODUCT": ["Api-Key", "HTTP", "order.ordernumber user.firstName", "Blog", "Chinwendu", "23 Love"],
-                "LOC": ["Provide", "Scandinavia"],
-                "ORDINAL": ["first", "third"],
-                "NORP": ["Chinese"],
-                "GPE": ["expand=", "I‘m"],
-                "MONEY": ["1"],
-                "WORK_OF_ART": ["Api-Key", "Blog Archive"],
-                "LANGUAGE": ["English"]
+                "PRODUCT": [
+                    "Api-Key",
+                    "HTTP",
+                    "order.ordernumber user.firstName",
+                    "Blog",
+                    "Chinwendu",
+                    "23 Love"
+                ],
+                "LOC": [
+                    "Provide",
+                    "Scandinavia"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "NORP": [
+                    "Chinese"
+                ],
+                "GPE": [
+                    "expand=",
+                    "I‘m"
+                ],
+                "MONEY": [
+                    "1"
+                ],
+                "WORK_OF_ART": [
+                    "Api-Key",
+                    "Blog Archive"
+                ],
+                "LANGUAGE": [
+                    "English"
+                ]
             },
             "metadata": {
                 "author": "Ronald Blüthl",
@@ -4717,7 +6241,17 @@
                     "Computer Science at Carnegie Mellon University",
                     "Newsletter Technology"
                 ],
-                "CARDINAL": ["100", "hundreds", "thousands", "500", "millions", "one", "billions", "two", "One"],
+                "CARDINAL": [
+                    "100",
+                    "hundreds",
+                    "thousands",
+                    "500",
+                    "millions",
+                    "one",
+                    "billions",
+                    "two",
+                    "One"
+                ],
                 "PERSON": [
                     "Subscribe Top Suggestions",
                     "Jean Yang",
@@ -4729,8 +6263,16 @@
                     "Subscribe Popular",
                     "Chris Herd"
                 ],
-                "PERCENT": ["the 99%", "60%", "75%", "90%", "99%"],
-                "PRODUCT": ["Twitter LinkedIn Facebook Hacker"],
+                "PERCENT": [
+                    "the 99%",
+                    "60%",
+                    "75%",
+                    "90%",
+                    "99%"
+                ],
+                "PRODUCT": [
+                    "Twitter LinkedIn Facebook Hacker"
+                ],
                 "DATE": [
                     "daily",
                     "the last few years",
@@ -4745,12 +6287,27 @@
                     "some quarters later",
                     "February 16, 2022"
                 ],
-                "LOC": ["Silicon Valley"],
-                "LAW": ["Fortune 500"],
-                "ORDINAL": ["First", "Second"],
-                "WORK_OF_ART": ["exemplary"],
-                "TIME": ["a few minutes", "the first 60 seconds", "the first minute"],
-                "EVENT": ["the War for Top Talent"]
+                "LOC": [
+                    "Silicon Valley"
+                ],
+                "LAW": [
+                    "Fortune 500"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "Second"
+                ],
+                "WORK_OF_ART": [
+                    "exemplary"
+                ],
+                "TIME": [
+                    "a few minutes",
+                    "the first 60 seconds",
+                    "the first minute"
+                ],
+                "EVENT": [
+                    "the War for Top Talent"
+                ]
             },
             "metadata": {
                 "author": "Jean Yang",
@@ -4850,10 +6407,23 @@
                     "nyfw",
                     "Chlöe Bailey"
                 ],
-                "ORDINAL": ["second"],
-                "LOC": ["Black"],
-                "GPE": ["Yours", "Hollywood", "New York’s", "U.K.", "New York"],
-                "EVENT": ["Primetime Emmy Awards", "Gigi Hadid"],
+                "ORDINAL": [
+                    "second"
+                ],
+                "LOC": [
+                    "Black"
+                ],
+                "GPE": [
+                    "Yours",
+                    "Hollywood",
+                    "New York’s",
+                    "U.K.",
+                    "New York"
+                ],
+                "EVENT": [
+                    "Primetime Emmy Awards",
+                    "Gigi Hadid"
+                ],
                 "TIME": [
                     "4:00 p.m.",
                     "3:57 p.m.",
@@ -4871,8 +6441,14 @@
                     "2:54 p.m.",
                     "8:00 a.m."
                 ],
-                "FAC": ["Coney Island Police", "New York Fashion", "the Kim Kardashian Sex Tape"],
-                "CARDINAL": ["one"]
+                "FAC": [
+                    "Coney Island Police",
+                    "New York Fashion",
+                    "the Kim Kardashian Sex Tape"
+                ],
+                "CARDINAL": [
+                    "one"
+                ]
             },
             "metadata": {
                 "author": "Naima Coster",
@@ -4894,7 +6470,14 @@
             "updatedAt": "2022-09-12T21:43:27.770Z",
             "path": "articles/nytimes.com/2022-01-08-opinion-seneca-village-central-park-new-yorkhtml.html",
             "namedEntities": {
-                "GPE": ["Seneca Village", "New York City", "New York", "Arizona", "the British Empire", "America"],
+                "GPE": [
+                    "Seneca Village",
+                    "New York City",
+                    "New York",
+                    "Arizona",
+                    "the British Empire",
+                    "America"
+                ],
                 "ORG": [
                     "The New York Times",
                     "Digital and Home Delivery Subscriptions Sections",
@@ -4920,7 +6503,12 @@
                     "Advertise T Brand Studio",
                     "The New York Times Company Help Feedback"
                 ],
-                "MONEY": ["1", "$4.25 $1/week", "4", "17"],
+                "MONEY": [
+                    "1",
+                    "$4.25 $1/week",
+                    "4",
+                    "17"
+                ],
                 "PERSON": [
                     "Advertisement Continue",
                     "Staples",
@@ -4971,13 +6559,34 @@
                     "one year",
                     "1 year"
                 ],
-                "WORK_OF_ART": ["Black Panther", "the Pulitzer Prize", "Ph.D."],
-                "LOC": ["Central Park", "Before Central Park"],
-                "FAC": ["Seneca Village", "Subway"],
-                "CARDINAL": ["about 200", "6"],
-                "NORP": ["African American", "African Americans", "The Wives of Republican"],
-                "ORDINAL": ["first"],
-                "LAW": ["Car Crash A Journey Through Black Nova Scotia Downsizing"]
+                "WORK_OF_ART": [
+                    "Black Panther",
+                    "the Pulitzer Prize",
+                    "Ph.D."
+                ],
+                "LOC": [
+                    "Central Park",
+                    "Before Central Park"
+                ],
+                "FAC": [
+                    "Seneca Village",
+                    "Subway"
+                ],
+                "CARDINAL": [
+                    "about 200",
+                    "6"
+                ],
+                "NORP": [
+                    "African American",
+                    "African Americans",
+                    "The Wives of Republican"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "LAW": [
+                    "Car Crash A Journey Through Black Nova Scotia Downsizing"
+                ]
             },
             "metadata": {
                 "author": "By",
@@ -5139,8 +6748,21 @@
                     "Shirley Li",
                     "Claustrophobes"
                 ],
-                "LOC": ["Atlantic", "The Atlantic ’s", "Hidden Valley Road", "Mars", "The Atlantic"],
-                "TIME": ["one evening", "mornings", "two seconds", "hours", "Sunday-night", "one afternoon"],
+                "LOC": [
+                    "Atlantic",
+                    "The Atlantic ’s",
+                    "Hidden Valley Road",
+                    "Mars",
+                    "The Atlantic"
+                ],
+                "TIME": [
+                    "one evening",
+                    "mornings",
+                    "two seconds",
+                    "hours",
+                    "Sunday-night",
+                    "one afternoon"
+                ],
                 "WORK_OF_ART": [
                     "The Book of Dahlia",
                     "Bucket List",
@@ -5216,7 +6838,13 @@
                     "Just One-Eighth",
                     "nine"
                 ],
-                "ORDINAL": ["fifth", "Second", "first", "second", "third"],
+                "ORDINAL": [
+                    "fifth",
+                    "Second",
+                    "first",
+                    "second",
+                    "third"
+                ],
                 "GPE": [
                     "Albany",
                     "New York City",
@@ -5235,13 +6863,38 @@
                     "America",
                     "Atlantic Discover"
                 ],
-                "EVENT": ["a Great Pandemic Friendship Reckoning"],
-                "QUANTITY": ["thousands of kilowatt", "3,000 miles"],
-                "NORP": ["Dutch", "Rotarians", "Americans", "American", "Tversky", "Neapolitan", "Ukrainian", "Russian"],
-                "FAC": ["Holt-Lunstad’s"],
-                "PERCENT": ["Nearly 20 percent", "44 percent", "38 percent"],
-                "PRODUCT": ["Socrates"],
-                "MONEY": ["10,000", "only $15.99"]
+                "EVENT": [
+                    "a Great Pandemic Friendship Reckoning"
+                ],
+                "QUANTITY": [
+                    "thousands of kilowatt",
+                    "3,000 miles"
+                ],
+                "NORP": [
+                    "Dutch",
+                    "Rotarians",
+                    "Americans",
+                    "American",
+                    "Tversky",
+                    "Neapolitan",
+                    "Ukrainian",
+                    "Russian"
+                ],
+                "FAC": [
+                    "Holt-Lunstad’s"
+                ],
+                "PERCENT": [
+                    "Nearly 20 percent",
+                    "44 percent",
+                    "38 percent"
+                ],
+                "PRODUCT": [
+                    "Socrates"
+                ],
+                "MONEY": [
+                    "10,000",
+                    "only $15.99"
+                ]
             },
             "metadata": {
                 "author": "Jennifer Senior",
@@ -5354,12 +7007,36 @@
                     "thousands",
                     "eight"
                 ],
-                "GPE": ["BS", "U.S.", "America", "Germany", "Design AI"],
-                "PERCENT": ["Sixty-five percent", "0%", "100%"],
-                "QUANTITY": ["two degrees", "12 degrees"],
-                "NORP": ["Avengers", "French", "Democrats", "British", "Nationalists"],
-                "TIME": ["0 seconds of 3 minutes, 9 seconds"],
-                "WORK_OF_ART": ["More Top Stories", "Exclusive: Zoom"]
+                "GPE": [
+                    "BS",
+                    "U.S.",
+                    "America",
+                    "Germany",
+                    "Design AI"
+                ],
+                "PERCENT": [
+                    "Sixty-five percent",
+                    "0%",
+                    "100%"
+                ],
+                "QUANTITY": [
+                    "two degrees",
+                    "12 degrees"
+                ],
+                "NORP": [
+                    "Avengers",
+                    "French",
+                    "Democrats",
+                    "British",
+                    "Nationalists"
+                ],
+                "TIME": [
+                    "0 seconds of 3 minutes, 9 seconds"
+                ],
+                "WORK_OF_ART": [
+                    "More Top Stories",
+                    "Exclusive: Zoom"
+                ]
             },
             "metadata": {
                 "author": "Lydia Dishman",
@@ -5371,9 +7048,71 @@
                 "date": "2021-12-14T20:22:39.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-12T23:47:49.549Z",
+            "domain": "lethain.com",
+            "originalUrl": "https://lethain.com/work-on-what-matters/",
+            "slug": "work-on-what-matters",
+            "tags": [],
+            "updatedAt": "2022-09-12T23:47:49.549Z",
+            "path": "articles/lethain.com/work-on-what-matters.html",
+            "namedEntities": {
+                "ORG": [
+                    "Irrational Exuberance Irrational Exuberance Popular Tags Newsletter",
+                    "Time",
+                    "API",
+                    "Popular Reading a Profit & Loss",
+                    "Profit & Loss"
+                ],
+                "CARDINAL": [
+                    "27",
+                    "one",
+                    "two",
+                    "One",
+                    "three"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "PERSON": [
+                    "Hunter Walk",
+                    "Will Larson"
+                ],
+                "GPE": [
+                    "Digg"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "TIME": [
+                    "a couple hours"
+                ],
+                "NORP": [
+                    "Finish"
+                ],
+                "DATE": [
+                    "a six month",
+                    "a two week",
+                    "twenty years",
+                    "September 10, 2020",
+                    "2022"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "We all have a finite amount of time to live, and within that mortal countdown we devote some fraction towards our work. Even for the most career-focused, your life will be filled by many things beyond work: supporting your family, children, exercise, being a mentor and a mentee, hobbies, and so the…",
+                "image": "https://lethain.com/static/author.png",
+                "publisher": "Irrational Exuberance",
+                "title": "Work on what matters.",
+                "url": "https://lethain.com/work-on-what-matters/",
+                "date": "2020-09-10T13:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:44:21.806Z",
-    "articleCount": 68,
+    "lastUpdatedAt": "2022-09-12T23:47:49.549Z",
+    "articleCount": 69,
     "$schema": "./src/db.schema.json"
 }
