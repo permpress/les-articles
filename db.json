@@ -1,25 +1,6 @@
 {
-    "articles": [
-        {
-            "createdAt": "2022-09-12T02:07:16.985Z",
-            "domain": "joshwcomeau.com",
-            "originalUrl": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-            "slug": "joshwcomeaucomreactwhy-react-re-renders",
-            "tags": [],
-            "updatedAt": "2022-09-12T02:07:16.985Z",
-            "path": "articles/joshwcomeau.com/joshwcomeaucomreactwhy-react-re-renders.html"
-        },
-        {
-            "createdAt": "2022-09-12T02:10:25.183Z",
-            "domain": "joshwcomeau.com",
-            "originalUrl": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-            "slug": "joshwcomeaucomreactwhy-react-re-renders",
-            "tags": [],
-            "updatedAt": "2022-09-12T02:10:25.183Z",
-            "path": "articles/joshwcomeau.com/joshwcomeaucomreactwhy-react-re-renders.html"
-        }
-    ],
-    "lastUpdatedAt": "2022-09-12T02:10:25.183Z",
-    "articleCount": 2,
-    "$schema": "./src/db.schema.json"
+    "$schema": "./src/db.schema.json",
+    "lastUpdatedAt": "2015-12-31T12:00:00.000Z",
+    "articleCount": 0,
+    "articles": []
 }

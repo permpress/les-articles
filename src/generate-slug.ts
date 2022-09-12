@@ -13,7 +13,13 @@ if (!url) {
 
 // Remove http/https/www
 export function generateSlug(url: string) {
-    return slug(url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, ''))
+    return slug(
+        url
+            .replace(/^(?:https?:\/\/)?(?:www\.)?/i, '')
+            .split('/')
+            .slice(1)
+            .join('-'),
+    )
 }
 
 // Check if folder exists
