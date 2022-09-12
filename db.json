@@ -5297,9 +5297,66 @@
                     "millions of dollars"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:38:01.209Z",
+            "domain": "lepiter.io",
+            "originalUrl": "https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/",
+            "slug": "feenk-developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:38:01.209Z",
+            "path": "articles/lepiter.io/feenk-developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py.html",
+            "namedEntities": {
+                "ORG": [
+                    "Developers",
+                    "Shaw",
+                    "Xia, Bao, Lo",
+                    "Software Engineering",
+                    "Software",
+                    "Tudor Girba"
+                ],
+                "DATE": [
+                    "1979",
+                    "more than 4 decades later",
+                    "44",
+                    "2018",
+                    "4 decades",
+                    "Many winters ago",
+                    "a whole decade",
+                    "a decade from now",
+                    "1 year ago"
+                ],
+                "PERSON": [
+                    "Zelkowitz",
+                    "Hassan",
+                    "Glamorous Toolkit"
+                ],
+                "PERCENT": [
+                    "67%",
+                    "24%"
+                ],
+                "GPE": [
+                    "Xing"
+                ],
+                "WORK_OF_ART": [
+                    "Measuring Program Comprehension: A Large-Scale Field Study with Professionals"
+                ],
+                "CARDINAL": [
+                    "951",
+                    "two"
+                ],
+                "ORDINAL": [
+                    "third",
+                    "first"
+                ],
+                "PRODUCT": [
+                    "Navigation",
+                    "Voldemort"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:35:52.248Z",
-    "articleCount": 59,
+    "lastUpdatedAt": "2022-09-12T21:38:01.209Z",
+    "articleCount": 60,
     "$schema": "./src/db.schema.json"
 }
