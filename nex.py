@@ -35,8 +35,6 @@ def remove_tags(html):
     # return data by retrieving the tag content
     return ' '.join(soup.stripped_strings)
 
-from rake_nltk import Rake
-rake_nltk_var = Rake()
 
 webpage_path =  sys.argv[1] 
 source_document = codecs.open(webpage_path, 'r').read()
