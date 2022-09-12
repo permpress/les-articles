@@ -8,8 +8,6 @@ on:
             tags:
                 description: 'Tags to add to the webpage'
                 required: true
-concurrency:
-    group: ${{ github.workflow }}-${{ github.ref }}
 jobs:
     build_infra_dev:
         name: Update
@@ -62,6 +60,8 @@ jobs:
                   ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
             - name: Add and commit changes
               run: |
+                  git pull origin main
+                  git config pull.rebase true
                   git add .
                   git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
                   git push origin main

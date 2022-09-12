@@ -35,10 +35,6 @@ let jobs = [
         tags: ['software-engineering', 'debugging'],
     },
     {
-        url: 'https://martinheinz.dev/blog/79',
-        tags: ['python', 'software-engineering'],
-    },
-    {
         url: 'https://blog.southparkcommons.com/move-fast-or-die/',
         tags: ['entrepreneurship', 'software-engineering'],
     },
@@ -53,14 +49,6 @@ let jobs = [
     {
         url: 'https://www.piratewires.com/p/jump-23d06adb4cb7',
         tags: ['life-hacks'],
-    },
-    {
-        url: 'https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3',
-        tags: ['ai', 'communication', 'software-engineering'],
-    },
-    {
-        url: 'https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/',
-        tags: ['software-engineering', 'programming'],
     },
     {
         url: 'https://alexanderwales.com/the-ai-art-apocalypse/',
