@@ -116,9 +116,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:40:03.197Z",
             "path": "articles/blog.southparkcommons.com/move-fast-or-die.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:41:15.902Z",
+            "domain": "paulgraham.com",
+            "originalUrl": "http://paulgraham.com/fr.html?utm_source=pocket_mylist",
+            "slug": "frhtmlutmsourcepocketmylist",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:41:15.902Z",
+            "path": "articles/paulgraham.com/frhtmlutmsourcepocketmylist.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:40:03.197Z",
-    "articleCount": 13,
+    "lastUpdatedAt": "2022-09-12T03:41:15.902Z",
+    "articleCount": 14,
     "$schema": "./src/db.schema.json"
 }
