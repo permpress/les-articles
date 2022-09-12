@@ -17,9 +17,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T02:46:41.773Z",
             "path": "articles/jacobian.org/2022-sep-9-quality-is-systemic.html"
+        },
+        {
+            "createdAt": "2022-09-12T02:48:20.924Z",
+            "domain": "joshcollinsworth.com",
+            "originalUrl": "https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react",
+            "slug": "blog-self-fulfilling-prophecy-of-react",
+            "tags": [],
+            "updatedAt": "2022-09-12T02:48:20.924Z",
+            "path": "articles/joshcollinsworth.com/blog-self-fulfilling-prophecy-of-react.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T02:46:41.773Z",
-    "articleCount": 2,
+    "lastUpdatedAt": "2022-09-12T02:48:20.924Z",
+    "articleCount": 3,
     "$schema": "./src/db.schema.json"
 }
