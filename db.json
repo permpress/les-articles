@@ -98,9 +98,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:38:10.876Z",
             "path": "articles/wagslane.dev/posts-no-one-does-devops.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:39:10.797Z",
+            "domain": "jvns.ca",
+            "originalUrl": "https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/",
+            "slug": "blog-2022-08-30-a-way-to-categorize-debugging-skills",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:39:10.797Z",
+            "path": "articles/jvns.ca/blog-2022-08-30-a-way-to-categorize-debugging-skills.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:38:10.877Z",
-    "articleCount": 11,
+    "lastUpdatedAt": "2022-09-12T03:39:10.797Z",
+    "articleCount": 12,
     "$schema": "./src/db.schema.json"
 }
