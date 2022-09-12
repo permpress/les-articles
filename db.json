@@ -5810,9 +5810,137 @@
                     "one"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:43:27.770Z",
+            "domain": "nytimes.com",
+            "originalUrl": "https://www.nytimes.com/2022/01/08/opinion/seneca-village-central-park-new-york.html",
+            "slug": "2022-01-08-opinion-seneca-village-central-park-new-yorkhtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:43:27.770Z",
+            "path": "articles/nytimes.com/2022-01-08-opinion-seneca-village-central-park-new-yorkhtml.html",
+            "namedEntities": {
+                "GPE": [
+                    "Seneca Village",
+                    "New York City",
+                    "New York",
+                    "Arizona",
+                    "the British Empire",
+                    "America"
+                ],
+                "ORG": [
+                    "The New York Times",
+                    "Digital and Home Delivery Subscriptions Sections",
+                    "Opinion Brent",
+                    "Mashuk",
+                    "Getty Images",
+                    "Fabiola Jean-Louis Give",
+                    "The Metropolitan Museum of Art",
+                    "the Book Review",
+                    "The New York Times’s",
+                    "the University of Chicago",
+                    "Section SR, Page",
+                    "Associated Press",
+                    "Associated Press Maureen",
+                    "Editors'",
+                    "The New York Times Heading",
+                    "Hulton-Deutsch Collection/",
+                    "Getty Images How",
+                    "Ancient Tradition",
+                    "Harvard",
+                    "Times",
+                    "The New York Times Company NYTCo Contact Us Accessibility Work",
+                    "Advertise T Brand Studio",
+                    "The New York Times Company Help Feedback"
+                ],
+                "MONEY": [
+                    "1",
+                    "$4.25 $1/week",
+                    "4",
+                    "17"
+                ],
+                "PERSON": [
+                    "Advertisement Continue",
+                    "Staples",
+                    "Hannah Beachler",
+                    "Oscar",
+                    "Sara Cedar Miller",
+                    "Robert F. Bukaty",
+                    "Andrew Kirtzman",
+                    "Rudy Giuliani",
+                    "Leslie dela Vega/The New York Times",
+                    "Martha Asencio-Rhine/Tampa Bay Times",
+                    "John Lamparski/Getty Images",
+                    "Tom R. Smedes/Associated Press",
+                    "Adriana Zehbrauskas",
+                    "Gaelen Morse",
+                    "Bob Dear",
+                    "Mark Peterson",
+                    "Katherine Miller",
+                    "Mark Finchem",
+                    "Biden",
+                    "Jack Taylor",
+                    "Hari Kunzru",
+                    "Katherine Marks",
+                    "Stodgy",
+                    "Felony D.W.I.",
+                    "Armstrong Quit",
+                    "Link Offer",
+                    "Wirecutter"
+                ],
+                "DATE": [
+                    "Jan. 8,",
+                    "1857",
+                    "1825",
+                    "the day",
+                    "Jan. 9, 2022",
+                    "1990",
+                    "2019",
+                    "23 years",
+                    "Today",
+                    "Sept. 10",
+                    "2020",
+                    "Sept. 4",
+                    "Sept. 12",
+                    "2021",
+                    "75",
+                    "2022",
+                    "every 4 weeks",
+                    "one year",
+                    "1 year"
+                ],
+                "WORK_OF_ART": [
+                    "Black Panther",
+                    "the Pulitzer Prize",
+                    "Ph.D."
+                ],
+                "LOC": [
+                    "Central Park",
+                    "Before Central Park"
+                ],
+                "FAC": [
+                    "Seneca Village",
+                    "Subway"
+                ],
+                "CARDINAL": [
+                    "about 200",
+                    "6"
+                ],
+                "NORP": [
+                    "African American",
+                    "African Americans",
+                    "The Wives of Republican"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "LAW": [
+                    "Car Crash A Journey Through Black Nova Scotia Downsizing"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:43:22.255Z",
-    "articleCount": 65,
+    "lastUpdatedAt": "2022-09-12T21:43:27.770Z",
+    "articleCount": 66,
     "$schema": "./src/db.schema.json"
 }
