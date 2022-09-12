@@ -53,9 +53,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:25:12.113Z",
             "path": "articles/martinheinz.dev/blog-79.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:26:01.134Z",
+            "domain": "blog.ploeh.dk",
+            "originalUrl": "https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/",
+            "slug": "2020-09-14-we-need-young-programmers-we-need-old-programmers",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:26:01.134Z",
+            "path": "articles/blog.ploeh.dk/2020-09-14-we-need-young-programmers-we-need-old-programmers.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:25:12.113Z",
-    "articleCount": 6,
+    "lastUpdatedAt": "2022-09-12T03:26:01.134Z",
+    "articleCount": 7,
     "$schema": "./src/db.schema.json"
 }

@@ -1,0 +1,789 @@
+<!DOCTYPE html> <html lang="en" style><!--
+ Page saved with SingleFile 
+ url: https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/ 
+ saved date: Mon Sep 12 2022 03:26:00 GMT+0000 (Coordinated Universal Time)
+--><head><meta charset="utf-8">
+    <!-- 1C883B01-52AD-4E01-A9C3-C9BD9263CAE5 -->
+    
+    <title>We need young programmers; we need old programmers</title>
+    <meta name="description" content="The software industry loves young people, but old-timers serve an important purpose, too.">
+    <meta name="author" content="Mark Seemann">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,nav{display:block}a{background:0 0}a:active,a:hover{outline:0}h1{margin:.67em 0}img{border:0}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:62.5%;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333}a{color:#428bca;text-decoration:none}a:hover,a:focus{color:#2a6496;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}img{vertical-align:middle}hr{margin-top:20px;margin-bottom:20px;border:0;border-top:1px solid #eee}h1,h3,h4{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1 small{font-weight:400;line-height:1;color:#999}h1,h3{margin-top:20px;margin-bottom:10px}h1 small{font-size:65%}h4{margin-top:10px;margin-bottom:10px}h1{font-size:36px}h3{font-size:24px}h4{font-size:18px}p{margin:0 0 10px}cite{font-style:normal}.page-header{padding-bottom:9px;border-bottom:1px solid #eee}ul{margin-top:0;margin-bottom:10px}blockquote{padding:10px 20px;margin:0 0 20px;font-size:17.5px;border-left:5px solid #eee}blockquote p:last-child,blockquote ul:last-child,blockquote ol:last-child{margin-bottom:0}blockquote footer{display:block;font-size:80%;line-height:1.42857143;color:#999}blockquote footer:before,blockquote small:before,blockquote .small:before{content:"— "}blockquote:before,blockquote:after{content:""}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.row{margin-left:-15px;margin-right:-15px}.col-lg-4,.col-lg-8{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-4,.col-md-8{float:left}.col-md-8{width:66.66666667%}.col-md-4{width:33.33333333%}}@media (min-width:1200px){.col-lg-4,.col-lg-8{float:left}.col-lg-8{width:66.66666667%}.col-lg-4{width:33.33333333%}}.collapse{display:none}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:hover,.nav>li>a:focus{text-decoration:none;background-color:#eee}.navbar{position:relative;min-height:50px;border:1px solid transparent}@media (min-width:768px){.navbar{border-radius:4px}}@media (min-width:768px){.navbar-header{float:left}}.navbar-collapse{max-height:340px;overflow-x:visible;padding-right:15px;padding-left:15px;border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}@media (min-width:768px){.navbar-collapse{width:auto;border-top:0;box-shadow:none}.navbar-collapse.collapse{display:block!important;height:auto!important;padding-bottom:0;overflow:visible!important}.navbar-static-top .navbar-collapse{padding-left:0;padding-right:0}}.container-fluid>.navbar-header,.container-fluid>.navbar-collapse{margin-right:-15px;margin-left:-15px}@media (min-width:768px){.container-fluid>.navbar-header,.container-fluid>.navbar-collapse{margin-right:0;margin-left:0}}.navbar-static-top{z-index:1000;border-width:0 0 1px}@media (min-width:768px){.navbar-static-top{border-radius:0}}.navbar-brand{float:left;padding:15px;font-size:18px;line-height:20px;height:50px}.navbar-brand:hover,.navbar-brand:focus{text-decoration:none}@media (min-width:768px){.navbar>.container-fluid .navbar-brand{margin-left:-15px}}.navbar-nav{margin:7.5px -15px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}@media (min-width:768px){.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:15px;padding-bottom:15px}}.navbar-inverse{background-color:#222;border-color:#080808}.navbar-inverse .navbar-brand{color:#999}.navbar-inverse .navbar-brand:hover,.navbar-inverse .navbar-brand:focus{color:#fff;background-color:transparent}.navbar-inverse .navbar-nav>li>a{color:#999}.navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus{color:#fff;background-color:transparent}.navbar-inverse .navbar-collapse{border-color:#101010}.pagination{display:inline-block;padding-left:0;margin:20px 0;border-radius:4px}.pagination>li{display:inline}.pagination>li>a{position:relative;float:left;padding:6px 12px;line-height:1.42857143;text-decoration:none;color:#428bca;background-color:#fff;border:1px solid #ddd;margin-left:-1px}.pagination>li:first-child>a,.pagination>li:first-child>span{margin-left:0;border-bottom-left-radius:4px;border-top-left-radius:4px}.pagination>li:last-child>a,.pagination>li:last-child>span{border-bottom-right-radius:4px;border-top-right-radius:4px}.pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus{color:#2a6496;background-color:#eee;border-color:#ddd}@-webkit-keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}@keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}.clearfix:before,.clearfix:after,.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.form-horizontal .form-group:before,.form-horizontal .form-group:after,.btn-toolbar:before,.btn-toolbar:after,.btn-group-vertical>.btn-group:before,.btn-group-vertical>.btn-group:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-header:before,.navbar-header:after,.navbar-collapse:before,.navbar-collapse:after,.pager:before,.pager:after,.panel-body:before,.panel-body:after,.modal-footer:before,.modal-footer:after{content:" ";display:table}.clearfix:after,.container:after,.container-fluid:after,.row:after,.form-horizontal .form-group:after,.btn-toolbar:after,.btn-group-vertical>.btn-group:after,.nav:after,.navbar:after,.navbar-header:after,.navbar-collapse:after,.pager:after,.panel-body:after,.modal-footer:after{clear:both}@-ms-viewport{width:device-width}</style>
+    <style media="all">html,body{background-color:#eee}img{max-width:100%}.navbar{margin-bottom:0}.container>footer{margin-top:20px}.container>footer p{text-align:center}.content{background-color:#fff;padding:20px;margin:0-20px;-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;-webkit-box-shadow:0 1px 2px rgba(0,0,0,.15);-moz-box-shadow:0 1px 2px rgba(0,0,0,.15);box-shadow:0 1px 2px rgba(0,0,0,.15)}.page-header{background-color:#f5f5f5;padding:20px 20px 10px;margin:-20px -20px 20px}.date{color:#999;padding-bottom:20px}h3 a{font-size:0.5em;color:#f5f5f5}h3:hover a{color:#2a6496}.tag_box{list-style:none;margin:0;padding:5px 0;overflow:hidden}.tag_box li{line-height:28px}.tag_box a{padding:3px 6px;margin:2px;background:#eee;color:#005F6B;border-radius:3px;text-decoration:none}.tag_box a span{vertical-align:super;font-size:0.8em}</style>
+
+    <!-- Syndication auto-discovery -->
+    <link rel="alternate" type="application/rss+xml" href="https://blog.ploeh.dk/rss.xml" title="RSS feed for ploeh blog">
+    <link rel="alternate" type="application/atom+xml" href="https://blog.ploeh.dk/atom.xml" title="ATOM feed for ploeh blog">
+
+    <!-- Google search author information -->
+    <link rel="author" href="https://plus.google.com/100509078856689101462">
+
+    <!-- Le fav and touch icons -->
+    <!--For IE 9 and below. ICO is 32x32 pixels is size.-->
+    <!--[if IE]><link rel="shortcut icon" href="/assets/themes/ploeh/images/favicons/favicon.ico"/><![endif]-->
+
+    <!-- Touch Icons - iOS and Android 2.1+ 180x180 pixels in size.
+         Ignoring iOS shine is intended. -->
+    
+
+    <!-- Firefox, Chrome, Safari, IE 11+ and Opera. 196x196 pixels in size.-->
+    
+
+    
+    
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@ploeh">
+    <meta name="twitter:title" content="We need young programmers; we need old programmers">
+    <meta name="twitter:description" content="The software industry loves young people, but old-timers serve an important purpose, too.">
+    <meta name="twitter:image" content="https://blog.ploeh.dk/assets/themes/ploeh/images/favicons/favicon.png">
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    
+    
+  <link rel="icon" href="data:image/png;base64,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"><style>.sf-hidden{display:none!important}</style><link rel="canonical" href="https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/"><meta http-equiv="content-security-policy" content="default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;"><style>img[src="data:,"],source[src="data:,"]{display:none!important}</style></head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle sf-hidden" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            
+            
+            
+            
+          </button>
+          <a class="navbar-brand" href="https://blog.ploeh.dk/">ploeh blog</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            
+            
+            
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/about/">About</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/archive/">Archive</a></li>
+      	
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/hire-me/">Hire Me</a></li>
+      	
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/pages/">Pages</a></li>
+      	
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/schedule/">Schedule</a></li>
+      	
+      
+    
+  
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/support/">Support the blog</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="https://blog.ploeh.dk/tags/">Tags</a></li>
+      	
+      
+    
+  
+
+
+
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+
+    <div class="container">
+
+      <div class="content">
+        
+
+<div class="page-header">
+  <h1>We need young programmers; we need old programmers <small>by Mark Seemann</small></h1>
+</div>
+
+<div class="row">
+  <div class="col-lg-8 col-md-8">
+    
+
+
+<div id="post">
+	<p>
+		<em>The software industry loves young people, but old-timers serve an important purpose, too.</em>
+	</p>
+	<p>
+		Our culture idolises youth. There's several reasons for this, I believe. Youth seems synonymous with vigour, strength, beauty, and many other desirable qualities. The cynical perspective is that young people, while rebellious, also tend to be easy to manipulate, if you know which buttons to push. A middle-aged man like me isn't susceptible to the argument that I should buy a particular pair of Nike shoes because they're named after Michael Jordan, but for a while, one pair wasn't enough for my teenage daughter.
+	</p>
+	<p>
+		In intellectual pursuits (like software development), youth is often extolled as the source of innovation. You're often confronted with examples like that of <a href="https://en.wikipedia.org/wiki/%C3%89variste_Galois">Évariste Galois</a>, who made all his discoveries before turning 21. <a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a> was around 28 years when she produced what is considered the 'first computer program'. <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a> was 24 when he wrote <a href="https://en.wikipedia.org/wiki/Turing%27s_proof">On Computable Numbers, with an Application to the Entscheidungsproblem</a>.
+	</p>
+	<p>
+		Clearly, young age is no detriment to making ground-breaking contributions. It has even become folklore that everyone past the age of 35 is a has-been whose only chance at academic influence is to write a textbook.
+	</p>
+	<h3 id="800321a74c054ea0b75815c86f4ce18d">
+		The story of the five monkeys <a href="#800321a74c054ea0b75815c86f4ce18d" title="permalink">#</a>
+	</h3>
+	<p>
+		You may have seen a story called <em>the five monkeys experiment</em>. It's most likely a fabrication, but it goes like this:
+	</p>
+	<p>
+		A group of scientists placed five monkeys in a cage, and in the middle, a ladder with bananas on the top. Every time a monkey went up the ladder, the scientists soaked the rest of the monkeys with cold water. After a while, every time a monkey went up the ladder, the others would beat it up.
+	</p>
+	<p>
+		After some time, none of the monkeys dared go up the ladder regardless of the temptation. The scientists then substituted one of the monkeys with a new one, who'd immediately  go for the bananas, only to be beaten up by the others. After several beatings, the new member learned not to climb the ladder even though it never knew why.
+	</p>
+	<p>
+		A second monkey was substituted and the same occurred. The first monkey participated in beating the second. A third monkey was exchanged and the story repeated. The fourth was substituted and the beating was repeated. Finally the fifth monkey was replaced.
+	</p>
+	<p>
+		Left was a group of five monkeys who, even though they never received a cold shower, continued to beat up any monkey who attempted to climb the ladder. If it was possible to ask the monkeys why they would beat up all who attempted to go up the ladder, the answer would probably be:
+	</p>
+	<p>
+		"That's how we do things here."
+	</p>
+	<p>
+		While the story is probably just that: a story, it tells us something about the drag induced by age and experience. If you've been in the business for decades, you've seen numerous failed attempts at something you yourself tried when you were young. You know that it can't be done.
+	</p>
+	<p>
+		Young people don't know that a thing can't be done. If they can avoid the monkey-beating, they'll attempt the impossible.
+	</p>
+	<h3 id="4add8a9af0424d7e889d3125837ed611">
+		Changing circumstances <a href="#4add8a9af0424d7e889d3125837ed611" title="permalink">#</a>
+	</h3>
+	<p>
+		Is attempting the impossible a good idea?
+	</p>
+	<p>
+		In general, no, because it's... impossible. There's a reason older people tell young people that a thing can't be done. It's not just because they're stodgy conservatives who abhor change. It's because they see the effort as wasteful. Perhaps they're even trying to be kind, guiding young people off a path where only toil and disappointment is to be found.
+	</p>
+	<p>
+		What old people don't realise is that sometimes, circumstances change.
+	</p>
+	<p>
+		What was impossible twenty years ago may not be impossible today. We see this happening in many fields. Producing a commercially viable electric car was impossible for decades, until, with the advances made in battery technology, it became possible.
+	</p>
+	<p>
+		Technology changes rapidly in software development. People trying something previously impossible may find that it's possible today. Once, if you had lots of data, you had to store it in fully normalised form, because storage was expensive. For a decade, relational databases were the only game in town. Then circumstances changed. Storage became cheaper, and a new movement of NoSQL storage emerged. What was before impossible became possible.
+	</p>
+	<p>
+		Older people often don't see the new opportunities, because they 'know' that some things are impossible. Young people push the envelope driven by a combination of zest and ignorance. Most fail, but a few succeed.
+	</p>
+	<h3 id="4272a069588e47f796646bd282b9de02">
+		Lottery of the impossible <a href="#4272a069588e47f796646bd282b9de02" title="permalink">#</a>
+	</h3>
+	<p>
+		I think of this process as a lottery. Imagine that every impossible thing is a red ball in an urn. Every young person who tries the impossible draws a random ball from the urn.
+	</p>
+	<p>
+		The urn contains millions of red balls, but every now and then, one of them turns green. You don't know which one, but if you draw it, it represents something that was previously impossible which has now become possible.
+	</p>
+	<p>
+		This process produces growth, because once discovered, the new and better way of doing things can improve society in general. Occasionally, the young discoverer may even gain some fame and fortune.
+	</p>
+	<p>
+		It seems wasteful, though. Most people who attempt the impossible will reach the predictable conclusion. What was deemed impossible was, indeed, impossible.
+	</p>
+	<p>
+		When I'm in a cynical mood, I don't think that it's youth in itself that is the source of progress. It's just the <a href="https://en.wikipedia.org/wiki/Law_of_large_numbers">law of large numbers</a> applied. If there's a one in million chance that something will succeed, but ten million people attempt it, it's only a matter of time before one succeeds.
+	</p>
+	<p>
+		Society at large can benefit from the success of the few, but ten million people still wasted their efforts.
+	</p>
+	<h3 id="016744f0ea77495c958a7914f08187db">
+		We need the old, too <a href="#016744f0ea77495c958a7914f08187db" title="permalink">#</a>
+	</h3>
+	<p>
+		If you accept the argument that young people are more likely to try the impossible, we need the young people. Do we need the old people?
+	</p>
+	<p>
+		I'm turning fifty in 2020. You may consider that old, but I expect to work for many more years. I don't know if the software industry needs fifty-year-olds, but that's not the kind of old I have in mind. I'm thinking of people who have retired, or are close to retirement.
+	</p>
+	<p>
+		In our youth-glorifying culture, we tend to dismiss the opinion and experiences of old people. <em>Oh, well, it's just a codgy old man</em> (or woman), we'll say.
+	</p>
+	<p>
+		We ignore the experience of the old, because we believe that they haven't been keeping up with times. Their experiences don't apply to us, because we live under new circumstance. Well, see above.
+	</p>
+	<p>
+		I'm not advocating that we turn into a gerontocracy that venerates our elders solely because of their age. Again, according to the law of large numbers, some people live to old age. There need not be any correlation between survivors and wisdom.
+	</p>
+	<p>
+		We need the old to tell us the truth, because they have little to lose.
+	</p>
+	<h3 id="8b5c613ba6c44bb4b4e6dbba7ae7d19a">
+		Nothing to lose <a href="#8b5c613ba6c44bb4b4e6dbba7ae7d19a" title="permalink">#</a>
+	</h3>
+	<p>
+		In the last couple of years, I've noticed a trend. A book comes out, exposing the sad state of affairs in some organisation. This has happened regularly in Denmark, where I live. One book may expose the deplorable conditions of the Danish tax authorities, one may describe the situation in the ministry of defence, one criticises the groupthink associated with the climate crisis, and so on.
+	</p>
+	<p>
+		Invariably, it turns out that the book is written by a professor emeritus or a retired department head.
+	</p>
+	<p>
+		I don't think that these people, all of a sudden, had an epiphany after they retired. They knew all about the rot in the system they were part of, while they were part of it, but they've had too much to lose. You could argue that they should have said something before they retired, but that requires a moral backbone we can't expect most people to have.
+	</p>
+	<p>
+		When people retire, the threat of getting fired disappears. Old people can speak freely to a degree most other people can't.
+	</p>
+	<p>
+		Granted, many may simply use that freedom to spew bile or shout <em>Get off my lawn!</em>, but many are in the unique position to reveal truths no-one else dare speak. Many are, perhaps, just bitter, but some may possess knowledge that they are in a unique position to reveal.
+	</p>
+	<p>
+		When that grumpy old guy on Twitter writes something that makes you uncomfortable, consider this: he may still be right.
+	</p>
+	<h3 id="2d64bd2c7ccb4b7ca2418802ed82689e">
+		Being unreasonable <a href="#2d64bd2c7ccb4b7ca2418802ed82689e" title="permalink">#</a>
+	</h3>
+	<p>
+		In a way, you could say that we need young and old people for the same fundamental reason. Not all of them, but enough of them, are in a position to be unreasonable.
+		</p><blockquote>
+			<p>
+				"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
+			</p>
+			<footer><cite>George Bernard Shaw</cite></footer>
+		</blockquote>
+		Young people and old people are unreasonable in each their own way, and we need both.
+	<p></p>
+	<h3 id="df88f595ec814e2bafcbd018ff5f5ad2">
+		Conclusion <a href="#df88f595ec814e2bafcbd018ff5f5ad2" title="permalink">#</a>
+	</h3>
+	<p>
+		We need young people in the software development industry. Because of their vigour and inexperience, they'll push the envelope. Most will fail to do the impossible, but a few succeed.
+	</p>
+	<p>
+		This may seem like a cynical view, but we've all been young, and most of us have been through such a phase. It's like a rite of passage, and even if you fail to make your mark on the world, you're still likely to have learned a lot.
+	</p>
+	<p>
+		We need old people because they're in a position to speak truth to the world. Notice that I didn't make my argument about the <em>experience</em> of old-timers. Actually, I find that valuable as well, but that's the ordinary argument: <em>Listen to old people, because they have experience and wisdom.</em>
+	</p>
+	<p>
+		Some of them do, at least.
+	</p>
+	<p>
+		I didn't make much out of that argument, because you already know it. There'd be no reason to write this essay if that was all I had to say. Old people have less on the line, so they can speak more freely. If someone you used to admire retires and all of a sudden starts saying or writing unpleasant and surprising things, there might be a good explanation, and it might be a good idea to pay attention.
+	</p>
+	<p>
+		Or maybe he or she is just bitter or going senile...
+	</p>
+</div>
+    <hr>
+    <div>
+      <ul class="pagination hidden-print">
+      
+        <li class="prev"><a href="https://blog.ploeh.dk/2020/09/07/add-null-check-without-brackets-in-visual-studio/" title="Add null check without brackets in Visual Studio">← Previous</a></li>
+      
+        <li><a href="https://blog.ploeh.dk/archive">Archive</a></li>
+      
+        <li class="next"><a href="https://blog.ploeh.dk/2020/09/21/an-xpath-query-for-long-methods/" title="An XPath query for long methods">Next →</a></li>
+      
+      </ul>
+    </div>
+    <hr>
+    
+
+
+  <div class="hidden-print">
+    <h3>Wish to comment?</h3>
+    <div>You can add a comment to this post by <a href="https://github.com/ploeh/ploeh.github.com#readme">sending me a pull request</a>. Alternatively, you can discuss this post on Twitter or somewhere else with a permalink. Ping me with the link, and I may respond.</div>
+</div>
+
+
+
+  </div>
+  
+  <div class="col-lg-4 col-md-4 hidden-print">
+    <h4>Published</h4>
+    <div class="date"><span>Monday, 14 September 2020 05:46:00 UTC</span></div>
+
+  
+    <h4>Tags</h4>
+    <ul class="tag_box">
+    
+    
+
+
+  
+     
+    	<li><a href="https://blog.ploeh.dk/tags#Miscellaneous-ref">Miscellaneous <span>40</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  <hr>
+  <div class="sidebar-item">
+	<img src="data:image/jpeg;base64,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" alt="Mark Seemann" title="Mark Seemann">
+</div>
+<div class="sidebar-item">
+	<a href="https://blog.ploeh.dk/support">Support the blog</a>
+</div>
+<div class="sidebar-item">
+	<a href="https://blog.ploeh.dk/code-that-fits-in-your-head">Buy my book <em>Code That Fits in Your Head</em></a>
+</div>
+<div class="sidebar-item">
+	<a href="https://blog.ploeh.dk/dippp">Buy my book about <em>Dependency Injection</em></a>
+</div>
+<div class="sidebar-item">
+	<a href="https://blog.ploeh.dk/pluralsight-courses">Watch my Pluralsight courses</a>
+</div>
+<div class="sidebar-item">
+	<a href="https://cleancoders.com/videos/humane-code-real">Watch my Clean Coders videos</a>
+</div>
+<div class="sidebar-item">
+	<a href="https://blog.ploeh.dk/schedule">Public speaking schedule</a>
+</div>
+<div>
+	<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position:static;visibility:visible;width:72px;height:20px" title="Twitter Tweet Button" sandbox="allow-popups allow-top-navigation allow-top-navigation-by-user-activation" srcdoc="<!DOCTYPE html> <html data-scribe=&quot;page:button&quot; lang=&quot;en&quot;><head><meta charset=&quot;utf-8&quot;>
+  
+  
+  <title>Tweet Button</title>
+  
+  <style type=&quot;text/css&quot;>html{margin:0;padding:0;font:normal normal normal 12px/18px&quot;Helvetica Neue&quot;,Arial,sans-serif;color:#333;-webkit-user-select:none;-ms-user-select:none;-moz-user-select:none;user-select:none}body{margin:0;padding:0;background:0 0}a{outline:0;text-decoration:none}#widget{display:inline-block;white-space:nowrap;overflow:hidden;text-align:left}.btn,.btn .label,.btn-o{display:inline-block;vertical-align:top;zoom:1}.btn-o{max-width:100%}.btn{position:relative;height:20px;box-sizing:border-box;padding:1px 12px 1px 12px;background-color:#1d9bf0;color:#fff;border-radius:9999px;font-weight:500;cursor:pointer}.btn:active,.btn:focus,.btn:hover{background-color:#0c7abf}.btn:active{box-shadow:inset 0 3px 5px rgba(0,0,0,.1)}.btn i{position:relative;top:2px;display:inline-block;width:14px;height:14px;background:transparent 0 0 no-repeat;background-image:url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2072%2072%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h72v72H0z%22%2F%3E%3Cpath%20class%3D%22icon%22%20fill%3D%22%23fff%22%20d%3D%22M68.812%2015.14c-2.348%201.04-4.87%201.744-7.52%202.06%202.704-1.62%204.78-4.186%205.757-7.243-2.53%201.5-5.33%202.592-8.314%203.176C56.35%2010.59%2052.948%209%2049.182%209c-7.23%200-13.092%205.86-13.092%2013.093%200%201.026.118%202.02.338%202.98C25.543%2024.527%2015.9%2019.318%209.44%2011.396c-1.125%201.936-1.77%204.184-1.77%206.58%200%204.543%202.312%208.552%205.824%2010.9-2.146-.07-4.165-.658-5.93-1.64-.002.056-.002.11-.002.163%200%206.345%204.513%2011.638%2010.504%2012.84-1.1.298-2.256.457-3.45.457-.845%200-1.666-.078-2.464-.23%201.667%205.2%206.5%208.985%2012.23%209.09-4.482%203.51-10.13%205.605-16.26%205.605-1.055%200-2.096-.06-3.122-.184%205.794%203.717%2012.676%205.882%2020.067%205.882%2024.083%200%2037.25-19.95%2037.25-37.25%200-.565-.013-1.133-.038-1.693%202.558-1.847%204.778-4.15%206.532-6.774z%22%2F%3E%3C%2Fsvg%3E)}.btn .label{margin-left:3px;white-space:nowrap}</style>
+<meta http-equiv=&quot;content-security-policy&quot; content=&quot;default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;&quot;><style>img[src=&quot;data:,&quot;],source[src=&quot;data:,&quot;]{display:none!important}</style></head>
+<body data-scribe=&quot;section:share&quot; class=&quot; regular ltr ready&quot;>
+<div id=&quot;widget&quot;>
+  <div class=&quot;btn-o&quot; data-scribe=&quot;component:button&quot; style=&quot;width:72px&quot;><a href=&quot;https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fblog.ploeh.dk%2F&amp;amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&amp;amp;text=We%20need%20young%20programmers%3B%20we%20need%20old%20programmers&amp;amp;url=https%3A%2F%2Fblog.ploeh.dk%2F2020%2F09%2F14%2Fwe-need-young-programmers-we-need-old-programmers%2F&amp;amp;via=ploeh&quot; class=&quot;btn&quot; id=&quot;b&quot;><i></i><span class=&quot;label&quot; id=&quot;l&quot;>Tweet</span></a></div>
+</div>
+
+
+
+</body></html>"></iframe>
+
+</div>
+
+<div>
+  <br>
+  <em>"Our team wholeheartedly endorses Mark. His expert service provides tremendous value."</em>
+  <br>
+  <a href="https://blog.ploeh.dk/hire-me">Hire me!</a>
+</div>
+  </div>
+  <div class="date visible-print sf-hidden">Published: </div>
+</div>
+
+
+      </div>
+
+      <footer>
+        <p>© Mark Seemann  2020 
+            <span class="hidden-print">with help from <a href="https://jekyll-bootstrap-3.github.io/" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a></span>
+        </p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    
+
+
+
+
+  
+
+
+
+
+  
+
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" title="Twitter settings iframe" style="display:none"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position:absolute;visibility:hidden;display:none;width:0px;height:0px;padding:0px;border:none" title="Twitter analytics iframe"></iframe></body></html>
