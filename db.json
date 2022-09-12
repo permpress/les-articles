@@ -35,9 +35,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T02:50:27.307Z",
             "path": "articles/cooking.nytimes.com/recipes-1018097-kimchi-fried-rice.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:16:43.136Z",
+            "domain": "matthewbilyeu.com",
+            "originalUrl": "https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3",
+            "slug": "blog-2022-09-01-responding-to-recruiter-emails-with-gpt-3",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:16:43.136Z",
+            "path": "articles/matthewbilyeu.com/blog-2022-09-01-responding-to-recruiter-emails-with-gpt-3.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T02:50:27.308Z",
-    "articleCount": 4,
+    "lastUpdatedAt": "2022-09-12T03:16:43.136Z",
+    "articleCount": 5,
     "$schema": "./src/db.schema.json"
 }
