@@ -19,9 +19,7 @@ jobs:
               uses: actions/checkout@v2
               with:
                   fetch-depth: 0
-            - run: |
-                  git config pull.rebase
-                  git pull
+            - run: git pull origin main
             - name: 'Set up user 🩸'
               uses: fregante/setup-git-user@v1
             - uses: oleksiyrudenko/gha-git-credentials@v2-latest
