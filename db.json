@@ -2518,9 +2518,592 @@
                     "Download"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:24:46.453Z",
+            "domain": "leaddev.com",
+            "originalUrl": "https://leaddev.com/legacy-technical-debt-migrations/how-refactor-legacy-systems-creating-application-seams",
+            "slug": "legacy-technical-debt-migrations-how-refactor-legacy-systems-creating-application-seams",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:24:46.453Z",
+            "path": "articles/leaddev.com/legacy-technical-debt-migrations-how-refactor-legacy-systems-creating-application-seams.html",
+            "namedEntities": {
+                "PERSON": [
+                    "LeadDev Skip",
+                    "Continuous",
+                    "LeadDev San Francisco",
+                    "LeadDev Berlin",
+                    "LeadDev",
+                    "Kevin Ball Kevin Ball @kbal11 Application",
+                    "Kevin Ball",
+                    "Michael Feathers",
+                    "Jun",
+                    "Cassidy\nWilliams 6",
+                    "Said\nKetchman Nelida\nVelazquez +3",
+                    "My Monolith",
+                    "Melting",
+                    "Williams",
+                    "Natalie\nParker 7",
+                    "James\nSmith",
+                    "Reggie\nDavis 4",
+                    "Heidi\nWaterhouse",
+                    "Barbini",
+                    "LeadDev Want",
+                    "Kit ©2022LeadDev"
+                ],
+                "ORG": [
+                    "Topics Back Team Culture",
+                    "Diversity & inclusion",
+                    "Tech Architecture & microservices Building",
+                    "Technical direction &",
+                    "Process Agile &",
+                    "Monitoring & observability Productivity & Eng",
+                    "Your Career Communication &",
+                    "Self-care & burnout Skills",
+                    "Courses Back Group Leadership Courses Pillars of Engineering Management Building and Growing Teams Achieving Velocity Workshops Be",
+                    "LeadingEng",
+                    "Videos",
+                    "LeadDev London",
+                    "LeadDev New York",
+                    "StaffPlus",
+                    "Scroll",
+                    "API",
+                    "Liz\nFong-Jones",
+                    "Living",
+                    "Jai\nChakrabarti 6",
+                    "Scott",
+                    "Nelida\nVelazquez Jack\nFranklin",
+                    "Progressive Rejuvenation",
+                    "Submit",
+                    "Data Promise",
+                    "LeadDev Community",
+                    "Learn",
+                    "Reject Accept"
+                ],
+                "DATE": [
+                    "2022",
+                    "August 2022",
+                    "this month",
+                    "September 20 – November 29",
+                    "next week",
+                    "more than six months ago"
+                ],
+                "GPE": [
+                    "San Francisco",
+                    "Uberto"
+                ],
+                "FAC": [
+                    "Meetups LeadDev New York Meetup"
+                ],
+                "CARDINAL": [
+                    "02",
+                    "six",
+                    "one",
+                    "14",
+                    "01",
+                    "06",
+                    "08",
+                    "10",
+                    "22",
+                    "2021",
+                    "5",
+                    "30",
+                    "45",
+                    "27",
+                    "0/1"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "third"
+                ],
+                "LAW": [
+                    "Article How Eve Online",
+                    "Article How",
+                    "Article Living",
+                    "Article Learnings",
+                    "Article Building"
+                ],
+                "NORP": [
+                    "Meri"
+                ]
+            }
+        },
+        {
+            "createdAt": "2022-09-12T18:26:24.524Z",
+            "domain": "thenervousbreakdown.com",
+            "originalUrl": "https://thenervousbreakdown.com/tnbnonfiction/2012/09/excerpt-from-we-learn-nothing-by-tim-kreider/",
+            "slug": "tnbnonfiction-2012-09-excerpt-from-we-learn-nothing-by-tim-kreider",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:26:24.524Z",
+            "path": "articles/thenervousbreakdown.com/tnbnonfiction-2012-09-excerpt-from-we-learn-nothing-by-tim-kreider.html",
+            "namedEntities": {
+                "WORK_OF_ART": [
+                    "Learn Nothing",
+                    "The Lost City of Mars",
+                    "A Bird",
+                    "Film Quarterly",
+                    "'Can't Talk Now",
+                    "Brad's Face",
+                    "'Two Poems",
+                    "'Primitive Men",
+                    "The TNB Self-Interview"
+                ],
+                "PERSON": [
+                    "Tim Kreider",
+                    "Winston Churchill’s",
+                    "Ray Bradbury",
+                    "Raymond Carver",
+                    "Harold",
+                    "fixes",
+                    "Tim Kreider ’s",
+                    "Learn Nothing",
+                    "Luck",
+                    "Emily Rapp",
+                    "Mira Bartók",
+                    "Nick Flynn",
+                    "Melissa Febos",
+                    "SETH FISCHER",
+                    "Sex Writing",
+                    "Jentel",
+                    "Lambda Literary",
+                    "Tim",
+                    "Lou Wilkinson",
+                    "Close Calls",
+                    "Stephen Dixon",
+                    "Rebecca Fishow",
+                    "Frederick Barthelme",
+                    "Alex",
+                    "Timothy Willis Sanders",
+                    "Gene Morgan",
+                    "Bud Smith",
+                    "Shy Watson",
+                    "Richard Chiem » 'Two Prose Poems",
+                    "Zarah Butcher-McGunnigle » 'Two",
+                    "Willis Plummer",
+                    "Wendy C. Ortiz",
+                    "Mikaela Grantham",
+                    "Connor Ong » 'Two Short Ones",
+                    "Alec Berry",
+                    "Adam Soldofsky",
+                    "Wadi al-Salam",
+                    "Mesha Maren",
+                    "Michael Earl Craig » '",
+                    "Wayne Koestenbaum",
+                    "Sarah Jean Grimm",
+                    "Sam Pink » 'Adulthood",
+                    "Submissions"
+                ],
+                "DATE": [
+                    "September 29",
+                    "Fourteen years ago",
+                    "the years",
+                    "many months",
+                    "an entire year",
+                    "this day",
+                    "months",
+                    "daily",
+                    "the day",
+                    "that year",
+                    "Sunday",
+                    "September 29, 2012",
+                    "July 15, 2021"
+                ],
+                "EVENT": [
+                    "Essay Reprieve"
+                ],
+                "TIME": [
+                    "ten or fifteen minutes",
+                    "night",
+                    "about four minutes",
+                    "1:26 pm",
+                    "12:05 am Outstanding"
+                ],
+                "NORP": [
+                    "Christian",
+                    "Amish",
+                    "BAM"
+                ],
+                "ORDINAL": [
+                    "second",
+                    "first"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "3",
+                    "three",
+                    "2",
+                    "Two",
+                    "Four"
+                ],
+                "GPE": [
+                    "Oklahoma City",
+                    "New York City",
+                    "Indiebound",
+                    "Guernica",
+                    "Los Angeles"
+                ],
+                "ORG": [
+                    "Clouseauesque",
+                    "Free Press",
+                    "a Division of Simon & Schuster, Inc.",
+                    "The New York Times",
+                    "The Comics Journal",
+                    "Nerve.com",
+                    "Fantagraphics",
+                    "Amazon",
+                    "B&N",
+                    "iTunes",
+                    "Joyland",
+                    "The Rumpus",
+                    "the Ucross Foundation",
+                    "Antioch University",
+                    "UCLA-Extension",
+                    "'Three Poems",
+                    "ARTS & CULTURE NEWS & POLITICS Terms & Conditions"
+                ],
+                "LOC": [
+                    "the Chesapeake Bay",
+                    "the Chesapeake Bay area",
+                    "The Best American Essays"
+                ]
+            }
+        },
+        {
+            "createdAt": "2022-09-12T18:28:07.770Z",
+            "domain": "medium.com",
+            "originalUrl": "https://medium.com/@sfard/the-greatest-privilege-we-hardly-talk-about-beauty-7db3f70c1116",
+            "slug": "sfard-the-greatest-privilege-we-hardly-talk-about-beauty-7db3f70c1116",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:28:07.770Z",
+            "path": "articles/medium.com/sfard-the-greatest-privilege-we-hardly-talk-about-beauty-7db3f70c1116.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Saeid Fard",
+                    "Saeid Fard Jul",
+                    "Dewolf",
+                    "Tanke",
+                    "Thornton",
+                    "Dove",
+                    "Jenna Talackova",
+                    "Jenna",
+                    "Cinderella",
+                    "Saeid Fard Follow Founder",
+                    "Twitter",
+                    "Dick",
+                    "Questioning Meron",
+                    "Nic Cruithne",
+                    "Thomas St Thomas",
+                    "Shoaib Yamin Clothes",
+                    "Gmail",
+                    "Isaiah McCall"
+                ],
+                "ORG": [
+                    "Medium Home Notifications Lists Stories Write",
+                    "Universe Canada",
+                    "WTO",
+                    "Helping ALS Research",
+                    "Self, Community, & Ethical Action Sameness/Differences, Learning",
+                    "Todd Hendricks Black Women Are Leading The Movement",
+                    "Yard Couch YouTube"
+                ],
+                "DATE": [
+                    "2020",
+                    "2013",
+                    "2014",
+                    "1991",
+                    "10x",
+                    "five year olds",
+                    "the past few decades",
+                    "today",
+                    "a century ago",
+                    "24",
+                    "a few weeks",
+                    "century-long",
+                    "Jan 5, 2019",
+                    "15, 2018",
+                    "the early 1990s",
+                    "daily",
+                    "1999",
+                    "Nov 5, 2017",
+                    "several-months-long",
+                    "Sep 27, 2014",
+                    "26, 2014"
+                ],
+                "CARDINAL": [
+                    "8",
+                    "two",
+                    "2011–2016",
+                    "One",
+                    "10",
+                    "five",
+                    "one",
+                    "916",
+                    "millions"
+                ],
+                "LOC": [
+                    "Kanasawa"
+                ],
+                "PERCENT": [
+                    "120–305 percent",
+                    "19%",
+                    "120%"
+                ],
+                "NORP": [
+                    "European"
+                ],
+                "GPE": [
+                    "Vancouver",
+                    "Hollywood",
+                    "Seattle",
+                    "Thinking"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "Medium Aug",
+                    "Love",
+                    "Medium Marissa Vang",
+                    "Medium Eldar Jahijagic"
+                ],
+                "FAC": [
+                    "Unsafe Space Equality Does Not Require Sameness Ivette Rodriguez"
+                ]
+            }
+        },
+        {
+            "createdAt": "2022-09-12T18:30:07.142Z",
+            "domain": "perell.com",
+            "originalUrl": "https://perell.com/essay/why-youre-christian/",
+            "slug": "essay-why-youre-christian",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:30:07.142Z",
+            "path": "articles/perell.com/essay-why-youre-christian.html",
+            "namedEntities": {
+                "PERSON": [
+                    "David Perell",
+                    "Christian Becoming",
+                    "John Locke",
+                    "Locke",
+                    "Tom Holland",
+                    "Westerner",
+                    "Zeus",
+                    "Dostoyevsky",
+                    "David Hume",
+                    "Immanuel Kant",
+                    "Gospels",
+                    "Thomas Jefferson",
+                    "Christopher Hitchens",
+                    "Ellen Fishbein",
+                    "Bill Jaworski",
+                    "Tyler Cowen",
+                    "Aaron Burden",
+                    "Ariel Durant",
+                    "Magnifying Glass",
+                    "Filters Sort",
+                    "Jetpack Close Search"
+                ],
+                "GPE": [
+                    "America",
+                    "Aquinas",
+                    "Plato",
+                    "St. Augustine",
+                    "Oxford",
+                    "London",
+                    "Oslo",
+                    "Washington D.C.",
+                    "Brussels",
+                    "Hannover",
+                    "Mumbai",
+                    "Boston",
+                    "Paris",
+                    "Amsterdam",
+                    "intelligentsia",
+                    "Israel"
+                ],
+                "NORP": [
+                    "American",
+                    "Americans",
+                    "Christianity",
+                    "Christian",
+                    "Western",
+                    "Christians",
+                    "Corinthians",
+                    "Jewish",
+                    "Beatitudes",
+                    "Romans",
+                    "Judeo-Christian",
+                    "Brent Beshore"
+                ],
+                "WORK_OF_ART": [
+                    "the Declaration of Independence",
+                    "Bible",
+                    "Greeks",
+                    "Man in the Sky",
+                    "New Testament",
+                    "the Old Testament",
+                    "The Book You Need to Read There",
+                    "The Story of Singapore Singapore"
+                ],
+                "CARDINAL": [
+                    "nine",
+                    "ten",
+                    "one",
+                    "million",
+                    "One",
+                    "a couple hundred",
+                    "two"
+                ],
+                "ORG": [
+                    "St. Paul",
+                    "Dostoevsky",
+                    "the United Nations’ Human Rights",
+                    "Wikipedia",
+                    "the Jefferson Bible",
+                    "a “Liberal Christian",
+                    "Hitchens",
+                    "Echoing Hitchens",
+                    "Christianity",
+                    "C.S. Lewis",
+                    "the Ten Commandments",
+                    "Cross",
+                    "In-N-Out Burger",
+                    "the Liberal Arts",
+                    "Liberal Arts",
+                    "Annual Review 2021",
+                    "The Ultimate Guide to Writing Online",
+                    "Can’t School Be Fun",
+                    "The Lessons of History Book Review In The Lessons of History",
+                    "Write of Passage",
+                    "WordPress",
+                    "Filter"
+                ],
+                "LOC": [
+                    "Europe",
+                    "the Red Sea",
+                    "the Western Mind"
+                ],
+                "DATE": [
+                    "Today",
+                    "tomorrow",
+                    "1878",
+                    "one day",
+                    "today",
+                    "16 years",
+                    "2,000 years ago",
+                    "two centuries ago",
+                    "weekly",
+                    "the past week",
+                    "this perspective half a century ago",
+                    "2000",
+                    "just two decades",
+                    "two millennia ago",
+                    "2021",
+                    "the beginning of the year",
+                    "2022",
+                    "years",
+                    "just 53 years"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "PERCENT": [
+                    "nine percent",
+                    "almost 70%",
+                    "below 50%"
+                ],
+                "LAW": [
+                    "The Many Buckets of Faith"
+                ],
+                "TIME": [
+                    "40 minutes"
+                ],
+                "LANGUAGE": [
+                    "Hebrew"
+                ],
+                "PRODUCT": [
+                    "Excel",
+                    "the Guide Twitter YouTube Notebook"
+                ],
+                "EVENT": [
+                    "the Declaration of Independence"
+                ]
+            }
+        },
+        {
+            "createdAt": "2022-09-12T18:31:22.567Z",
+            "domain": "chrislaing.net",
+            "originalUrl": "https://chrislaing.net/blog/the-memo/",
+            "slug": "blog-the-memo",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:31:22.567Z",
+            "path": "articles/chrislaing.net/blog-the-memo.html",
+            "namedEntities": {
+                "DATE": [
+                    "June 20, 2021",
+                    "2002",
+                    "a nice day",
+                    "months",
+                    "years",
+                    "July 8, 2021",
+                    "May 31",
+                    "May 27, 2021 See",
+                    "2021"
+                ],
+                "PERSON": [
+                    "Christopher Laing",
+                    "Jeff Bezos",
+                    "Bezos",
+                    "Benedict Evans",
+                    "Deep Learning"
+                ],
+                "ORG": [
+                    "Amazon",
+                    "HTTP",
+                    "Corba, Pubsub",
+                    "API",
+                    "the API Mandate",
+                    "BPIs – Business Programming Interfaces",
+                    "Are All The Amazons",
+                    "↩︎ Business Technology Opinion"
+                ],
+                "NORP": [
+                    "technologists",
+                    "Memo",
+                    "Australian"
+                ],
+                "CARDINAL": [
+                    "1",
+                    "2",
+                    "several hundred",
+                    "3",
+                    "hundreds or thousands",
+                    "Three",
+                    "three",
+                    "One",
+                    "11",
+                    "4"
+                ],
+                "FAC": [
+                    "the API Mandate"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third"
+                ],
+                "WORK_OF_ART": [
+                    "AI The Business Implications of Combinatorial Optimisation by Deep Learning Recent Posts Three Categories of AI July 25, 2021",
+                    "The Bitter Lesson Conditions"
+                ],
+                "LAW": [
+                    "The Business Implications of Combinatorial Optimisation"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:19:00.271Z",
-    "articleCount": 28,
+    "lastUpdatedAt": "2022-09-12T18:31:22.567Z",
+    "articleCount": 33,
     "$schema": "./src/db.schema.json"
 }
