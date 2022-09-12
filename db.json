@@ -4086,9 +4086,104 @@
                     "the 1970s"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T19:16:28.387Z",
+            "domain": "samjulien.com",
+            "originalUrl": "https://www.samjulien.com/shy-dev-networking",
+            "slug": "shy-dev-networking",
+            "tags": [],
+            "updatedAt": "2022-09-12T19:16:28.387Z",
+            "path": "articles/samjulien.com/shy-dev-networking.html",
+            "namedEntities": {
+                "ORG": [
+                    "JavaScript",
+                    "Recruiters Hiring",
+                    "jQuery",
+                    "Social Skills",
+                    "Core Philosophy",
+                    "Googlers",
+                    "BIG",
+                    "TOPICS",
+                    "Scythe",
+                    "the Famous Tech Conference",
+                    "SusanTech",
+                    "Previous Article Productivity Experiments Next Article",
+                    "Developer Microskills"
+                ],
+                "PERSON": [
+                    "Sam Julien",
+                    "Jane",
+                    "Ashley",
+                    "Stephanie",
+                    "Harry Potter",
+                    "Sam",
+                    "Twitter",
+                    "Susan",
+                    "Netrunner"
+                ],
+                "WORK_OF_ART": [
+                    "The Painfully Shy Developer's Guide to Networking for a Better Job"
+                ],
+                "DATE": [
+                    "July 07, 2017 Look",
+                    "years",
+                    "Tactic 1",
+                    "daily",
+                    "every day",
+                    "a few days",
+                    "last week",
+                    "At least a week",
+                    "this week",
+                    "the next 1-2 weeks",
+                    "a week",
+                    "1770",
+                    "2015 - Present"
+                ],
+                "CARDINAL": [
+                    "zero",
+                    "two",
+                    "3",
+                    "5",
+                    "1",
+                    "2",
+                    "4",
+                    "more than",
+                    "100",
+                    "one",
+                    "three",
+                    "6"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third",
+                    "First"
+                ],
+                "PERCENT": [
+                    "100%"
+                ],
+                "QUANTITY": [
+                    "a mile"
+                ],
+                "TIME": [
+                    "about 30 seconds",
+                    "a few minutes",
+                    "a minute"
+                ],
+                "PRODUCT": [
+                    "Magic Plugin X"
+                ],
+                "GPE": [
+                    "Ohio",
+                    "America",
+                    "Michigan",
+                    "P.S."
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T19:15:04.503Z",
-    "articleCount": 47,
+    "lastUpdatedAt": "2022-09-12T19:16:28.388Z",
+    "articleCount": 48,
     "$schema": "./src/db.schema.json"
 }
