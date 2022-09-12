@@ -8162,9 +8162,148 @@
                 "date": "2020-10-01T14:09:15.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-12T23:51:32.279Z",
+            "domain": "theparisreview.org",
+            "originalUrl": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
+            "slug": "blog-2021-05-27-new-yorks-hyphenated-history",
+            "tags": [],
+            "updatedAt": "2022-09-12T23:51:32.279Z",
+            "path": "articles/theparisreview.org/blog-2021-05-27-new-yorks-hyphenated-history.html",
+            "namedEntities": {
+                "ORG": [
+                    "The Paris Review  -  ",
+                    "The Paris Review The Daily The",
+                    "the Association Against the Prohibition Amendment",
+                    "Newbold Morris",
+                    "the New York City Council",
+                    "the New York World",
+                    "City Council",
+                    "the New York Times",
+                    "The New – York Times",
+                    "New York Times",
+                    "LaGuardia",
+                    "the College of Liberal Arts and Sciences",
+                    "the School of Social Transformation",
+                    "Arizona State University",
+                    "Ms. Magazine",
+                    "Foreign Affairs",
+                    "The Huffington Post",
+                    "The Los Angeles Times Magazine",
+                    "Bloomsbury’s",
+                    "The Paris Review",
+                    "Policy Terms & Conditions"
+                ],
+                "GPE": [
+                    "New York’s",
+                    "New York City",
+                    "New and York",
+                    "Curran",
+                    "New York",
+                    "U.S.",
+                    "New-York",
+                    "America",
+                    "Manhattan",
+                    "Iran"
+                ],
+                "PERSON": [
+                    "Forgot",
+                    "Henry H. Curran",
+                    "Curran",
+                    "Telegram",
+                    "Morris",
+                    "Roosevelt",
+                    "Woodrow Wilson",
+                    "Dorothy Barch",
+                    "Donald A. Shelley",
+                    "songwriter Leonard Whitcup",
+                    "Hyphens",
+                    "Henry Curran",
+                    "Pardis Mahdavi",
+                    "Jaddaliyya",
+                    "Ben Lerner",
+                    "Diane Seuss",
+                    "Ange Mlinko Recommend",
+                    "Cary Grant",
+                    "Darryl Pinckney",
+                    "Whit Stillman",
+                    "Email Subscribe"
+                ],
+                "DATE": [
+                    "May 27, 2021 Arts & Culture",
+                    "the twentieth century",
+                    "1774",
+                    "1945",
+                    "Later that week",
+                    "the late 1890s",
+                    "1804",
+                    "the 1890s",
+                    "1924",
+                    "several years",
+                    "the next twelve years",
+                    "the days",
+                    "this day",
+                    "Today",
+                    "1966",
+                    "the age of eighty-eight",
+                    "twenty years",
+                    "June 3",
+                    "September 7, 2022",
+                    "September 6, 2022",
+                    "September 2, 2022",
+                    "2022"
+                ],
+                "FAC": [
+                    "metro",
+                    "City Hall",
+                    "the Port of New York",
+                    "the Historical Society",
+                    "Saint Barnabas Hospital"
+                ],
+                "TIME": [
+                    "morning"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "five",
+                    "241"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "NORP": [
+                    "Americans",
+                    "American"
+                ],
+                "WORK_OF_ART": [
+                    "The Commissioner of Immigration Shows How He Is Hampered",
+                    "The Hyphen-Song"
+                ],
+                "LOC": [
+                    "Ellis Island"
+                ],
+                "EVENT": [
+                    "World War II",
+                    "Iran’s Sexual Revolution",
+                    "The Paris Review September 9, 2022",
+                    "The Paris Review",
+                    "Columns Diaries By The Paris Review Contributors The Review 's Review By The Staff of The Paris Review Notes on Hoops By Hanif  Abdurraqib Melting Clocks"
+                ]
+            },
+            "metaData": {
+                "author": "Pardis Mahdavi",
+                "description": "In an excerpt from Pardis Mahdavi’s book ‘Hyphen,’ the debate over New-York’s historical hyphen becomes a grammatical battle with vast social implications.",
+                "image": "https://www.theparisreview.org/blog/wp-content/uploads/2021/05/hyphen-fig-2-in-book.jpg",
+                "publisher": "The Paris Review",
+                "title": "New York’s Hyphenated History",
+                "url": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
+                "date": "2021-05-27T22:23:41.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T23:51:14.540Z",
-    "articleCount": 71,
+    "lastUpdatedAt": "2022-09-12T23:51:32.279Z",
+    "articleCount": 72,
     "$schema": "./src/db.schema.json"
 }
