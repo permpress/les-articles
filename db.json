@@ -107,9 +107,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:39:10.797Z",
             "path": "articles/jvns.ca/blog-2022-08-30-a-way-to-categorize-debugging-skills.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:40:03.197Z",
+            "domain": "blog.southparkcommons.com",
+            "originalUrl": "https://blog.southparkcommons.com/move-fast-or-die/",
+            "slug": "move-fast-or-die",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:40:03.197Z",
+            "path": "articles/blog.southparkcommons.com/move-fast-or-die.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:39:10.797Z",
-    "articleCount": 12,
+    "lastUpdatedAt": "2022-09-12T03:40:03.197Z",
+    "articleCount": 13,
     "$schema": "./src/db.schema.json"
 }
