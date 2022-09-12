@@ -5679,9 +5679,140 @@
                     "the War for Top Talent"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:43:22.255Z",
+            "domain": "thecut.com",
+            "originalUrl": "https://www.thecut.com/article/learn-to-trust-writing-instincts.html",
+            "slug": "article-learn-to-trust-writing-instinctshtml",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:43:22.255Z",
+            "path": "articles/thecut.com/article-learn-to-trust-writing-instinctshtml.html",
+            "namedEntities": {
+                "WORK_OF_ART": [
+                    "The Cut",
+                    "What’s Mine",
+                    "The Cut Shop 39 Pairs of Sneakers",
+                    "the Parenting Whisperer",
+                    "Fall Preview"
+                ],
+                "DATE": [
+                    "July 21, 2020 How to Write When You’re Not Sure About Anything By",
+                    "annual",
+                    "The first day",
+                    "daily",
+                    "the Week of September 12 This Month’s",
+                    "2022 11",
+                    "2022",
+                    "the next few days",
+                    "2023",
+                    "Yesterday",
+                    "the Week of September 12",
+                    "week",
+                    "2023 Yesterday",
+                    "Sept. 10, 2022",
+                    "Thursday",
+                    "2023 Sept. 10, 2022",
+                    "Sept. 9, 2022",
+                    "2023 Sept. 9, 2022",
+                    "today"
+                ],
+                "ORG": [
+                    "Photo-Illustration",
+                    "Getty Images/Getty Images/Westend61",
+                    "Google",
+                    "MFA",
+                    "Naima Coster",
+                    "Mercury",
+                    "nyfw",
+                    "Vivid Entertainment",
+                    "Brown’s Target Collection In Your Wardrobe",
+                    "Queen Brands",
+                    "Domino’s",
+                    "McDonald’s",
+                    "Playmobil",
+                    "the Bestest Party Pics",
+                    "Longchamp",
+                    "a Vox Media Network",
+                    "Vox Media"
+                ],
+                "PERSON": [
+                    "Preeti Kinha",
+                    "Breonna Taylor",
+                    "George Floyd",
+                    "Ahmaud Arbery",
+                    "Rayshard Brooks",
+                    "Hunt",
+                    "Happens",
+                    "Sangeeta Singh-Kurtz",
+                    "Marni Rethinks",
+                    "Marni",
+                    "Tommy Hilfiger",
+                    "Cathy Horyn",
+                    "I’m Nosy About Bulgari",
+                    "Prince Harry Remembers",
+                    "Queen Elizabeth II",
+                    "Becky Kennedy",
+                    "Claire Lampen",
+                    "Claire Comstock-Gay",
+                    "Ray J’s Instagram Live",
+                    "Kris Jenner’s",
+                    "Kim",
+                    "Kahlana Barfield",
+                    "Elizabeth Holmes",
+                    "Fendi",
+                    "Kate Moss",
+                    "Christy Turlington",
+                    "Linda Evangelista",
+                    "nyfw",
+                    "Chlöe Bailey"
+                ],
+                "ORDINAL": [
+                    "second"
+                ],
+                "LOC": [
+                    "Black"
+                ],
+                "GPE": [
+                    "Yours",
+                    "Hollywood",
+                    "New York’s",
+                    "U.K.",
+                    "New York"
+                ],
+                "EVENT": [
+                    "Primetime Emmy Awards",
+                    "Gigi Hadid"
+                ],
+                "TIME": [
+                    "4:00 p.m.",
+                    "3:57 p.m.",
+                    "2:27 p.m.",
+                    "2:15 p.m.",
+                    "2:02 p.m.",
+                    "1:48 p.m.",
+                    "1:04 p.m.",
+                    "12:34 p.m.",
+                    "11:48 a.m.",
+                    "9:00 a.m.",
+                    "8:30 p.m.",
+                    "8:00 p.m.",
+                    "4:47 p.m.",
+                    "2:54 p.m.",
+                    "8:00 a.m."
+                ],
+                "FAC": [
+                    "Coney Island Police",
+                    "New York Fashion",
+                    "the Kim Kardashian Sex Tape"
+                ],
+                "CARDINAL": [
+                    "one"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:40:42.719Z",
-    "articleCount": 64,
+    "lastUpdatedAt": "2022-09-12T21:43:22.255Z",
+    "articleCount": 65,
     "$schema": "./src/db.schema.json"
 }
