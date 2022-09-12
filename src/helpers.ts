@@ -1,4 +1,5 @@
 import slug from 'slug'
+import { NamedEntites } from './db.model'
 
 // Remove http/https/www
 export function generateSlug(url: string) {
@@ -20,4 +21,11 @@ export function getPath(url: string) {
     const domain = getDomainFromUrl(url)
     const slug = generateSlug(url)
     return `articles/${domain}/${slug}.html`
+}
+
+export function removeDuplicateEntities(entities: NamedEntites) {
+    for (const entity in entities) {
+        entities[entity] = [...new Set(entities[entity])]
+    }
+    return entities
 }

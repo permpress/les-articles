@@ -1,10 +1,10 @@
 import fs from 'fs'
+import chalk from 'chalk'
 export class Database {
     articles: Article[] = []
     lastUpdatedAt!: string
     articleCount!: number
     '$schema' = './src/db.schema.json'
-
     constructor(path: string) {
         const db = JSON.parse(fs.readFileSync(path, 'utf8'))
         this.articles = db.articles
@@ -13,7 +13,18 @@ export class Database {
     }
 
     appendArticle(article: Article) {
-        this.articles.push(article)
+        // check if article already exists
+        const existingArticle = this.articles.find((a) => a.originalUrl === article.originalUrl)
+        if (existingArticle) {
+            console.log(
+                `${chalk.yellow('⚠')} Article ${chalk.cyan(article.originalUrl)} already exists in the database, Updating...`,
+            )
+            existingArticle.tags = [...article.tags, ...existingArticle.tags]
+            existingArticle.namedEntities = { ...article.namedEntities }
+            existingArticle.updatedAt = article.updatedAt
+        } else {
+            this.articles.push(article)
+        }
         this.articleCount = this.articles.length
         this.lastUpdatedAt = new Date().toISOString()
         this.write()
@@ -30,7 +41,7 @@ export class Database {
     }
 }
 
-interface Article {
+export interface Article {
     domain: string
     originalUrl: string
     slug: string
@@ -38,4 +49,7 @@ interface Article {
     createdAt: string
     updatedAt: string
     path: string
+    namedEntities: NamedEntites
 }
+
+export type NamedEntites = { [index: string]: string[] }

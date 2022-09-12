@@ -7,7 +7,6 @@ on:
                 required: true
             tags:
                 description: 'Tags to add to the webpage'
-                required: true
 jobs:
     build_infra_dev:
         name: Update
@@ -23,10 +22,20 @@ jobs:
             - uses: oleksiyrudenko/gha-git-credentials@v2-latest
               with:
                   token: '${{ secrets.LES_ARTICLES }}'
+
+            - uses: actions/setup-python@v3
+              with:
+                  python-version: '3.x'
+                  architecture: 'x64'
+                  cache: 'pip'
+            - name: Install Python Dependencies
+              run: pip install -r requirements.txt
+
             - name: Set up Node
               uses: actions/setup-node@v2
               with:
                   node-version: 14.x
+
             - name: Cache Dependencies
               uses: actions/cache@v2
               env:
@@ -55,6 +64,11 @@ jobs:
                   docker pull capsulecode/singlefile 
                   docker tag capsulecode/singlefile singlefile
                   docker run singlefile ${{ github.event.inputs.url }} > "${{ steps.set_variables.outputs.path }}"
+
+            - name: Generate Named Entities
+              run: |
+                  mkdir tmp
+                  python3 nex.py ${{ steps.set_variables.outputs.path }}
             - name: Update Database
               run: |
                   ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
