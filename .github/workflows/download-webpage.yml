@@ -1,7 +1,5 @@
 name: Download Webpage
-on:
-    repository_dispatch:
-        types: [download-webpage]
+on: workflow_dispatch
 jobs:
     build_infra_dev:
         name: Update
