@@ -3030,9 +3030,80 @@
                     "the Declaration of Independence"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:31:22.567Z",
+            "domain": "chrislaing.net",
+            "originalUrl": "https://chrislaing.net/blog/the-memo/",
+            "slug": "blog-the-memo",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:31:22.567Z",
+            "path": "articles/chrislaing.net/blog-the-memo.html",
+            "namedEntities": {
+                "DATE": [
+                    "June 20, 2021",
+                    "2002",
+                    "a nice day",
+                    "months",
+                    "years",
+                    "July 8, 2021",
+                    "May 31",
+                    "May 27, 2021 See",
+                    "2021"
+                ],
+                "PERSON": [
+                    "Christopher Laing",
+                    "Jeff Bezos",
+                    "Bezos",
+                    "Benedict Evans",
+                    "Deep Learning"
+                ],
+                "ORG": [
+                    "Amazon",
+                    "HTTP",
+                    "Corba, Pubsub",
+                    "API",
+                    "the API Mandate",
+                    "BPIs – Business Programming Interfaces",
+                    "Are All The Amazons",
+                    "↩︎ Business Technology Opinion"
+                ],
+                "NORP": [
+                    "technologists",
+                    "Memo",
+                    "Australian"
+                ],
+                "CARDINAL": [
+                    "1",
+                    "2",
+                    "several hundred",
+                    "3",
+                    "hundreds or thousands",
+                    "Three",
+                    "three",
+                    "One",
+                    "11",
+                    "4"
+                ],
+                "FAC": [
+                    "the API Mandate"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third"
+                ],
+                "WORK_OF_ART": [
+                    "AI The Business Implications of Combinatorial Optimisation by Deep Learning Recent Posts Three Categories of AI July 25, 2021",
+                    "The Bitter Lesson Conditions"
+                ],
+                "LAW": [
+                    "The Business Implications of Combinatorial Optimisation"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:30:07.142Z",
-    "articleCount": 32,
+    "lastUpdatedAt": "2022-09-12T18:31:22.567Z",
+    "articleCount": 33,
     "$schema": "./src/db.schema.json"
 }
