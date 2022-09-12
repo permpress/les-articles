@@ -48,11 +48,15 @@ jobs:
               id: get_domain
               run: echo ::set-output name=domain::$(./out/get-domain.js ${{ github.event.inputs.url }})
 
+            - name: Get Path
+              id: get_path
+              run: echo ::set-output name=path::$(./out/get-path.js ${{ github.event.inputs.url }})
+
             - name: Download Page
               run: |
                   docker pull capsulecode/singlefile 
                   docker tag capsulecode/singlefile singlefile
-                  docker run singlefile ${{ github.event.inputs.url }} > "$(./out/get-path.js ${{github.event.input.url}})"
+                  docker run singlefile ${{ github.event.inputs.url }} > "${{ steps.get_path.outputs.path }}"
             - name: Update Database
               run: |
                   ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
