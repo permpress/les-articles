@@ -30,7 +30,9 @@
     },
     "homepage": "https://github.com/laudebugs/les-articles#readme",
     "dependencies": {
+        "@octokit/core": "^4.0.5",
         "chalk": "^4.1.2",
+        "dotenv": "^16.0.2",
         "slug": "^8.0.0",
         "ts-node": "^10.9.1"
     },
