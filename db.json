@@ -44,9 +44,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:16:43.136Z",
             "path": "articles/matthewbilyeu.com/blog-2022-09-01-responding-to-recruiter-emails-with-gpt-3.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:25:12.113Z",
+            "domain": "martinheinz.dev",
+            "originalUrl": "https://martinheinz.dev/blog/79",
+            "slug": "blog-79",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:25:12.113Z",
+            "path": "articles/martinheinz.dev/blog-79.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:16:43.136Z",
-    "articleCount": 5,
+    "lastUpdatedAt": "2022-09-12T03:25:12.113Z",
+    "articleCount": 6,
     "$schema": "./src/db.schema.json"
 }
