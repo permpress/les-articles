@@ -3101,9 +3101,238 @@
                     "The Business Implications of Combinatorial Optimisation"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T18:36:29.475Z",
+            "domain": "smirk.substack.com",
+            "originalUrl": "https://smirk.substack.com/p/media-vs-messaging-apps?s=r",
+            "slug": "p-media-vs-messaging-appssr",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:36:29.475Z",
+            "path": "articles/smirk.substack.com/p-media-vs-messaging-appssr.html",
+            "namedEntities": {
+                "ORG": [
+                    "Preston - Smirk Smirk Smirk Smirk Subscribe Sign",
+                    "Hinge",
+                    "YOLO",
+                    "Houseparty, Squad, Bunch",
+                    "Roadtrip, Yubo",
+                    "TikTok",
+                    "Instagram",
+                    "iMessage",
+                    "IG",
+                    "UX",
+                    "Rodeo",
+                    "Smirk Software",
+                    "JavaScript"
+                ],
+                "CARDINAL": [
+                    "only two",
+                    "One",
+                    "one",
+                    "380",
+                    "800",
+                    "11",
+                    "5"
+                ],
+                "DATE": [
+                    "25, 2020 11",
+                    "monthly",
+                    "2 years ago",
+                    "2022"
+                ],
+                "GPE": [
+                    "Bumble",
+                    "Triller"
+                ],
+                "PERSON": [
+                    "Zenly",
+                    "Linkedin",
+                    "Roadtrip",
+                    "Muze",
+                    "Vine",
+                    "Courtesy",
+                    "Preston",
+                    "Preston Sep",
+                    "Preston Jul",
+                    "Twitter"
+                ],
+                "FAC": [
+                    "Byte, Dubsmash"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "ORDINAL": [
+                    "First"
+                ],
+                "EVENT": [
+                    "4 Frameworks for Social Apps Get",
+                    "Preston Attebery Privacy ∙"
+                ],
+                "NORP": [
+                    "👋",
+                    "Instagram"
+                ]
+            }
+        },
+        {
+            "createdAt": "2022-09-12T18:37:27.090Z",
+            "domain": "theprofile.substack.com",
+            "originalUrl": "https://theprofile.substack.com/p/3-ways-to-attract-more-luck-into",
+            "slug": "p-3-ways-to-attract-more-luck-into",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:37:27.090Z",
+            "path": "articles/theprofile.substack.com/p-3-ways-to-attract-more-luck-into.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "3",
+                    "three",
+                    "1.",
+                    "two",
+                    "2.",
+                    "two to three",
+                    "3.",
+                    "36",
+                    "24",
+                    "0"
+                ],
+                "ORG": [
+                    "Ways to Attract More Luck Into Your Life The Profile Subscribe Sign",
+                    "Hanlon’s Razor",
+                    "Profile",
+                    "Collapse Top New Community",
+                    "Couples Share",
+                    "The Profile Privacy ∙",
+                    "JavaScript"
+                ],
+                "PERSON": [
+                    "George Mack",
+                    "Polina Pompliano",
+                    "Mack",
+                    "Luck",
+                    "Josh Wolfe",
+                    "Jim Watson",
+                    "Bezos",
+                    "Netflix",
+                    "Mindset Roulette",
+                    "Dale Carnegie",
+                    "Jalan Aug",
+                    "Maria Konnikova",
+                    "Reply Gift",
+                    "Polina Pompliano Jul"
+                ],
+                "TIME": [
+                    "the 10,000 hour",
+                    "tonight",
+                    "one hour",
+                    "hourly",
+                    "evening"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "GPE": [
+                    "Flywheel",
+                    "U.K."
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "DATE": [
+                    "2021",
+                    "24",
+                    "the first 90 days",
+                    "16",
+                    "2022"
+                ],
+                "WORK_OF_ART": [
+                    "\"The Biggest Bluff\"",
+                    "Polina Pompliano Dec 23, 2020 52 9 See all Ready for more?"
+                ],
+                "EVENT": [
+                    "the World “Blood"
+                ]
+            }
+        },
+        {
+            "createdAt": "2022-09-12T18:38:43.947Z",
+            "domain": "deepfix.substack.com",
+            "originalUrl": "https://deepfix.substack.com/p/breaking-free-from-productivity-addiction",
+            "slug": "p-breaking-free-from-productivity-addiction",
+            "tags": [],
+            "updatedAt": "2022-09-12T18:38:43.947Z",
+            "path": "articles/deepfix.substack.com/p-breaking-free-from-productivity-addiction.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "16",
+                    "6",
+                    "one",
+                    "1x1",
+                    "two",
+                    "zero",
+                    "5",
+                    "1",
+                    "2",
+                    "17",
+                    "7",
+                    "4",
+                    "23"
+                ],
+                "PERSON": [
+                    "Alex Olshonsky",
+                    "Richard Rohr",
+                    "Alex Olshonsky Alex",
+                    "Madman",
+                    "Alexander"
+                ],
+                "DATE": [
+                    "twelve years",
+                    "earlier this year",
+                    "today",
+                    "most days",
+                    "a few weeks",
+                    "decades-long",
+                    "30 days",
+                    "a day",
+                    "nearly six years",
+                    "years",
+                    "These days",
+                    "4 years ago",
+                    "Dec 17, 2021",
+                    "15, 2021 47",
+                    "2022"
+                ],
+                "LOC": [
+                    "Silicon Valley"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "TIME": [
+                    "all morning"
+                ],
+                "ORG": [
+                    "Amazon",
+                    "Slack",
+                    "IRL",
+                    "WhatsApp",
+                    "Top New Community Beast",
+                    "12 Addiction & Ayahuasca",
+                    "JavaScript"
+                ],
+                "GPE": [
+                    "Spotify",
+                    "Angel"
+                ],
+                "PRODUCT": [
+                    "Literary"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T18:31:22.567Z",
-    "articleCount": 33,
+    "lastUpdatedAt": "2022-09-12T18:38:43.947Z",
+    "articleCount": 36,
     "$schema": "./src/db.schema.json"
 }
