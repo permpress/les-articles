@@ -179,9 +179,18 @@
             "tags": [],
             "updatedAt": "2022-09-12T03:48:09.481Z",
             "path": "articles/gkogan.co/blog-swamped.html"
+        },
+        {
+            "createdAt": "2022-09-12T03:49:27.585Z",
+            "domain": "shekhargulati.com",
+            "originalUrl": "https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/",
+            "slug": "2022-07-08-my-notes-on-gitlabs-postgres-schema-design",
+            "tags": [],
+            "updatedAt": "2022-09-12T03:49:27.585Z",
+            "path": "articles/shekhargulati.com/2022-07-08-my-notes-on-gitlabs-postgres-schema-design.html"
         }
     ],
-    "lastUpdatedAt": "2022-09-12T03:48:09.481Z",
-    "articleCount": 20,
+    "lastUpdatedAt": "2022-09-12T03:49:27.585Z",
+    "articleCount": 21,
     "$schema": "./src/db.schema.json"
 }
