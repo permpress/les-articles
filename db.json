@@ -5190,9 +5190,85 @@
                     "Africa"
                 ]
             }
+        },
+        {
+            "createdAt": "2022-09-12T21:35:40.101Z",
+            "domain": "lipanski.com",
+            "originalUrl": "https://lipanski.com/posts/smallest-docker-image-static-website",
+            "slug": "posts-smallest-docker-image-static-website",
+            "tags": [],
+            "updatedAt": "2022-09-12T21:35:40.101Z",
+            "path": "articles/lipanski.com/posts-smallest-docker-image-static-website.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Docker",
+                    "Twitter",
+                    "KB",
+                    "Sergey Ponomarev",
+                    "BusyBox",
+                    "Ubuntu",
+                    "musl",
+                    "WORKDIR",
+                    "Copy",
+                    "CONFIG_FEATURE_HTTPD_CGI",
+                    "Switch"
+                ],
+                "WORK_OF_ART": [
+                    "Crystal and Rust",
+                    "Network Utilities",
+                    "Settings",
+                    "httpd.conf"
+                ],
+                "ORG": [
+                    "GitHub",
+                    "BusyBox",
+                    "UNIX",
+                    "-v -p 3000",
+                    "RUN",
+                    "USER",
+                    "Next",
+                    "https://busybox.net/downloads/busybox-1.35.0.tar.bz2 \\ && tar",
+                    "\\ &&",
+                    "RUN make &&",
+                    "COPY",
+                    "Hacker News Share",
+                    "JavaScript"
+                ],
+                "CARDINAL": [
+                    "186",
+                    "3000",
+                    "1.25MB",
+                    "854054cff457",
+                    "1.25",
+                    "around 1.5MB",
+                    "177",
+                    "#",
+                    "149",
+                    "httpd.conf #",
+                    "154"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "MONEY": [
+                    "busybox:1.35 #",
+                    "# Run BusyBox"
+                ],
+                "GPE": [
+                    "WORKDIR /home",
+                    "Uploads"
+                ],
+                "PRODUCT": [
+                    "Alpine",
+                    "Download"
+                ],
+                "LOC": [
+                    "Docker Hub"
+                ]
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T21:35:28.810Z",
-    "articleCount": 57,
+    "lastUpdatedAt": "2022-09-12T21:35:40.101Z",
+    "articleCount": 58,
     "$schema": "./src/db.schema.json"
 }
