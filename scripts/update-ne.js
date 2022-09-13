@@ -16,7 +16,7 @@ Promise.all(
     }),
 ).then((articlesWithMeta) => {
     db.articles = articlesWithMeta
-    fs.writeFileSync('./db.json', JSON.stringify(db, null, 2))
+    fs.writeFileSync('./db.min.json', JSON.stringify(db, null))
 })
 
 // Write to file

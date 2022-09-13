@@ -39,6 +39,10 @@ export class Database {
             $schema: this.$schema,
         }
         fs.writeFileSync('./db.json', JSON.stringify(db, null, 4))
+        fs.writeFileSync(
+            './db.min.json',
+            JSON.stringify({ ...db, articles: this.articles.map((article) => ({ ...article, namedEntities: undefined })) }),
+        )
     }
 
     updateArchive() {
