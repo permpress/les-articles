@@ -9495,9 +9495,128 @@
                 "date": "2019-07-30T09:02:56.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-13T12:10:37.739Z",
+            "domain": "theatlantic.com",
+            "originalUrl": "https://www.theatlantic.com/science/archive/2022/09/multiverse-hypothesis-cosmic-life-rare/671371/",
+            "slug": "science-archive-2022-09-multiverse-hypothesis-cosmic-life-rare-671371",
+            "tags": [],
+            "updatedAt": "2022-09-13T12:10:37.739Z",
+            "path": "articles/theatlantic.com/science-archive-2022-09-multiverse-hypothesis-cosmic-life-rare-671371.html",
+            "namedEntities": {
+                "LOC": [
+                    "the Gobi Desert",
+                    "Earth",
+                    "Atlantic",
+                    "Cayuga Lake",
+                    "the Mystery of Why Women Get So Many Autoimmune Diseases Olga Khazan",
+                    "The Atlantic"
+                ],
+                "PERSON": [
+                    "Alan Lightman",
+                    "Erik Carter",
+                    "Endings Alan Lightman",
+                    "Kepler",
+                    "Brandon Carter",
+                    "Carter",
+                    "Arthur C. Brooks A Breakthrough",
+                    "Edwin Salpeter",
+                    "Thomas Gold",
+                    "Hans Bethe",
+                    "Tommy",
+                    "Wheelbarrows"
+                ],
+                "ORG": [
+                    "Getty September 8, 2022 Share",
+                    "Webb",
+                    "Probable Impossibilities - Musings On Beginnings",
+                    "Pantheon Buy Book",
+                    "Cornell University",
+                    "Cornell",
+                    "the Big Bang",
+                    "Tommy",
+                    "The Atlantic Daily",
+                    "MIT",
+                    "Site Information Privacy Policy Do Not Sell My Personal Information Advertising Guidelines Terms Conditions Responsible Disclosure Site Map TheAtlantic.com",
+                    "The Atlantic Monthly Group"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "fourth"
+                ],
+                "FAC": [
+                    "the James Webb Space Telescope"
+                ],
+                "CARDINAL": [
+                    "at least one",
+                    "billions",
+                    "about one-billionth",
+                    "one",
+                    "three",
+                    "four",
+                    "only one",
+                    "only three",
+                    "3",
+                    "6",
+                    "11",
+                    "nine"
+                ],
+                "DATE": [
+                    "A few years ago",
+                    "one-billionth",
+                    "the mid-1970s",
+                    "1998",
+                    "two years",
+                    "Every day",
+                    "1920",
+                    "1948",
+                    "1968",
+                    "the 1970s",
+                    "daily",
+                    "weekday",
+                    "day",
+                    "the day",
+                    "January 2023",
+                    "every week",
+                    "2022"
+                ],
+                "NORP": [
+                    "Australian",
+                    "Swedish"
+                ],
+                "WORK_OF_ART": [
+                    "Dear Therapist",
+                    "Build a Happy Life The Review Subscription Purchase Give a"
+                ],
+                "GPE": [
+                    "Vienna",
+                    "Tommy",
+                    "Atlantic Discover"
+                ],
+                "TIME": [
+                    "evening"
+                ],
+                "QUANTITY": [
+                    "three feet"
+                ],
+                "MONEY": [
+                    "a few hundred billion years"
+                ]
+            },
+            "metaData": {
+                "author": "Alan Lightman",
+                "description": "Even if life existed on every planet that could support it, living matter in the universe would amount to only a few grains of sand in the Gobi Desert.",
+                "image": "https://cdn.theatlantic.com/thumbor/ZiZcM9X7oGk9weLez19ZdITMC5k=/0x43:2000x1085/1200x625/media/img/mt/2022/09/GalaxyEye_Hi/original.jpg",
+                "publisher": "The Atlantic",
+                "title": "Life Is an Accident of Space and Time",
+                "url": "https://www.theatlantic.com/science/archive/2022/09/multiverse-hypothesis-cosmic-life-rare/671371/",
+                "date": "2022-09-12T15:28:47.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-12T23:58:24.751Z",
-    "articleCount": 74,
+    "lastUpdatedAt": "2022-09-13T12:10:37.739Z",
+    "articleCount": 75,
     "$schema": "./src/db.schema.json"
 }
