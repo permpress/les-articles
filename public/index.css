@@ -1,0 +1,14 @@
+ion-content {
+    justify-content: center;
+}
+@media screen and (min-width: 1280px) {
+    /* ion-content{
+        max-width: 1280px;
+        margin:  auto;
+    } */
+    .article-item {
+        max-width: 1280px;
+        align-self: center;
+        margin: auto;
+    }
+}

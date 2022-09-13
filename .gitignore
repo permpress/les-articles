@@ -5,3 +5,5 @@ out
 **/*.DS_Store
 dist
 www
+public/pages/articles/**/*.html
+firebase-debug.log

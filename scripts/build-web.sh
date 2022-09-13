@@ -1,4 +1,3 @@
-mkdir www
 
 # Bundle js
 npx esbuild public/index.js  \
