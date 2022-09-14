@@ -12093,9 +12093,41 @@
                 "date": "2021-11-02T22:16:21.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T04:26:44.684Z",
+            "domain": "therealadam.com",
+            "originalUrl": "https://therealadam.com/2021/11/01/dont-be-spooky/",
+            "slug": "2021-11-01-dont-be-spooky",
+            "tags": [],
+            "updatedAt": "2022-09-14T04:26:44.684Z",
+            "path": "articles/therealadam.com/2021-11-01-dont-be-spooky.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Adam Keys"
+                ],
+                "DATE": [
+                    "November 1, 2021"
+                ],
+                "ORG": [
+                    "Twitter Reddit Tumblr Facebook ←",
+                    "Proudly Powered",
+                    "WordPress Follow"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "It’s possibly the best advice for managers I’ve given so far. When you’re communicating with your team, lead with context and reassurance. Never message someone on your team, “let&#8217…",
+                "image": "https://therealadam.files.wordpress.com/2021/05/cropped-cropped-img_1369-4.jpg?w=200",
+                "publisher": "Adam Keys is typing",
+                "title": "Don’t be spooky",
+                "url": "https://therealadam.com/2021/11/01/dont-be-spooky/",
+                "date": "2021-10-30T19:40:57.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T04:26:28.155Z",
-    "articleCount": 103,
+    "lastUpdatedAt": "2022-09-14T04:26:44.684Z",
+    "articleCount": 104,
     "$schema": "./src/db.schema.json"
 }
