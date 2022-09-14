@@ -15760,9 +15760,139 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:22:48.408Z",
+            "domain": "trekhleb.dev",
+            "originalUrl": "https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/",
+            "slug": "blog-2021-content-aware-image-resizing-in-javascript",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:22:48.408Z",
+            "path": "articles/trekhleb.dev/blog-2021-content-aware-image-resizing-in-javascript.html",
+            "namedEntities": {
+                "ORG": [
+                    "JavaScript",
+                    "Trekhleb Trekhleb About Projects Blog Content",
+                    "TypeScript",
+                    "Content",
+                    "GitHub",
+                    "Content Aware Image Resizer",
+                    "px",
+                    "Instagram",
+                    "ImageSize",
+                    "//",
+                    "EnergyMap",
+                    "// Resized",
+                    "ImageData",
+                    "imgWidth",
+                    "getPixelEnergy",
+                    "// Energy",
+                    "lEnergy",
+                    "rEnergy",
+                    "getPixel",
+                    "linear",
+                    "// Helper",
+                    "Dynamic Programming",
+                    "Dynamic Programming vs Divide",
+                    "O(3^h",
+                    "lastMinY",
+                    "Newsletter"
+                ],
+                "DATE": [
+                    "16 April, 2021 11",
+                    "the 1st",
+                    "the 2nd",
+                    "the 2nd, 3rd",
+                    "the first row",
+                    "5 + 0 +",
+                    "70",
+                    "the very top 1st"
+                ],
+                "FAC": [
+                    "Background",
+                    "Content Aware Image Resizer"
+                ],
+                "PERSON": [
+                    "Ian Dooley",
+                    "Shai Avidan",
+                    "Ariel Shamir",
+                    "Resize Width %",
+                    "Van Gogh's",
+                    "// Type",
+                    "Color",
+                    "// Blue",
+                    "// Alpha",
+                    "ImageData",
+                    "// Performs",
+                    "// Reduce",
+                    "// Returning",
+                    "mG",
+                    "//",
+                    "getPixelEnergy",
+                    "// Calculates",
+                    "{ w",
+                    "// Left",
+                    "// Finds",
+                    "Subscribe Feedback"
+                ],
+                "CARDINAL": [
+                    "three",
+                    "two",
+                    "500",
+                    "5",
+                    "1",
+                    "One",
+                    "0",
+                    "626",
+                    "one",
+                    "1000",
+                    "999",
+                    "2D",
+                    "3",
+                    "2",
+                    "4",
+                    "10",
+                    "235",
+                    "four",
+                    "2][3",
+                    "50"
+                ],
+                "PERCENT": [
+                    "50%"
+                ],
+                "WORK_OF_ART": [
+                    "The Seam Carving"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "First",
+                    "1px"
+                ],
+                "PRODUCT": [
+                    "ImageData",
+                    "setPixel",
+                    "getPixel"
+                ],
+                "NORP": [
+                    "DP"
+                ],
+                "LOC": [
+                    "SeamPixelMeta"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "JavaScript implementation of so-called Seam Carving algorithm for the content-aware image resizing and objects removal. Dynamic programming approach is applied to optimize the resizing time.",
+                "image": "https://trekhleb.dev/static/614863d4b0f1b51f0e2211589e973aa5/9aebb/01-cover-02.jpg",
+                "publisher": "Trekhleb",
+                "title": "Content-aware image resizing in JavaScript | Trekhleb",
+                "url": "https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:22:11.561Z",
-    "articleCount": 136,
+    "lastUpdatedAt": "2022-09-14T16:22:48.408Z",
+    "articleCount": 137,
     "$schema": "./src/db.schema.json"
 }
