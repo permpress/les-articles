@@ -10926,9 +10926,69 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:16:52.713Z",
+            "domain": "jacobian.org",
+            "originalUrl": "https://jacobian.org/2021/nov/9/wst-intro/",
+            "slug": "2021-nov-9-wst-intro",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:16:52.714Z",
+            "path": "articles/jacobian.org/2021-nov-9-wst-intro.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Jacob Kaplan-Moss",
+                    "Twitter"
+                ],
+                "DATE": [
+                    "Earlier this year",
+                    "Today",
+                    "days",
+                    "weeks",
+                    "months",
+                    "several years",
+                    "six weeks",
+                    "November 9th, 2021"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "1",
+                    "four",
+                    "five",
+                    "Eight"
+                ],
+                "PRODUCT": [
+                    "F",
+                    "FizzBuzz"
+                ],
+                "ORG": [
+                    "C. Interview",
+                    "Gruyere Software Engineer Review",
+                    "CLI",
+                    "API Infrastructure Engineer Write Terraform/CloudFormation",
+                    "Developer Relations Write",
+                    "AWS",
+                    "S3",
+                    "FizzBuzz",
+                    "Leetcode"
+                ],
+                "LOC": [
+                    "Algorithm"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "Earlier this year, I wrote a series on interview questions. Good interview questions are one key to hiring well, but they’re not the only key. Today, I’m starting a new series on another critical factor in effective hiring: using work sample tests, aka practical exercises. This is part 1: what are w…",
+                "image": "https://jacobian.org/cards/wst-intro.png",
+                "publisher": "Jacob Kaplan-Moss",
+                "title": "Introduction to Work Sample Tests - Jacob Kaplan-Moss",
+                "url": "https://jacobian.org/2021/nov/9/wst-intro/",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:16:10.422Z",
-    "articleCount": 90,
+    "lastUpdatedAt": "2022-09-14T03:16:52.714Z",
+    "articleCount": 91,
     "$schema": "./src/db.schema.json"
 }
