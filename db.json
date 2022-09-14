@@ -15485,9 +15485,146 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:21:56.268Z",
+            "domain": "medium.com",
+            "originalUrl": "https://medium.com/paypal-tech/graphql-at-paypal-an-adoption-story-b7e01175f2b7",
+            "slug": "paypal-tech-graphql-at-paypal-an-adoption-story-b7e01175f2b7",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:21:56.268Z",
+            "path": "articles/medium.com/paypal-tech-graphql-at-paypal-an-adoption-story-b7e01175f2b7.html",
+            "namedEntities": {
+                "ORG": [
+                    "PayPal",
+                    "Shruti Kapoor",
+                    "PayPal Technology Blog",
+                    "Unsplash State",
+                    "API",
+                    "UI",
+                    "Identity",
+                    "BFF",
+                    "REST",
+                    "SDK",
+                    "Apollo Client",
+                    "API Exploration",
+                    "Apollo",
+                    "CLI",
+                    "Apollo Federation",
+                    "Postman",
+                    "GraphQL",
+                    "The PayPal Technology Blog Follow Join",
+                    "Programming 4 min",
+                    "Medium Adam Inzelberg & Ilan Voronel",
+                    "The PayPal Technology Blog Recommended",
+                    "Inc.",
+                    "Inc. npm",
+                    "JavaScript",
+                    "The PayPal Technology Blog",
+                    "Razorpay Engineering",
+                    "The Airbnb Tech Blog Unified Payments Data Read",
+                    "Ancestry Product & Technology Scaling Ancestry.com:",
+                    "Billions of Images at Ancestry Help Status Writers"
+                ],
+                "WORK_OF_ART": [
+                    "Medium Home Notifications Lists Stories Write Published in The PayPal Technology Blog Shruti Kapoor Aug 31, 2021",
+                    "Build a Robust Payment Processing Flow",
+                    "Machine Learning 6 min",
+                    "Medium"
+                ],
+                "CARDINAL": [
+                    "12",
+                    "one",
+                    "634",
+                    "5",
+                    "two",
+                    "millions",
+                    "17"
+                ],
+                "PERSON": [
+                    "Parrish Freeman",
+                    "Playground",
+                    "Mark Stuart",
+                    "sample apps",
+                    "Rohit Basu",
+                    "Kotlin",
+                    "200s",
+                    "Joey Nenni",
+                    "Christoffer Engström",
+                    "Photo",
+                    "Wilhelm Gunkel",
+                    "Walmik Deshpande",
+                    "Miriam Goldberg",
+                    "BT Playground",
+                    "Sreeram Vasudevan",
+                    "Victoria Lo",
+                    "Jon Jones",
+                    "Greg Jopa",
+                    "George Chen",
+                    "Jul",
+                    "Hack",
+                    "Medium Sahil Patel",
+                    "Ankr Ankr",
+                    "Binance Smart",
+                    "Margaret Eldridge",
+                    "Khadilkar",
+                    "Jeremy Noel Johnson"
+                ],
+                "DATE": [
+                    "today",
+                    "Today",
+                    "24, 2021",
+                    "10, 2021",
+                    "20, 2021",
+                    "weekly",
+                    "September"
+                ],
+                "GPE": [
+                    "Redux",
+                    "GraphQL",
+                    "React",
+                    "Singh",
+                    "Braintree",
+                    "Quinn Zuo",
+                    "Philippines"
+                ],
+                "NORP": [
+                    "UI",
+                    "Braintree"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "PRODUCT": [
+                    "200s"
+                ],
+                "FAC": [
+                    "400s",
+                    "500s"
+                ],
+                "EVENT": [
+                    "Transforming PayPal’s AI Culture to Enable Intelligent Business Decisions At"
+                ],
+                "MONEY": [
+                    "103"
+                ],
+                "LOC": [
+                    "Review Jr Medina Continue"
+                ]
+            },
+            "metaData": {
+                "author": "Shruti Kapoor",
+                "description": "We discovered many of our engineering challenges could be solved with GraphQL. Use our best practices to drive GraphQL adoption at your…",
+                "image": "https://miro.medium.com/max/1200/1*uR3-LnwSjmD4nUmiN8gHZg.png",
+                "publisher": "The PayPal Technology Blog",
+                "title": "GraphQL at PayPal: An Adoption Story",
+                "url": "https://medium.com/paypal-tech/graphql-at-paypal-an-adoption-story-b7e01175f2b7",
+                "date": "2022-01-05T16:24:29.845Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:21:45.326Z",
-    "articleCount": 134,
+    "lastUpdatedAt": "2022-09-14T16:21:56.268Z",
+    "articleCount": 135,
     "$schema": "./src/db.schema.json"
 }
