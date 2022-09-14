@@ -14203,9 +14203,74 @@
                 "date": "2021-09-19T00:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:17:25.340Z",
+            "domain": "rachsmith.com",
+            "originalUrl": "https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months/",
+            "slug": "i-completely-ignored-the-front-end-development-scene-for-6-months",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:17:25.340Z",
+            "path": "articles/rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months.html",
+            "namedEntities": {
+                "DATE": [
+                    "6 months",
+                    "July 26, 2021 Tags:",
+                    "The first year",
+                    "the second year",
+                    "only 8 months",
+                    "26",
+                    "Nine years",
+                    "Earlier this year",
+                    "a couple of years",
+                    "that 6 months",
+                    "6 month",
+                    "2022"
+                ],
+                "PERSON": [
+                    "Rach Smith's",
+                    "Steve Jobs",
+                    "Rachel Smith"
+                ],
+                "ORG": [
+                    "Adobe Flash",
+                    "JavaScript",
+                    "Front End",
+                    "AWS",
+                    "CodePen",
+                    "the Traditional Owners"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "7",
+                    "29",
+                    "11",
+                    "18",
+                    "3",
+                    "27",
+                    "22"
+                ],
+                "ORDINAL": [
+                    "second"
+                ],
+                "NORP": [
+                    "JavaScript",
+                    "Elders"
+                ]
+            },
+            "metaData": {
+                "author": "Rach Smith",
+                "description": "I’ve learnt I don’t need to keep up with the hectic pace of Front End development news.",
+                "image": "https://rachsmith.com/twitter-image-2.png",
+                "publisher": "Rach Smith's digital garden",
+                "title": "I completely ignored the front end development scene for 6 months. It was fine",
+                "url": "https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months/",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:17:17.998Z",
-    "articleCount": 121,
+    "lastUpdatedAt": "2022-09-14T16:17:25.341Z",
+    "articleCount": 122,
     "$schema": "./src/db.schema.json"
 }
