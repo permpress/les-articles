@@ -13963,9 +13963,154 @@
                 "date": "2021-10-09T22:30:52.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:17:04.472Z",
+            "domain": "habr.com",
+            "originalUrl": "https://habr.com/en/post/440736/",
+            "slug": "en-post-440736",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:17:04.472Z",
+            "path": "articles/habr.com/en-post-440736.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Habr Habr",
+                    "Phil",
+                    "Reply Add",
+                    "Jonathan Haidt's",
+                    "Stack Overflow",
+                    "Flipper Zero",
+                    "Views",
+                    "Реализовать",
+                    "Habr Freelance Ads Most",
+                    "Structured Logging",
+                    "Bluetooth"
+                ],
+                "ORG": [
+                    "Development Admin Design Management Marketing PopSci",
+                    "Personnel Management",
+                    "Translation Original",
+                    "Submit",
+                    "Views 230K Add",
+                    "Genius Total",
+                    "IDE",
+                    "IMO",
+                    "↓0",
+                    "PS",
+                    "Nice",
+                    "PVS-Studio",
+                    "Intel",
+                    "Программа",
+                    "Нужно",
+                    "Interpolated Strings",
+                    "Views",
+                    "K Comments",
+                    "Views 4.8K Comments",
+                    "Views 260K Comments",
+                    "Views 3K Comments"
+                ],
+                "CARDINAL": [
+                    "18",
+                    "thousand",
+                    "200",
+                    "one",
+                    "three",
+                    "dozens",
+                    "40",
+                    "15",
+                    "293",
+                    "6",
+                    "4",
+                    "1",
+                    "3",
+                    "2",
+                    "13:54",
+                    "20000",
+                    "16",
+                    "90",
+                    "10000",
+                    "23",
+                    "38",
+                    "17",
+                    "22",
+                    "Millions"
+                ],
+                "DATE": [
+                    "February  2019",
+                    "a couple months",
+                    "week",
+                    "monthly",
+                    "a few days later",
+                    "19.02.2019",
+                    "More TaNkerTANGO 19.02.2019",
+                    "More 13.03.2019",
+                    "11.03.2019",
+                    "13.03.2019",
+                    "23  December  2021",
+                    "12  October  2021",
+                    "19  ",
+                    "August  2020",
+                    "10000",
+                    "NextJS 800"
+                ],
+                "TIME": [
+                    "13:00",
+                    "minutes",
+                    "14:16",
+                    "05:54",
+                    "12:00",
+                    "15:18",
+                    "13:55",
+                    "05:42",
+                    "14:42 talking"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second"
+                ],
+                "GPE": [
+                    "Kinda",
+                    "Russia",
+                    "Nice",
+                    "WP"
+                ],
+                "QUANTITY": [
+                    "a ton"
+                ],
+                "WORK_OF_ART": [
+                    "+4 Reply Add",
+                    "The Righteous Mind: Why Good People are Divided by Politics"
+                ],
+                "FAC": [
+                    "08:21 Show"
+                ],
+                "LANGUAGE": [
+                    "English",
+                    "C++"
+                ],
+                "PERCENT": [
+                    "100%"
+                ],
+                "PRODUCT": [
+                    "08:31 Static"
+                ],
+                "NORP": [
+                    "Разработать"
+                ]
+            },
+            "metaData": {
+                "author": "Philipp Ranzhin",
+                "description": "Once upon a time there was a guy on my team so weak that he was going to be fired (a developer! Fired!). Every comment of mine was another nail in his coffin. I could almost hear the bang of the...",
+                "image": "https://habr.com/share/publication/440736/8dd12f66dd4f3963e2ac71bd8d7e8b20/",
+                "publisher": "Habr",
+                "title": "I ruin developers’ lives with my code reviews and I’m sorry",
+                "url": "https://habr.com/en/post/440736/",
+                "date": "2019-02-18T13:34:46.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:16:55.143Z",
-    "articleCount": 119,
+    "lastUpdatedAt": "2022-09-14T16:17:04.472Z",
+    "articleCount": 120,
     "$schema": "./src/db.schema.json"
 }
