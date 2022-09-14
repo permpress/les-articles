@@ -15890,9 +15890,113 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:23:46.639Z",
+            "domain": "laravel-news.com",
+            "originalUrl": "https://laravel-news.com/aws-mistakes",
+            "slug": "aws-mistakes",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:23:46.639Z",
+            "path": "articles/laravel-news.com/aws-mistakes.html",
+            "namedEntities": {
+                "ORG": [
+                    "AWS",
+                    "AWS Tutorials",
+                    "CPU",
+                    "T2",
+                    "T2/T3/T4",
+                    "T3",
+                    "EC2",
+                    "T3a",
+                    "AMD",
+                    "Intel",
+                    "PHP",
+                    "IOPS",
+                    "CloudCasts",
+                    "RDS",
+                    "Burst Balance",
+                    "IO",
+                    "Laravel News Partners Newsletter",
+                    "Developer Laravel Developer",
+                    "Junior Laravel Developer Laravel/Wordpress PHP Developer",
+                    "Instagram Design &",
+                    "Blog Newsletter Tutorials Packages Training Resources Partners Advertising Archive Login Contact"
+                ],
+                "DATE": [
+                    "September 10th, 2021",
+                    "about 2015",
+                    "3 month",
+                    "September 14th",
+                    "September 13th",
+                    "2012 - 2022"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "Second"
+                ],
+                "CARDINAL": [
+                    "T3",
+                    "T2",
+                    "zero",
+                    "24",
+                    "576",
+                    "T4",
+                    "at least one",
+                    "100",
+                    "3000",
+                    "16,000",
+                    "2",
+                    "125",
+                    "33,000"
+                ],
+                "PERSON": [
+                    "max",
+                    "Volumes",
+                    "max IOPS",
+                    "1000 GB",
+                    "IOPS",
+                    "Queue Depth",
+                    "Aurora",
+                    "CloudWatch Metrics",
+                    "Chris Fidao",
+                    "Chipper CI",
+                    "PHP Developer"
+                ],
+                "PERCENT": [
+                    "above 20%",
+                    "20%"
+                ],
+                "WORK_OF_ART": [
+                    "Unlimited Mode",
+                    "the \"Monitoring\"",
+                    "Creating Installer Commands for Laravel",
+                    "Newsletter Subscribe Follow Laravel News",
+                    "Facebook Twitter LinkedIn"
+                ],
+                "GPE": [
+                    "Throughput"
+                ],
+                "MONEY": [
+                    "250 MB/s"
+                ],
+                "EVENT": [
+                    "Laravel News"
+                ]
+            },
+            "metaData": {
+                "author": "Chris Fidao",
+                "description": "Here’s a collection of the most commonly missed things when using AWS with Forge!",
+                "image": "https://laravelnews.imgix.net/images/laravel-forge-leader.png?ixlib=php-3.3.1",
+                "publisher": "Laravel News",
+                "title": "Mistakes I’ve Made in AWS",
+                "url": "https://laravel-news.com/aws-mistakes",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:22:48.408Z",
-    "articleCount": 137,
+    "lastUpdatedAt": "2022-09-14T16:23:46.639Z",
+    "articleCount": 138,
     "$schema": "./src/db.schema.json"
 }
