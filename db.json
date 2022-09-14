@@ -10457,9 +10457,73 @@
                 "date": "2022-01-17T00:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:12:54.607Z",
+            "domain": "blog.jim-nielsen.com",
+            "originalUrl": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
+            "slug": "2022-a-web-for-all",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:12:54.607Z",
+            "path": "articles/blog.jim-nielsen.com/2022-a-web-for-all.html",
+            "namedEntities": {
+                "ORG": [
+                    "The Optional Chaining Operator",
+                    "CSS-Tricks",
+                    "iPad",
+                    "Safari",
+                    "iPad Air",
+                    "Apple",
+                    "JavaScript",
+                    "ECMAScript 2020"
+                ],
+                "WORK_OF_ART": [
+                    "Modern” Browsers",
+                    "Blog Archive Tags"
+                ],
+                "PERSON": [
+                    "My Mom - Jim Nielsen",
+                    "Blog Jim Nielsen",
+                    "Eric Bailey",
+                    "Mike",
+                    "Chromebox",
+                    "Chrome",
+                    "Safari",
+                    "Chris",
+                    "Dave"
+                ],
+                "DATE": [
+                    "About a month ago",
+                    "2022",
+                    "76",
+                    "every couple of years"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "two",
+                    "12"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "1st"
+                ],
+                "NORP": [
+                    "Safari"
+                ]
+            },
+            "metaData": {
+                "author": "p-author",
+                "description": null,
+                "image": "https://blog.jim-nielsen.com/assets/img/twitter-card.png",
+                "publisher": "Jim Nielsen’s Blog",
+                "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom",
+                "url": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
+                "date": "2022-01-05T19:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:12:17.287Z",
-    "articleCount": 85,
+    "lastUpdatedAt": "2022-09-14T03:12:54.607Z",
+    "articleCount": 86,
     "$schema": "./src/db.schema.json"
 }
