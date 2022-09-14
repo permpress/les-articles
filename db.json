@@ -12589,9 +12589,138 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:04:27.490Z",
+            "domain": "github.com",
+            "originalUrl": "https://github.com/readme/featured/why-the-lucky-stiff",
+            "slug": "readme-featured-why-the-lucky-stiff",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:04:27.490Z",
+            "path": "articles/github.com/readme-featured-why-the-lucky-stiff.html",
+            "namedEntities": {
+                "ORG": [
+                    "GitHub",
+                    "Product Actions Automate",
+                    "Discussions Collaborate",
+                    "GitHub Skills Changelog Solutions",
+                    "Solution CI",
+                    "Project GitHub",
+                    "Repositories Topics Trending Collections Pricing Sign",
+                    "RailsConf 2006",
+                    "The Thirsty Cups",
+                    "Twitter",
+                    "Try Ruby",
+                    "Product Education Engineering",
+                    "HashiCorp",
+                    "McHugh",
+                    "JetBrains Developer Ecosystem",
+                    "Sinatra",
+                    "Songbird",
+                    "API",
+                    "Flask",
+                    "JetBrains",
+                    "BASIC",
+                    "JavaScript",
+                    "CSS",
+                    "Homebrew",
+                    "n00bs",
+                    "CC BY-SA",
+                    "Project Coding",
+                    "Newsletter",
+                    "Project Pricing Resources Roadmap Platform Developer",
+                    "Careers Press Inclusion Social Impact Shop GitHub",
+                    "YouTube GitHub",
+                    "TikTok GitHub’s"
+                ],
+                "PERSON": [
+                    "Packages Host",
+                    "Susan Haejin Lee",
+                    "Klint Finley //",
+                    "Dali",
+                    "Eleanor McHugh",
+                    "Franz Kafka",
+                    "Kafka",
+                    "Max Brod",
+                    "Max Brods",
+                    "Hackety Hack",
+                    "Matt Zmuda",
+                    "Geoffrey Grosenbach",
+                    "Microframeworks",
+                    "KB",
+                    "Blake Mizerany",
+                    "Aaron Swartz's",
+                    "Java",
+                    "Nominate",
+                    "Twitter GitHub",
+                    "Twitch GitHub",
+                    "GitHub",
+                    "Git"
+                ],
+                "WORK_OF_ART": [
+                    "Codespaces Instant",
+                    "Picasso"
+                ],
+                "DATE": [
+                    "October 14, 2021",
+                    "every day",
+                    "the 00s",
+                    "a few years",
+                    "August 19, 2009",
+                    "2013",
+                    "the early 00s",
+                    "99 or 2000",
+                    "January 2006",
+                    "2021",
+                    "2006",
+                    "recent years",
+                    "2003",
+                    "the days",
+                    "the 1980s",
+                    "Commodore 64",
+                    "Today",
+                    "years",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "thousand",
+                    "Two thousand",
+                    "three thousand",
+                    "3.9"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second"
+                ],
+                "EVENT": [
+                    "Ruby"
+                ],
+                "NORP": [
+                    "Rubyist"
+                ],
+                "GPE": [
+                    "Grosenbach"
+                ],
+                "PRODUCT": [
+                    "Camping"
+                ],
+                "TIME": [
+                    "hours"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "Code might not last forever, but _why proves you can have an impact that outlives your work.",
+                "image": "https://images.ctfassets.net/s5uo95nf6njh/TDKlen395rOcriCa1rMJQ/0f507ecc6440f2e6c93eb1c443870294/1200x630-ReadMe-Twitter_LI_Post-Why_Lucky_2x.png",
+                "publisher": "GitHub",
+                "title": "What we can learn from “_why” the long lost open source developer.",
+                "url": "https://github.com/readme/featured/why-the-lucky-stiff",
+                "date": "2021-10-14T21:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:03:13.189Z",
-    "articleCount": 108,
+    "lastUpdatedAt": "2022-09-14T16:04:27.491Z",
+    "articleCount": 109,
     "$schema": "./src/db.schema.json"
 }
