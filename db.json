@@ -10095,9 +10095,64 @@
                 "date": "2022-01-24T00:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:10:52.586Z",
+            "domain": "gomakethings.com",
+            "originalUrl": "https://gomakethings.com/spas-were-a-mistake/",
+            "slug": "spas-were-a-mistake",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:10:52.586Z",
+            "path": "articles/gomakethings.com/spas-were-a-mistake.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Accessibility Feedback Go Make Things",
+                    "Browsers",
+                    "Determine"
+                ],
+                "DATE": [
+                    "February 22, 2022",
+                    "years",
+                    "Today",
+                    "Tomorrow"
+                ],
+                "ORG": [
+                    "SPA",
+                    "JavaScript",
+                    "YouTube",
+                    "API",
+                    "DOM",
+                    "MPA",
+                    "UX",
+                    "Daily Developer Tips",
+                    "the MIT License"
+                ],
+                "PRODUCT": [
+                    "SoundCloud"
+                ],
+                "QUANTITY": [
+                    "a ton"
+                ],
+                "FAC": [
+                    "Tooling Bundle"
+                ],
+                "GPE": [
+                    "Massachusetts"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "For years, a trend in our industry has been to build single-page apps, or SPAs.\nWith an SPA, the entire site or app lives in a single HTML file. After the initial load, everything about the app is handled with JavaScript. This is, in theory, supposed to result in web apps that feel as fast and snapp…",
+                "image": "https://gomakethings.com/img/og.png",
+                "publisher": "Go Make Things",
+                "title": "SPAs were a mistake",
+                "url": "https://gomakethings.com/spas-were-a-mistake/",
+                "date": "2022-02-22T15:30:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:10:39.437Z",
-    "articleCount": 81,
+    "lastUpdatedAt": "2022-09-14T03:10:52.586Z",
+    "articleCount": 82,
     "$schema": "./src/db.schema.json"
 }
