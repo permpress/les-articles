@@ -11771,7 +11771,7 @@
             "originalUrl": "https://avdi.codes/the-banana-stand/",
             "slug": "the-banana-stand",
             "tags": [],
-            "updatedAt": "2022-09-14T03:20:58.567Z",
+            "updatedAt": "2022-09-14T04:27:42.334Z",
             "path": "articles/avdi.codes/the-banana-stand.html",
             "namedEntities": {
                 "ORG": [
@@ -12127,7 +12127,7 @@
             }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T04:26:44.684Z",
+    "lastUpdatedAt": "2022-09-14T04:27:42.335Z",
     "articleCount": 104,
     "$schema": "./src/db.schema.json"
 }
