@@ -10150,9 +10150,82 @@
                 "date": "2022-02-22T15:30:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:11:32.685Z",
+            "domain": "benkuhn.net",
+            "originalUrl": "https://www.benkuhn.net/11/",
+            "slug": "11",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:11:32.685Z",
+            "path": "articles/benkuhn.net/11.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "one",
+                    "One",
+                    "1",
+                    "four",
+                    "two"
+                ],
+                "ORG": [
+                    "Wave",
+                    "High Output Management",
+                    "Intel",
+                    "GiveWell",
+                    "•"
+                ],
+                "PERSON": [
+                    "Eve",
+                    "Wave",
+                    "Allowing",
+                    "Eve Bigaj",
+                    "Warren Buffett",
+                    "Ben"
+                ],
+                "DATE": [
+                    "weekly",
+                    "day",
+                    "about a year",
+                    "last week’s",
+                    "all day",
+                    "the ’80s",
+                    "December 2019",
+                    "10x",
+                    "June 2020",
+                    "June 2020 Inspiring",
+                    "February 2021",
+                    "a few months"
+                ],
+                "PERCENT": [
+                    "50%",
+                    "~25%"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "WORK_OF_ART": [
+                    "PhD"
+                ],
+                "TIME": [
+                    "30 minutes"
+                ],
+                "GPE": [
+                    "Anya"
+                ]
+            },
+            "metaData": {
+                "author": "c10",
+                "description": "When I started dating my partner, I quickly noticed that grad school was making her very sad.\nThis was shortly after I’d started leading an engineering team at Wave, and so the “obvious” hypothesis to me was that the management (okay, “management”) one gets in graduate school is totally ineffective.…",
+                "image": null,
+                "publisher": "benkuhn.net",
+                "title": "The unreasonable effectiveness of one-on-ones",
+                "url": "https://www.benkuhn.net/11/",
+                "date": "2019-12-28T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:10:52.586Z",
-    "articleCount": 82,
+    "lastUpdatedAt": "2022-09-14T03:11:32.685Z",
+    "articleCount": 83,
     "$schema": "./src/db.schema.json"
 }
