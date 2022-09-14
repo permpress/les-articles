@@ -11325,9 +11325,55 @@
                 "date": "2021-11-21T22:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:18:07.752Z",
+            "domain": "buttondown.email",
+            "originalUrl": "https://buttondown.email/bhupesh/archive/why-its-ok-to-abandon-your-side-projects/",
+            "slug": "bhupesh-archive-why-its-ok-to-abandon-your-side-projects",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:18:07.752Z",
+            "path": "articles/buttondown.email/bhupesh-archive-why-its-ok-to-abandon-your-side-projects.html",
+            "namedEntities": {
+                "PERSON": [
+                    "😉 • Buttondown",
+                    "😉 Bhupesh's"
+                ],
+                "DATE": [
+                    "Oct. 30, 2021",
+                    "another day",
+                    "months"
+                ],
+                "TIME": [
+                    "11:54 a.m."
+                ],
+                "ORG": [
+                    "Newsletter"
+                ],
+                "CARDINAL": [
+                    "2",
+                    "one"
+                ],
+                "ORDINAL": [
+                    "second"
+                ],
+                "MONEY": [
+                    "1"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "I wanna tell you that you need to stop being guilty of not actively working on side-projects. Don’t take this in the negative way of not doing any projects...",
+                "image": "https://media.giphy.com/media/D7z8JfNANqahW/giphy.gif",
+                "publisher": null,
+                "title": "Why it’s OK to abandon your side projects 😉",
+                "url": "https://buttondown.email/bhupesh/archive/why-its-ok-to-abandon-your-side-projects/",
+                "date": "2021-10-30T11:54:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:17:38.439Z",
-    "articleCount": 96,
+    "lastUpdatedAt": "2022-09-14T03:18:07.752Z",
+    "articleCount": 97,
     "$schema": "./src/db.schema.json"
 }
