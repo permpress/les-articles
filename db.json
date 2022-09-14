@@ -14108,9 +14108,104 @@
                 "date": "2019-02-18T13:34:46.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:17:17.998Z",
+            "domain": "eugeneyan.com",
+            "originalUrl": "https://eugeneyan.com/writing/first-rule-of-ml/",
+            "slug": "writing-first-rule-of-ml",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:17:17.998Z",
+            "path": "articles/eugeneyan.com/writing-first-rule-of-ml.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Machine Learning",
+                    "Adam Laiacano",
+                    "Scatter",
+                    "Yang Xinyi",
+                    "David Golden",
+                    "Eugene Yan"
+                ],
+                "ORG": [
+                    "Writing Speaking Newsletter",
+                    "Update",
+                    "Hacker News",
+                    "Google’s 43 Rules of Machine Learning",
+                    "Applying ML",
+                    "ML Engineer",
+                    "Walmart",
+                    "IP",
+                    "Google",
+                    "Apple",
+                    "ML",
+                    "Google’s Rules of ML",
+                    "Swyx",
+                    "RecSys & Search",
+                    "Effective Data Scientist",
+                    "Amazon",
+                    "ML systems"
+                ],
+                "LOC": [
+                    "Machine Learning",
+                    "Hamel Hussain"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "First"
+                ],
+                "PERCENT": [
+                    "100%",
+                    "50%"
+                ],
+                "GPE": [
+                    "Vicki Boykis",
+                    "Brandon Rohrer",
+                    "uCare.ai"
+                ],
+                "CARDINAL": [
+                    "zero",
+                    "less than half",
+                    "195",
+                    "3,900"
+                ],
+                "LAW": [
+                    "Section 4.5"
+                ],
+                "TIME": [
+                    "3 am"
+                ],
+                "DATE": [
+                    "the same day",
+                    "2021 - Papers and Talks to Chew on »",
+                    "5-day",
+                    "2015 - 2022"
+                ],
+                "MONEY": [
+                    "3"
+                ],
+                "QUANTITY": [
+                    "a ton"
+                ],
+                "NORP": [
+                    "eugeneyan"
+                ],
+                "FAC": [
+                    "Lazada"
+                ]
+            },
+            "metaData": {
+                "author": "Eugene Yan",
+                "description": "Why this is the first rule, some baseline heuristics, and when to move on to machine learning.",
+                "image": "https://eugeneyan.com/assets/og_image/robot.jpg",
+                "publisher": "eugeneyan.com",
+                "title": "The First Rule of Machine Learning - Start without Machine Learning",
+                "url": "https://eugeneyan.com/writing/first-rule-of-ml/",
+                "date": "2021-09-19T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:17:04.472Z",
-    "articleCount": 120,
+    "lastUpdatedAt": "2022-09-14T16:17:17.998Z",
+    "articleCount": 121,
     "$schema": "./src/db.schema.json"
 }
