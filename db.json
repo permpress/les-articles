@@ -12718,9 +12718,116 @@
                 "date": "2021-10-14T21:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:04:32.104Z",
+            "domain": "opensource.com",
+            "originalUrl": "https://opensource.com/article/21/10/rust-embedded-development",
+            "slug": "article-21-10-rust-embedded-development",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:04:32.104Z",
+            "path": "articles/opensource.com/article-21-10-rust-embedded-development.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Twitter",
+                    "Alan Smithee",
+                    "Liu Kang",
+                    "Kang",
+                    "Header File",
+                    "Glob",
+                    "Github",
+                    "-I.' LINK_SCRIPT",
+                    "%s' %",
+                    "pub fn",
+                    "rt_kprintf",
+                    "json --json",
+                    "Zhu Tianlong",
+                    "Red Hat",
+                    "Contact Follow",
+                    "Mastodon RSS"
+                ],
+                "ORG": [
+                    "Articles Resources Downloads Community Search x Subscribe",
+                    "Comments",
+                    "RT-Thread",
+                    "Great Content Free",
+                    "Learn Advanced Linux Commands Download Cheat Sheets Find",
+                    "PanicInfo",
+                    "no_mangle",
+                    ":& PanicInfo",
+                    "Rustc",
+                    "C++11",
+                    "cbindgen.toml",
+                    "QEMU",
+                    "Next",
+                    "YouTube",
+                    "RTOS",
+                    "Creative Commons Attribution-Share",
+                    "WhatsApp",
+                    "Privacy Statement",
+                    "Creative Commons",
+                    "Red Hat, Inc.",
+                    "@opensource.com",
+                    "Legal Privacy Policy Terms"
+                ],
+                "DATE": [
+                    "October 25, 2021",
+                    "the past several years",
+                    "2018",
+                    "today",
+                    "July 10, 2021",
+                    "March 16, 2021",
+                    "2022",
+                    "weekly"
+                ],
+                "WORK_OF_ART": [
+                    "Flexible memory Fearless concurrency Interoperability Portability Community-driven",
+                    "Learn Rust",
+                    "Twitter Like Opensource.com on Facebook Watch us at Opensource.com"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "1.",
+                    "2",
+                    "1",
+                    "3.",
+                    "3",
+                    "4"
+                ],
+                "NORP": [
+                    "Cargo.toml",
+                    "rt_kprintf"
+                ],
+                "MONEY": [
+                    "$ qemu.sh \\"
+                ],
+                "ORDINAL": [
+                    "First"
+                ],
+                "LAW": [
+                    "\\n"
+                ],
+                "PRODUCT": [
+                    "RT-Thread Smart",
+                    "Twitter"
+                ],
+                "GPE": [
+                    "the United States"
+                ]
+            },
+            "metaData": {
+                "author": "Alan Smithee",
+                "description": "Over the past several years, Rust has gained a passionate following among programmers.",
+                "image": "https://opensource.com/sites/default/files/lead-images/rust_programming_crab_sea.png",
+                "publisher": "Home",
+                "title": "Use Rust for embedded development",
+                "url": "https://opensource.com/article/21/10/rust-embedded-development",
+                "date": "2021-10-25T12:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:04:27.491Z",
-    "articleCount": 109,
+    "lastUpdatedAt": "2022-09-14T16:04:32.105Z",
+    "articleCount": 110,
     "$schema": "./src/db.schema.json"
 }
