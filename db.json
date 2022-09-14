@@ -14268,9 +14268,177 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:17:50.695Z",
+            "domain": "medium.com",
+            "originalUrl": "https://medium.com/retention-science/ruby-is-still-a-diamond-b789d2661266",
+            "slug": "retention-science-ruby-is-still-a-diamond-b789d2661266",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:17:50.695Z",
+            "path": "articles/medium.com/retention-science-ruby-is-still-a-diamond-b789d2661266.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Matz",
+                    "Emma Hyde",
+                    "Diamond Matz",
+                    "Elixir",
+                    "Ruby",
+                    "Python",
+                    "Jemma Issroff Scaling",
+                    "Puma",
+                    "Satwik Kansal",
+                    "Matthew J. Sottile",
+                    "Timothy G. Mattson",
+                    "Craig E Rasmussen",
+                    "Sidekiq",
+                    "Satwik Kansal Note",
+                    "V8",
+                    "ractor1",
+                    "ractor2 = *",
+                    "Sathya Sekaran",
+                    "Cadence Workflow",
+                    "Mark Boyd",
+                    "Stephen Olabode",
+                    "Aya Aurora Implementing",
+                    "Kasun Edward",
+                    "Erlang",
+                    "Lahiru Himesh Madusanka",
+                    "Inês Louro"
+                ],
+                "ORG": [
+                    "Retention Science",
+                    "Machine",
+                    "Python",
+                    "API",
+                    "MJIT",
+                    "Python’s",
+                    "Sudeep Tarlekar & JIT",
+                    "Dan Moore & Ruby Garbage Collection Deep Dive: Compaction",
+                    "Satwik",
+                    "Ruby Parallelism & Concurrency",
+                    "Explanations & Thoughts",
+                    "the Global Interpreter Lock",
+                    "the Global VM Lock (GVL",
+                    "GIL",
+                    "Universal NIH-Rule",
+                    "Javascript",
+                    "CPython",
+                    "Python and Ruby",
+                    "RBS",
+                    "TypeProf",
+                    "TypeScript",
+                    "Retention Science Follow Retention Science",
+                    "SAAS",
+                    "First Post 3",
+                    "Virtual Data Lakes",
+                    "Scalable Workflow Systems Our Journey of Building a Reporting Service The Reporting Service",
+                    "Docker & Kubernetes Get",
+                    "These Ruby/Active Record Methods",
+                    "Felipe Liberman Fuchs Ruby"
+                ],
+                "WORK_OF_ART": [
+                    "Medium Home Notifications Lists Stories Write Published in Retention Science Emma Hyde",
+                    "Ruby is Dead",
+                    "The Global Interpreter Lock",
+                    "Laws of Software Development",
+                    "6: Finished",
+                    "the Ruby Roadmap",
+                    "Medium SpartanProtocol",
+                    "AWS Tip Scaling",
+                    "Medium Mark Bacon"
+                ],
+                "DATE": [
+                    "31, 2021",
+                    "December 24th of 2020",
+                    "2013",
+                    "Christmas",
+                    "the last few years",
+                    "every year",
+                    "14 years",
+                    "today",
+                    "years",
+                    "100 years",
+                    "multi-decade",
+                    "May 16",
+                    "2021"
+                ],
+                "CARDINAL": [
+                    "13",
+                    "3.0",
+                    "2.0",
+                    "1.0",
+                    "2 to 3",
+                    "2.7",
+                    "1",
+                    "two",
+                    "at least one",
+                    "4",
+                    "one",
+                    "1.",
+                    "2.",
+                    "3.",
+                    "4.",
+                    "One",
+                    "half",
+                    "10",
+                    "1:",
+                    "3:",
+                    "5",
+                    "2",
+                    "#",
+                    "6",
+                    "millions"
+                ],
+                "NORP": [
+                    "Rubyists",
+                    "Cloud",
+                    "Sidekiq"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second"
+                ],
+                "PERCENT": [
+                    "2.0’s"
+                ],
+                "GPE": [
+                    "Cortex",
+                    "Ruby",
+                    "Lahiru"
+                ],
+                "QUANTITY": [
+                    "1 bin"
+                ],
+                "TIME": [
+                    "The per hour",
+                    "hours"
+                ],
+                "LOC": [
+                    "Programming Languages",
+                    "Swift India"
+                ],
+                "FAC": [
+                    "Ruby GitHub Ractors Ractors",
+                    "Ruby GitHub Ruby"
+                ],
+                "PRODUCT": [
+                    "Ractor.new"
+                ]
+            },
+            "metaData": {
+                "author": "Emma Hyde",
+                "description": "Matz is nice and so we are nice. — Ruby Community Motto",
+                "image": "https://miro.medium.com/max/1200/1*sQBH3C9-ZpUj2Sj1HNoXYA.png",
+                "publisher": "Retention Science",
+                "title": "Ruby is Still a Diamond",
+                "url": "https://medium.com/retention-science/ruby-is-still-a-diamond-b789d2661266",
+                "date": "2022-01-05T16:27:47.117Z",
+                "logo": "https://miro.medium.com/max/60/1*Rs9yS-f0e2UJq5Oi9Tww1Q.jpeg"
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:17:25.341Z",
-    "articleCount": 122,
+    "lastUpdatedAt": "2022-09-14T16:17:50.695Z",
+    "articleCount": 123,
     "$schema": "./src/db.schema.json"
 }
