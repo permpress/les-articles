@@ -11491,7 +11491,7 @@
             "originalUrl": "https://briandicroce.com/slow-down-finish-faster/",
             "slug": "slow-down-finish-faster",
             "tags": [],
-            "updatedAt": "2022-09-14T03:20:21.743Z",
+            "updatedAt": "2022-09-14T04:26:28.155Z",
             "path": "articles/briandicroce.com/slow-down-finish-faster.html",
             "namedEntities": {
                 "PERSON": [
@@ -12095,7 +12095,7 @@
             }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:20:58.567Z",
+    "lastUpdatedAt": "2022-09-14T04:26:28.155Z",
     "articleCount": 103,
     "$schema": "./src/db.schema.json"
 }
