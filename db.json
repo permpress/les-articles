@@ -11266,9 +11266,68 @@
                 "date": "2021-11-29T20:36:59.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:17:38.439Z",
+            "domain": "jrsinclair.com",
+            "originalUrl": "https://jrsinclair.com/articles/2021/how-not-to-write-property-tests-in-javascript/",
+            "slug": "articles-2021-how-not-to-write-property-tests-in-javascript",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:17:38.439Z",
+            "path": "articles/jrsinclair.com/articles-2021-how-not-to-write-property-tests-in-javascript.html",
+            "namedEntities": {
+                "PERSON": [
+                    "James Sinclair",
+                    "sortedCommentsB",
+                    "prop"
+                ],
+                "DATE": [
+                    "22 nd November 2021",
+                    "1 Now",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "100",
+                    "two",
+                    "one",
+                    "3",
+                    "1",
+                    "more than one",
+                    "255",
+                    "ten",
+                    "hundreds",
+                    "three"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "third"
+                ],
+                "ORG": [
+                    "TextField",
+                    "FormField",
+                    "Test Driven Development",
+                    "TDD",
+                    "JavaScript",
+                    "Essays Web Development Categorisation Research Stories"
+                ],
+                "PRODUCT": [
+                    "Twitters Subscribe"
+                ]
+            },
+            "metaData": {
+                "author": "James Sinclair",
+                "description": "Property-based tests give us more confidence in our code. They’re great at catching edge-cases we may not have thought of otherwise. But this confidence comes at a cost. Property tests take more effort to write. They force you to think hard about what the code is doing, and what its expected behavio…",
+                "image": "https://jrsinclair.com/assets/how-not-to-write-property-based-tests-in-javascript.jpg",
+                "publisher": "James Sinclair",
+                "title": "How not to write property tests in JavaScript",
+                "url": "https://jrsinclair.com/articles/2021/how-not-to-write-property-tests-in-javascript/",
+                "date": "2021-11-21T22:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:17:32.303Z",
-    "articleCount": 95,
+    "lastUpdatedAt": "2022-09-14T03:17:38.439Z",
+    "articleCount": 96,
     "$schema": "./src/db.schema.json"
 }
