@@ -15328,9 +15328,109 @@
                 "date": "2021-08-12T07:17:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:21:33.533Z",
+            "domain": "opensource.com",
+            "originalUrl": "https://opensource.com/article/21/8/open-source-maintainers",
+            "slug": "article-21-8-open-source-maintainers",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:21:33.533Z",
+            "path": "articles/opensource.com/article-21-8-open-source-maintainers.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Twitter",
+                    "Luis Villa",
+                    "Melissa Hogan",
+                    "Fedora",
+                    "Tidelift",
+                    "Matthew Broberg",
+                    "Red Hat",
+                    "Paul Götze",
+                    "Contact Follow",
+                    "Mastodon RSS"
+                ],
+                "ORG": [
+                    "Articles Resources Downloads Community Search x Subscribe",
+                    "Comments",
+                    "Wikimedia Commons",
+                    "the Linux Foundation's",
+                    "Google",
+                    "SLSA",
+                    "Linux",
+                    "Great Content Free",
+                    "Learn Advanced Linux Commands Download Cheat Sheets Find",
+                    "the National Telecommunications and Information Administration",
+                    "NTIA",
+                    "Tidelift",
+                    "SBOM",
+                    "Juliano Alves",
+                    "Tags Community",
+                    "Creative Commons Attribution-Share",
+                    "WhatsApp",
+                    "Privacy Statement",
+                    "Creative Commons",
+                    "Red Hat, Inc.",
+                    "@opensource.com",
+                    "Legal Privacy Policy Terms"
+                ],
+                "DATE": [
+                    "August 18, 2021",
+                    "2021",
+                    "February 26, 2021",
+                    "May 14, 2020",
+                    "November 25, 2019",
+                    "weekly",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "more than half",
+                    "4"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "second",
+                    "third",
+                    "Second",
+                    "first"
+                ],
+                "PRODUCT": [
+                    "GNU, Debian",
+                    "the Fortune 500",
+                    "Twitter"
+                ],
+                "MONEY": [
+                    "hundreds of billions of dollars"
+                ],
+                "TIME": [
+                    "nights",
+                    "4 hours"
+                ],
+                "GPE": [
+                    "U.S.",
+                    "the United States"
+                ],
+                "NORP": [
+                    "Kubernetes"
+                ],
+                "WORK_OF_ART": [
+                    "Twitter Like Opensource.com on Facebook Watch us at Opensource.com"
+                ]
+            },
+            "metaData": {
+                "author": "Luis Villa",
+                "description": "For a long time, there were two basic tests for releasing open source: “Does it do what I need it to do?” and “Does it compile?”",
+                "image": "https://opensource.com/sites/default/files/lead-images/practicing-empathy.jpg",
+                "publisher": "Home",
+                "title": "Setting new expectations for open source maintainers",
+                "url": "https://opensource.com/article/21/8/open-source-maintainers",
+                "date": "2021-08-18T12:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:21:28.175Z",
-    "articleCount": 132,
+    "lastUpdatedAt": "2022-09-14T16:21:33.533Z",
+    "articleCount": 133,
     "$schema": "./src/db.schema.json"
 }
