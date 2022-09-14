@@ -9828,9 +9828,118 @@
                 "date": "2022-02-14T17:53:30.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:07:14.322Z",
+            "domain": "acko.net",
+            "originalUrl": "https://acko.net/blog/react-the-missing-parts/",
+            "slug": "blog-react-the-missing-parts",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:07:14.322Z",
+            "path": "articles/acko.net/blog-react-the-missing-parts.html",
+            "namedEntities": {
+                "DATE": [
+                    "February 05, 2022",
+                    "value1",
+                    "today",
+                    "a few years"
+                ],
+                "CARDINAL": [
+                    "One",
+                    "4",
+                    "2",
+                    "only 1",
+                    "one",
+                    "101",
+                    "1",
+                    "two",
+                    "5",
+                    "3",
+                    "20",
+                    "10",
+                    "5x2"
+                ],
+                "NORP": [
+                    "non-UI",
+                    "UI"
+                ],
+                "ORG": [
+                    "no React-DOM",
+                    "Live Components",
+                    "setState",
+                    "Yeet-Reduce",
+                    "UI",
+                    "Apollo",
+                    "API",
+                    "Component",
+                    "Once",
+                    "useEffect",
+                    "DOM",
+                    "useStateEffect",
+                    "useResource",
+                    "YeetContext",
+                    "YeetReduce",
+                    "Context",
+                    "GPU",
+                    "JavaScript",
+                    "TypeScript",
+                    "CPU",
+                    "CPU/GPU",
+                    "Data Flow Incrementalism Latest React"
+                ],
+                "PERSON": [
+                    "Components",
+                    "value2",
+                    "Morph",
+                    "React Router",
+                    "Router",
+                    "Devs",
+                    "// Provide",
+                    "// Invoke",
+                    "// Dispose",
+                    "Folders",
+                    "Tree",
+                    "Prop Drilling"
+                ],
+                "LAW": [
+                    "the React API"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "6th",
+                    "second"
+                ],
+                "GPE": [
+                    "React",
+                    "Absolute",
+                    "Stack"
+                ],
+                "PERCENT": [
+                    "100%"
+                ],
+                "PRODUCT": [
+                    "Outlet",
+                    "useEffect",
+                    "Flex",
+                    "Home Subscribe"
+                ],
+                "MONEY": [
+                    "0 } depth"
+                ]
+            },
+            "metaData": {
+                "author": "Steven Wittens",
+                "description": "Question the rules for fun and profit",
+                "image": "https://acko.net/files/missing-parts/cover.jpg",
+                "publisher": "The Missing Parts — Acko.net",
+                "title": "React - The Missing Parts",
+                "url": "https://acko.net/blog/react-the-missing-parts/",
+                "date": "2022-02-04T23:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:07:04.889Z",
-    "articleCount": 77,
+    "lastUpdatedAt": "2022-09-14T03:07:14.322Z",
+    "articleCount": 78,
     "$schema": "./src/db.schema.json"
 }
