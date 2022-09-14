@@ -12924,9 +12924,69 @@
                 "date": "2021-10-14T11:55:26.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:05:47.003Z",
+            "domain": "drewdevault.com",
+            "originalUrl": "https://drewdevault.com/2021/10/17/Reliability.html",
+            "slug": "2021-10-17-reliabilityhtml",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:05:47.003Z",
+            "path": "articles/drewdevault.com/2021-10-17-reliabilityhtml.html",
+            "namedEntities": {
+                "DATE": [
+                    "October 17, 2021",
+                    "1993",
+                    "the past 10 years or so",
+                    "the past 28 years",
+                    "two weeks ago",
+                    "a week",
+                    "August 23, 2022",
+                    "August 2022",
+                    "This month",
+                    "August 14, 2022"
+                ],
+                "ORG": [
+                    "Drew DeVault's",
+                    "CURRENTYEAR",
+                    "JavaScript",
+                    "Vulnerability Management for Go Announcing",
+                    "SourceHut",
+                    "MIT"
+                ],
+                "CARDINAL": [
+                    "1",
+                    "half",
+                    "two",
+                    "2",
+                    "one"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "EVENT": [
+                    "The Go Blog September 6, 2022"
+                ],
+                "GPE": [
+                    "Wayland"
+                ],
+                "PERSON": [
+                    "thro"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": null,
+                "image": null,
+                "publisher": null,
+                "title": "Software developers have stopped caring about reliability",
+                "url": "https://drewdevault.com/2021/10/17/Reliability.html",
+                "date": "2021-10-17T12:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:04:59.707Z",
-    "articleCount": 111,
+    "lastUpdatedAt": "2022-09-14T16:05:47.003Z",
+    "articleCount": 112,
     "$schema": "./src/db.schema.json"
 }
