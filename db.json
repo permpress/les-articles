@@ -12984,9 +12984,128 @@
                 "date": "2021-10-17T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:06:05.364Z",
+            "domain": "zachleat.com",
+            "originalUrl": "https://www.zachleat.com/web/monetization/",
+            "slug": "web-monetization",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:06:05.364Z",
+            "path": "articles/zachleat.com/web-monetization.html",
+            "namedEntities": {
+                "ORG": [
+                    "GitHub",
+                    "Eleventy",
+                    "Name Investment Ownership",
+                    "NuxtLabs",
+                    "Skypack CDN",
+                    "the Jamstack Community Survey",
+                    "eBay",
+                    "Google",
+                    "Jason Pofahl",
+                    "The White House",
+                    "Filament Group",
+                    "NEJS CONF",
+                    "Being corp...",
+                    "mean corp control",
+                    "Corp",
+                    "OSS",
+                    "IP",
+                    "💰",
+                    "WPEngine",
+                    "Next",
+                    "IndieWeb",
+                    "Social Media",
+                    "MIT"
+                ],
+                "DATE": [
+                    "2022",
+                    "25 days",
+                    "211 days",
+                    "6.1 years",
+                    "October 12, 2021",
+                    "January 28, 2022",
+                    "April 9, 2022",
+                    "June 15, 2022",
+                    "Three years",
+                    "5 years",
+                    "2021",
+                    "yesterday",
+                    "11 Nov 2021",
+                    "12 Nov 2021 Rich, da"
+                ],
+                "PERSON": [
+                    "Markdown",
+                    "Svelte",
+                    "Eleventy",
+                    "Rich Harris",
+                    "Vercel",
+                    "Ryan Carniato",
+                    "Gatsby",
+                    "Zach",
+                    "Jamstack Conf",
+                    "🤔",
+                    "Sharing",
+                    "Style Guide"
+                ],
+                "GPE": [
+                    "Astro",
+                    "Netlify",
+                    "React",
+                    "the United States",
+                    "CSSConf",
+                    "WP"
+                ],
+                "MONEY": [
+                    "$7M",
+                    "46.8",
+                    "30.2",
+                    "163",
+                    "2",
+                    "$3M"
+                ],
+                "CARDINAL": [
+                    "2021",
+                    "One",
+                    "one",
+                    "1",
+                    "2",
+                    "4",
+                    "eight",
+                    "278",
+                    "22",
+                    "13",
+                    "14"
+                ],
+                "PRODUCT": [
+                    "Facebook"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "FiRsT"
+                ],
+                "TIME": [
+                    "Two Minutes 17 Retweets",
+                    "working hours"
+                ],
+                "EVENT": [
+                    "@Rich_Harris 11 Nov 2021"
+                ]
+            },
+            "metaData": {
+                "author": "Zach Leatherman",
+                "description": "A post by Zach Leatherman (zachleat)",
+                "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.zachleat.com%2Fopengraph%2Fweb%2Fmonetization%2F/opengraph/_x202208_1/",
+                "publisher": "Zach Leatherman",
+                "title": "Who Pays for Web Frameworks?—zachleat.com",
+                "url": "https://www.zachleat.com/web/monetization/",
+                "date": "2021-10-13T16:40:42.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:05:47.003Z",
-    "articleCount": 112,
+    "lastUpdatedAt": "2022-09-14T16:06:05.365Z",
+    "articleCount": 113,
     "$schema": "./src/db.schema.json"
 }
