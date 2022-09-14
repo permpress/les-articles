@@ -11094,9 +11094,88 @@
                 "date": "2021-10-30T09:37:36.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:17:16.849Z",
+            "domain": "blog.superhuman.com",
+            "originalUrl": "https://blog.superhuman.com/five-whys-method/",
+            "slug": "five-whys-method",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:17:16.849Z",
+            "path": "articles/blog.superhuman.com/five-whys-method.html",
+            "namedEntities": {
+                "ORG": [
+                    "SUPERHUMAN Leadership Design Productivity News Carbon Toggle Theme Search Get Superhuman Search Superhuman Blog Get",
+                    "Sakichi Toyoda",
+                    "Toyota Industries",
+                    "Superhuman Social",
+                    "Slack",
+                    "Cultivating"
+                ],
+                "PERSON": [
+                    "Karine Bengualid Dec",
+                    "Superhuman",
+                    "Flipd",
+                    "Sophia Amoruso Intentional Productivity",
+                    "Sophia Amoruso",
+                    "Jackson Knapp"
+                ],
+                "DATE": [
+                    "01, 2021",
+                    "the 1930s",
+                    "this quarter",
+                    "quarter",
+                    "the beginning of the quarter",
+                    "weekly",
+                    "week",
+                    "month",
+                    "2022"
+                ],
+                "TIME": [
+                    "3 hours",
+                    "145 minutes",
+                    "almost 2.5 hours"
+                ],
+                "CARDINAL": [
+                    "5",
+                    "1",
+                    "2",
+                    "4",
+                    "6",
+                    "3.",
+                    "4."
+                ],
+                "MONEY": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "PERCENT": [
+                    "as much as 3 hours"
+                ],
+                "WORK_OF_ART": [
+                    "Download our Guidebook 9 MB"
+                ],
+                "GPE": [
+                    "Zoom"
+                ]
+            },
+            "metaData": {
+                "author": "Karine Bengualid",
+                "description": "If you’re having trouble with your productivity, consider finding the root using the 5 Whys technique.",
+                "image": "https://blog.superhuman.com/content/images/2022/01/00_Hero-v1--5-.png",
+                "publisher": "Superhuman Blog",
+                "title": "The 5 Whys: get to the root of your productivity problems",
+                "url": "https://blog.superhuman.com/five-whys-method/",
+                "date": "2022-03-24T18:15:44.000Z",
+                "logo": "https://blog.superhuman.com/favicon.png"
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:17:04.214Z",
-    "articleCount": 93,
+    "lastUpdatedAt": "2022-09-14T03:17:16.850Z",
+    "articleCount": 94,
     "$schema": "./src/db.schema.json"
 }
