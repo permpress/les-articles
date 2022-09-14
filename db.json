@@ -11042,9 +11042,61 @@
                 "date": "2021-11-30T00:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:17:04.214Z",
+            "domain": "blog.sidebits.tech",
+            "originalUrl": "https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/",
+            "slug": "life-is-too-short-to-depend-on-unstable-software",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:17:04.214Z",
+            "path": "articles/blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Milosz Danczak's"
+                ],
+                "DATE": [
+                    "2021-10-30",
+                    "2021-10-31",
+                    "a week",
+                    "April 2022",
+                    "December 2021",
+                    "November 2021 October 2021",
+                    "December 2020",
+                    "November 2020 September 2020 June 2020",
+                    "September 2019",
+                    "August 2019"
+                ],
+                "ORG": [
+                    "Milosz Danczak Life",
+                    "Size",
+                    "SemVer",
+                    "Next Post",
+                    "Programmer’s",
+                    "WordPress"
+                ],
+                "ORDINAL": [
+                    "third",
+                    "Third",
+                    "First"
+                ],
+                "CARDINAL": [
+                    "one"
+                ]
+            },
+            "metaData": {
+                "author": "Milosz Danczak",
+                "description": null,
+                "image": null,
+                "publisher": "sidebits Milosz Danczak's blog",
+                "title": "Life is too short to depend on unstable software – sidebits",
+                "url": "https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/",
+                "date": "2021-10-30T09:37:36.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:16:59.644Z",
-    "articleCount": 92,
+    "lastUpdatedAt": "2022-09-14T03:17:04.214Z",
+    "articleCount": 93,
     "$schema": "./src/db.schema.json"
 }
