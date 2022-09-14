@@ -10986,9 +10986,65 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:16:59.643Z",
+            "domain": "sirupsen.com",
+            "originalUrl": "https://sirupsen.com/trading-complexity",
+            "slug": "trading-complexity",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:16:59.643Z",
+            "path": "articles/sirupsen.com/trading-complexity.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Blog Napkin",
+                    "Twitter"
+                ],
+                "DATE": [
+                    "6 months",
+                    "the next ~5 years"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "one",
+                    "2,652",
+                    "100"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "GPE": [
+                    "Postgres",
+                    "−"
+                ],
+                "PERCENT": [
+                    "25 − 50 %",
+                    "50%",
+                    "000%"
+                ],
+                "TIME": [
+                    "25-50\\% 25"
+                ],
+                "FAC": [
+                    "RSS"
+                ],
+                "ORG": [
+                    "Shitlist Driven Development Neural Network From Scratch Inverted Index Performance"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": null,
+                "image": null,
+                "publisher": null,
+                "title": "Careful Trading Complexity for ‘Improvements’",
+                "url": "https://sirupsen.com/trading-complexity",
+                "date": "2021-11-30T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:16:52.714Z",
-    "articleCount": 91,
+    "lastUpdatedAt": "2022-09-14T03:16:59.644Z",
+    "articleCount": 92,
     "$schema": "./src/db.schema.json"
 }
