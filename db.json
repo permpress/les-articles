@@ -11371,9 +11371,56 @@
                 "date": "2021-10-30T11:54:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:18:39.346Z",
+            "domain": "iamjonas.me",
+            "originalUrl": "https://www.iamjonas.me/2021/10/want-to-be-great-know-lot.html",
+            "slug": "2021-10-want-to-be-great-know-lothtml",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:18:39.346Z",
+            "path": "articles/iamjonas.me/2021-10-want-to-be-great-know-lothtml.html",
+            "namedEntities": {
+                "CARDINAL": [
+                    "a dozen",
+                    "one",
+                    "Three",
+                    "three",
+                    "5-10"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "fourth",
+                    "First",
+                    "6th"
+                ],
+                "PERSON": [
+                    "Richard Feynman",
+                    "Bob"
+                ],
+                "ORG": [
+                    "jargon"
+                ],
+                "DATE": [
+                    "years"
+                ],
+                "TIME": [
+                    "15 minutes"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "In the book Ultralearning Scott H Young argues that the difference between a great programmer and mediocre programmer is not the ability to...",
+                "image": "https://1.bp.blogspot.com/-ORZxfWMeI80/YXL9T0YaGiI/AAAAAAAAS-w/relFl79nUIcDY-pGVTZgAs7NrqgcKkrgACLcBGAsYHQ/w1200-h630-p-k-no-nu/Summary.png",
+                "publisher": "I am Jonas",
+                "title": "Want to be great? Know a lot",
+                "url": "https://www.iamjonas.me/2021/10/want-to-be-great-know-lot.html",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:18:07.752Z",
-    "articleCount": 97,
+    "lastUpdatedAt": "2022-09-14T03:18:39.346Z",
+    "articleCount": 98,
     "$schema": "./src/db.schema.json"
 }
