@@ -13400,9 +13400,103 @@
                 "date": "2021-09-25T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:16:35.326Z",
+            "domain": "sia.codes",
+            "originalUrl": "https://sia.codes/posts/lighthouse-treemap/",
+            "slug": "posts-lighthouse-treemap",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:16:35.327Z",
+            "path": "articles/sia.codes/posts-lighthouse-treemap.html",
+            "namedEntities": {
+                "PRODUCT": [
+                    "Blog RSS",
+                    "Network",
+                    "Twitter"
+                ],
+                "ORG": [
+                    "JavaScript",
+                    "Treemapping on Wikipedia Below",
+                    "Lighthouse Treemap",
+                    "Chrome's Coverage",
+                    "CSS",
+                    "The Limitations of Lighthouse Treemap",
+                    "Coverage",
+                    "Lighthouse",
+                    "the Lighthouse Treemap Conclusion",
+                    "WebPerf Tools Dev Tools",
+                    "WebPerf",
+                    "WebPerf Tools Dev Tools Webmentions Join",
+                    "IndieWeb"
+                ],
+                "PERSON": [
+                    "Lighthouse Treemap",
+                    "Sia Karamalegos",
+                    "Raphael Schaller",
+                    "Play Play Video",
+                    "Dev Tools",
+                    "Dev Tools Type",
+                    "Dev Tools Bundle",
+                    "Dev Tools Content",
+                    "Twitter Github"
+                ],
+                "CARDINAL": [
+                    "02",
+                    "2",
+                    "two",
+                    "one",
+                    "1",
+                    "4",
+                    "39",
+                    "15"
+                ],
+                "DATE": [
+                    "2021",
+                    "21 Jan 2022",
+                    "30 days"
+                ],
+                "ORDINAL": [
+                    "third",
+                    "first",
+                    "First",
+                    "Second"
+                ],
+                "WORK_OF_ART": [
+                    "Unused Bytes",
+                    "View Treemap"
+                ],
+                "GPE": [
+                    "Bundle",
+                    "Lighthouse",
+                    "Buttondown"
+                ],
+                "NORP": [
+                    "Swiss"
+                ],
+                "PERCENT": [
+                    "0%"
+                ],
+                "FAC": [
+                    "RSS"
+                ],
+                "LAW": [
+                    "Dev.to LinkedIn Medium Stack"
+                ]
+            },
+            "metaData": {
+                "author": "Sia Karamalegos",
+                "description": "Discover all JavaScript downloaded and used/unused for a site in a handy data visualization with Lighthouse Treemap.",
+                "image": "https://res.cloudinary.com/siacodes/image/upload/w_1280,h_640,q_auto:best,c_fill,f_jpg/w_705,c_fit,co_rgb:221f2c,g_south_west,x_455,y_306,l_text:RecursiveSansExtraBold.woff2_60:Explore%20JavaScript%20Dependencies%20With%20Lighthouse%20Treemap/w_705,c_fit,co_rgb:221f2c,g_north_west,x_455,y_356,l_text:RecursiveSansRegular.woff2_36_line_spacing_10:Discover%20all%20JavaScript%20downloaded%20for%20a%20site%20and%20used%20vs%20unused%20in%20a%20handy%20data%20visualization./v1607719366/sia.codes/twitter_tmpl.jpg",
+                "publisher": null,
+                "title": "Explore JavaScript Dependencies With Lighthouse Treemap",
+                "url": "https://sia.codes/",
+                "date": "2022-01-21T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:16:28.010Z",
-    "articleCount": 116,
+    "lastUpdatedAt": "2022-09-14T16:16:35.327Z",
+    "articleCount": 117,
     "$schema": "./src/db.schema.json"
 }
