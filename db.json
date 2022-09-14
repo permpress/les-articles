@@ -14436,9 +14436,109 @@
                 "date": "2022-01-05T16:27:47.117Z",
                 "logo": "https://miro.medium.com/max/60/1*Rs9yS-f0e2UJq5Oi9Tww1Q.jpeg"
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:18:01.614Z",
+            "domain": "medium.dave-bailey.com",
+            "originalUrl": "https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172",
+            "slug": "the-art-of-not-taking-things-personally-b7a8395ce172",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:18:01.614Z",
+            "path": "articles/medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Dave Bailey",
+                    "Norbu Gyachung",
+                    "Marie Condo",
+                    "Brene Brown",
+                    "Doubt",
+                    "Marshall Rosenberg’s",
+                    "Rosenberg",
+                    "Follow Learn",
+                    "Medium Dave Bailey",
+                    "Leo Huang Thin-Slicing",
+                    "Nick Kempinski",
+                    "Chris Lianos",
+                    "Yacov Lewis CIRCLES Origin Story",
+                    "Aim Dionne Eckstein",
+                    "Joe Kwon"
+                ],
+                "CARDINAL": [
+                    "2",
+                    "one",
+                    "6",
+                    "ten",
+                    "1.",
+                    "2.",
+                    "3.",
+                    "4.",
+                    "5",
+                    "7",
+                    "8",
+                    "9.",
+                    "10",
+                    "100",
+                    "1.4",
+                    "11",
+                    "2021",
+                    "millions",
+                    "30",
+                    "28",
+                    "One"
+                ],
+                "DATE": [
+                    "this month",
+                    "18, 2021",
+                    "2016",
+                    "at least a few days each year"
+                ],
+                "WORK_OF_ART": [
+                    "Medium",
+                    "A Science Fiction Story Jonathan Waller Stop Pretending You Know Shit Oskar Woehr",
+                    "Medium Carlos E. Espinal Have the Tough Chats"
+                ],
+                "TIME": [
+                    "last night",
+                    "about 90 seconds",
+                    "Two Minute"
+                ],
+                "ORG": [
+                    "Every Negative Emotion",
+                    "Nonviolent Communication",
+                    "New Writers Welcome Psychology",
+                    "FounderCoach.com"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "LAW": [
+                    "K 13 Get"
+                ],
+                "PRODUCT": [
+                    "Medium",
+                    "47K Followers"
+                ],
+                "GPE": [
+                    "India",
+                    "Orality"
+                ],
+                "FAC": [
+                    "Diversity Square"
+                ]
+            },
+            "metaData": {
+                "author": "Dave Bailey",
+                "description": "Why other people’s emotions might not be about you — and your emotions might not be about them",
+                "image": "https://miro.medium.com/max/1200/0*dr6DZpoCvoaox8kE",
+                "publisher": "The Founder Coach",
+                "title": "The Art of Not Taking Things Personally",
+                "url": "https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172",
+                "date": "2022-08-25T15:34:33.446Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:17:50.695Z",
-    "articleCount": 123,
+    "lastUpdatedAt": "2022-09-14T16:18:01.615Z",
+    "articleCount": 124,
     "$schema": "./src/db.schema.json"
 }
