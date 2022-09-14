@@ -11173,9 +11173,102 @@
                 "date": "2022-03-24T18:15:44.000Z",
                 "logo": "https://blog.superhuman.com/favicon.png"
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:17:32.303Z",
+            "domain": "cate.blog",
+            "originalUrl": "https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/",
+            "slug": "2021-11-29-5-signs-its-time-to-quit-your-job",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:17:32.303Z",
+            "path": "articles/cate.blog/2021-11-29-5-signs-its-time-to-quit-your-job.html",
+            "namedEntities": {
+                "ORG": [
+                    "Cate Post",
+                    "Amazon",
+                    "Career GrowthHow",
+                    "DRI Your Professional DevelopmentCoachability++DRI Your Support System5",
+                    "Gallup",
+                    "Social Twitter",
+                    "Top Posts & Pages 5 Signs It’s Time to Quit Your Job From Visibility to Representation - Rethinking DEI The Rent Versus Buy",
+                    "Career Growth Honey",
+                    "the Tech Industry Dimensions of Engineering Growth Console DevTools Podcast Testing Intents",
+                    "WordPress",
+                    "↑ Up Privacy & Cookies"
+                ],
+                "DATE": [
+                    "November 29, 2021 2",
+                    "the past 18 months or so",
+                    "the last year",
+                    "five years",
+                    "the same year",
+                    "2021",
+                    "Monday",
+                    "October",
+                    "the year",
+                    "December 2, 2021",
+                    "Weekly",
+                    "December 6, 2021",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "five",
+                    "1.",
+                    "2.",
+                    "3.",
+                    "4.",
+                    "5",
+                    "6",
+                    "one",
+                    "52",
+                    "20",
+                    "2",
+                    "12,112"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second"
+                ],
+                "TIME": [
+                    "7pm",
+                    "Forty hours",
+                    "9:30 am",
+                    "6:51 am"
+                ],
+                "PERSON": [
+                    "Gretchen Rubin",
+                    "Pixabay Step",
+                    "Instagram GitHub Subscribe",
+                    "Address Subscribe",
+                    "Lesson Becoming"
+                ],
+                "WORK_OF_ART": [
+                    "Better"
+                ],
+                "GPE": [
+                    "Writing",
+                    "Shortest"
+                ],
+                "EVENT": [
+                    "The Year of Habits"
+                ],
+                "MONEY": [
+                    "48"
+                ]
+            },
+            "metaData": {
+                "author": "Cate",
+                "description": "Credit: Comfreak / Pixabay By now, we’ve all heard of the great resignation. Over the past 18 months or so, many people have had more time to think about what they want from their jobs, and the kin…",
+                "image": "https://149354112.v2.pressablecdn.com/wp-content/cache/thumbnails/2021/11/light-bulb-gecd689e2e_1920-1200x1200.jpg",
+                "publisher": "Accidentally in Code",
+                "title": "5 Signs It’s Time to Quit Your Job",
+                "url": "https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/",
+                "date": "2021-11-29T20:36:59.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:17:16.850Z",
-    "articleCount": 94,
+    "lastUpdatedAt": "2022-09-14T03:17:32.303Z",
+    "articleCount": 95,
     "$schema": "./src/db.schema.json"
 }
