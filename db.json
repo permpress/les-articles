@@ -14536,9 +14536,114 @@
                 "date": "2022-08-25T15:34:33.446Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:18:08.673Z",
+            "domain": "mayakaczorowski.com",
+            "originalUrl": "https://mayakaczorowski.com/blogs/burnout",
+            "slug": "blogs-burnout",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:18:08.673Z",
+            "path": "articles/mayakaczorowski.com/blogs-burnout.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Maya Kaczorowski",
+                    "Zoom",
+                    "Jay Conrod",
+                    "Bloomberg"
+                ],
+                "DATE": [
+                    "22 August 2021 - 14",
+                    "a month",
+                    "months",
+                    "November 2020",
+                    "June 2020",
+                    "November",
+                    "early February 2021",
+                    "almost six months later",
+                    "A few weeks later",
+                    "A few jobs ago",
+                    "weeks",
+                    "One day",
+                    "days",
+                    "August 18, 2021",
+                    "day",
+                    "every day",
+                    "10 weeks",
+                    "a few weeks earlier",
+                    "2000",
+                    "a few weeks",
+                    "two weeks",
+                    "next week",
+                    "the last few months",
+                    "10x",
+                    "a year",
+                    "today",
+                    "five years",
+                    "This past year",
+                    "three months",
+                    "6 months ago",
+                    "2021",
+                    "the end of the year",
+                    "five months",
+                    "a few months",
+                    "2020",
+                    "6 months",
+                    "3 months",
+                    "2 months",
+                    "all day",
+                    "Christmas"
+                ],
+                "CARDINAL": [
+                    "10",
+                    "six",
+                    "one",
+                    "7:30am",
+                    "3",
+                    "1",
+                    "two",
+                    "10 million",
+                    "15lbs"
+                ],
+                "TIME": [
+                    "7 hours",
+                    "80+ hours",
+                    "2am every night",
+                    "a few minutes",
+                    "those long hours",
+                    "1am",
+                    "maybe 8 hours"
+                ],
+                "ORG": [
+                    "TODO",
+                    "SolarWinds"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "LOC": [
+                    "the Bay Area"
+                ],
+                "WORK_OF_ART": [
+                    "Etsy"
+                ],
+                "GPE": [
+                    "US"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "I’m burnt out. If you’re reading this, there’s a strong chance you’re burnt out too. We’re about to have, uh, a moment, so brace yourself.",
+                "image": null,
+                "publisher": "Maya Kaczorowski",
+                "title": "Burning out and quitting",
+                "url": "https://mayakaczorowski.com/blogs/burnout",
+                "date": "2021-08-22T12:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:18:01.615Z",
-    "articleCount": 124,
+    "lastUpdatedAt": "2022-09-14T16:18:08.673Z",
+    "articleCount": 125,
     "$schema": "./src/db.schema.json"
 }
