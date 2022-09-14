@@ -13103,9 +13103,45 @@
                 "date": "2021-10-13T16:40:42.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:07:23.646Z",
+            "domain": "scribe.rip",
+            "originalUrl": "https://scribe.rip/",
+            "slug": "",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:07:23.646Z",
+            "path": "articles/scribe.rip/.html",
+            "namedEntities": {
+                "NORP": [
+                    "Scribe"
+                ],
+                "WORK_OF_ART": [
+                    "Medium Here's"
+                ],
+                "PRODUCT": [
+                    "Medium"
+                ],
+                "ORG": [
+                    "medium.com"
+                ],
+                "DATE": [
+                    "2022-07-19"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": null,
+                "image": null,
+                "publisher": null,
+                "title": "Scribe",
+                "url": "https://scribe.rip/",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:06:05.365Z",
-    "articleCount": 113,
+    "lastUpdatedAt": "2022-09-14T16:07:23.646Z",
+    "articleCount": 114,
     "$schema": "./src/db.schema.json"
 }
