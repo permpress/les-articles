@@ -10854,9 +10854,81 @@
                 "date": "2022-01-21T16:38:02.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:16:10.422Z",
+            "domain": "microfounder.com",
+            "originalUrl": "https://microfounder.com/blog/marketing-is-scary",
+            "slug": "blog-marketing-is-scary",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:16:10.422Z",
+            "path": "articles/microfounder.com/blog-marketing-is-scary.html",
+            "namedEntities": {
+                "ORG": [
+                    "CSS",
+                    "ARR",
+                    "Hacker News",
+                    "Marko",
+                    "Blog Newsletter Startup"
+                ],
+                "PERSON": [
+                    "Rauno Metsa Microfounder",
+                    "Uku",
+                    "Twitter",
+                    "Startups",
+                    "Close Circle"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "MONEY": [
+                    "only $137 MRR",
+                    "$500K",
+                    "10K",
+                    "4k",
+                    "5.8k",
+                    "$5k MRR"
+                ],
+                "DATE": [
+                    "more than 3 years",
+                    "more than a year",
+                    "annual",
+                    "these days",
+                    "a day",
+                    "2,000+",
+                    "years",
+                    "This Week"
+                ],
+                "NORP": [
+                    "Uku"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "CARDINAL": [
+                    "more than 10,000",
+                    "thousands",
+                    "10,000",
+                    "52",
+                    "tens of thousands"
+                ],
+                "WORK_OF_ART": [
+                    "Blog → Every Developer Should Start Building"
+                ]
+            },
+            "metaData": {
+                "author": "Rauno Metsa Microfounder of MicroFounder",
+                "description": "Instead of publishing a blog post, I add another feature to my product. Instead of sending a tweet, I tweak CSS on my site.",
+                "image": "https://microfounder.com/storage/posts/originals/awp93ifjruwg2pl.png",
+                "publisher": null,
+                "title": "Marketing Is Scary for a Solo Developer – MicroFounder",
+                "url": "https://microfounder.com/blog/marketing-is-scary",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:15:22.485Z",
-    "articleCount": 89,
+    "lastUpdatedAt": "2022-09-14T03:16:10.422Z",
+    "articleCount": 90,
     "$schema": "./src/db.schema.json"
 }
