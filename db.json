@@ -14641,9 +14641,83 @@
                 "date": "2021-08-22T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:18:14.878Z",
+            "domain": "zapier.com",
+            "originalUrl": "https://zapier.com/blog/actual-impostors-dont-get-impostor-syndrome/",
+            "slug": "blog-actual-impostors-dont-get-impostor-syndrome",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:18:14.878Z",
+            "path": "articles/zapier.com/blog-actual-impostors-dont-get-impostor-syndrome.html",
+            "namedEntities": {
+                "WORK_OF_ART": [
+                    "Resources Blog Read the Zapier"
+                ],
+                "ORG": [
+                    "FAQs",
+                    "Zapier University Video",
+                    "Teams & Companies Pricing Search",
+                    "Remote",
+                    "Zapier Company",
+                    "Home Productivity Productivity",
+                    "Slack",
+                    "Zapier Inc.",
+                    "Legal Privacy"
+                ],
+                "PERSON": [
+                    "Webinars Learn",
+                    "Justin Pot",
+                    "Hannah",
+                    "Justin Pot Justin Pot",
+                    "Freelancers",
+                    "Sharing"
+                ],
+                "CARDINAL": [
+                    "5",
+                    "one",
+                    "nine",
+                    "150 or",
+                    "One",
+                    "1-3"
+                ],
+                "DATE": [
+                    "July 21, 2021",
+                    "months",
+                    "a decade",
+                    "her every week",
+                    "2007",
+                    "last year"
+                ],
+                "GPE": [
+                    "Brazil",
+                    "Ontario",
+                    "Hillsboro",
+                    "Oregon"
+                ],
+                "PRODUCT": [
+                    "Impostor"
+                ],
+                "NORP": [
+                    "Japanese"
+                ],
+                "PERCENT": [
+                    "one hundred percent"
+                ]
+            },
+            "metaData": {
+                "author": "Justin Pot",
+                "description": "If you want to know, one hundred percent, that you’re not an impostor, do something no impostor would ever do: out yourself. Here’s why.",
+                "image": "https://images.ctfassets.net/lzny33ho1g45/1q3004JsPW2uepoZ1xdoIr/b5d3d656341d3586aca1f7cdf49742a3/Group_9930.png",
+                "publisher": "Zapier",
+                "title": "Actual impostors don’t get impostor syndrome | Zapier",
+                "url": "https://zapier.com/blog/actual-impostors-dont-get-impostor-syndrome/",
+                "date": "2021-07-21T12:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:18:08.673Z",
-    "articleCount": 125,
+    "lastUpdatedAt": "2022-09-14T16:18:14.878Z",
+    "articleCount": 126,
     "$schema": "./src/db.schema.json"
 }
