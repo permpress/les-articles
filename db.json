@@ -9614,9 +9614,91 @@
                 "date": "2022-09-12T15:28:47.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:07:00.801Z",
+            "domain": "changelog.com",
+            "originalUrl": "https://changelog.com/posts/the-react-reactnode-type-is-a-black-hole",
+            "slug": "posts-the-react-reactnode-type-is-a-black-hole",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:07:00.801Z",
+            "path": "articles/changelog.com/posts-the-react-reactnode-type-is-a-black-hole.html",
+            "namedEntities": {
+                "ORG": [
+                    "Changelog Changelog News Podcasts Posts Community",
+                    "TypeScript",
+                    "IntelliSense",
+                    "DefinitelyTyped",
+                    "TIL",
+                    "JS Party",
+                    "TranslatedText",
+                    "ReactChild",
+                    "ReactPortal",
+                    "ReactNode",
+                    "ReactFragment",
+                    "ref",
+                    "ESLint",
+                    "Great",
+                    "https://www.jsdocs.io/package/@types/react#ReactNodeArray",
+                    "YouTube"
+                ],
+                "PERSON": [
+                    "Kevin Ball",
+                    "Humu",
+                    "Assessing",
+                    "CI",
+                    "Weekly Changelog"
+                ],
+                "CARDINAL": [
+                    "hundreds of thousands",
+                    "more than 3",
+                    "18",
+                    "one",
+                    "two",
+                    "One",
+                    "888"
+                ],
+                "MONEY": [
+                    "213"
+                ],
+                "DATE": [
+                    "tomorrow",
+                    "2018",
+                    "a year",
+                    "every week",
+                    "6mo ago",
+                    "Nightly"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "First",
+                    "second"
+                ],
+                "NORP": [
+                    "Fragment",
+                    "StrictReactNode",
+                    "context.report"
+                ],
+                "LAW": [
+                    "VS Code"
+                ],
+                "GPE": [
+                    "React"
+                ]
+            },
+            "metaData": {
+                "author": "gregxfield",
+                "description": "Many of us use TypeScript in our React applications to eliminate an entire class of runtime bugs. But surprisingly, one of the most commonly used types: React.ReactNode turns out to be unsafe, failing to detect objects that cannot be rendered by React. This post digs into what is going on and how to…",
+                "image": "https://cdn.changelog.com/uploads/posts/Lkle/large.png?v=63812250519",
+                "publisher": "Changelog",
+                "title": "The React.ReactNode type is a black hole",
+                "url": "https://changelog.com/posts/the-react-reactnode-type-is-a-black-hole",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-13T12:10:37.739Z",
-    "articleCount": 75,
+    "lastUpdatedAt": "2022-09-14T03:07:00.801Z",
+    "articleCount": 76,
     "$schema": "./src/db.schema.json"
 }
