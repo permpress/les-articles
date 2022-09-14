@@ -11484,9 +11484,86 @@
                 "date": "2021-11-22T03:09:06.000Z",
                 "logo": "https://snarky.ca/content/images/size/w256h256/2021/04/Profile-2017-cropped-min.png"
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:20:21.743Z",
+            "domain": "briandicroce.com",
+            "originalUrl": "https://briandicroce.com/slow-down-finish-faster/",
+            "slug": "slow-down-finish-faster",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:20:21.743Z",
+            "path": "articles/briandicroce.com/slow-down-finish-faster.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Slow Down",
+                    "Brian Di Croce",
+                    "Netflix",
+                    "Brian Di"
+                ],
+                "ORG": [
+                    "Home About Talks October",
+                    "Software",
+                    "UI",
+                    "Lego",
+                    "NBC",
+                    "the City of Montreal"
+                ],
+                "DATE": [
+                    "2021",
+                    "five year-old",
+                    "almost 14 years"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "PERCENT": [
+                    "90%",
+                    "100%",
+                    "85%",
+                    "98%"
+                ],
+                "NORP": [
+                    "Finish"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "a dozen",
+                    "1,000",
+                    "two",
+                    "three"
+                ],
+                "EVENT": [
+                    "Millennium Falcon Lego"
+                ],
+                "LAW": [
+                    "the Twin Towers"
+                ],
+                "GPE": [
+                    "New York",
+                    "Montreal",
+                    "Canada"
+                ],
+                "TIME": [
+                    "just a few minutes"
+                ],
+                "WORK_OF_ART": [
+                    "The Comfort of Ignorance Copyright"
+                ]
+            },
+            "metaData": {
+                "author": "Brian Di Croce",
+                "description": "If you want to fully finish a task without reworking it, one must slow down. In this post, I’m sharing some ideas how to go about doing that.",
+                "image": "https://briandicroce.com/wp-content/uploads/2021/10/slow-down.jpeg",
+                "publisher": "Brian Di Croce",
+                "title": "Slow Down, Finish Faster - Brian Di Croce",
+                "url": "https://briandicroce.com/slow-down-finish-faster/",
+                "date": "2021-10-26T02:45:40.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:18:47.167Z",
-    "articleCount": 99,
+    "lastUpdatedAt": "2022-09-14T03:20:21.743Z",
+    "articleCount": 100,
     "$schema": "./src/db.schema.json"
 }
