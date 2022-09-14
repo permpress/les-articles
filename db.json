@@ -9696,9 +9696,141 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:07:04.889Z",
+            "domain": "randsinrepose.com",
+            "originalUrl": "https://randsinrepose.com/archives/what-we-lost/",
+            "slug": "archives-what-we-lost",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:07:04.889Z",
+            "path": "articles/randsinrepose.com/archives-what-we-lost.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Princess Leia",
+                    "Carrie Fisher",
+                    "Zoom",
+                    "Graham",
+                    "Michael",
+                    "Chris",
+                    "Tom",
+                    "CG Carrie",
+                    "Linda",
+                    "Alex King"
+                ],
+                "ORG": [
+                    "Rogue One",
+                    "Responses Joe",
+                    "IRC",
+                    "Skype",
+                    "Imagine",
+                    "Stanford",
+                    "Lzo Media - Senior Backend Developer",
+                    "HackTech News",
+                    "CU",
+                    "VFX",
+                    "CG",
+                    "NJ",
+                    "GA",
+                    "TX",
+                    "LiveMeeting",
+                    "Raphael & MediumLebowski",
+                    "Weekly Newsletter",
+                    "Jazz Channels Are Free Previous",
+                    "Names…"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "one",
+                    "14",
+                    "2D",
+                    "Five or",
+                    "five",
+                    "seven",
+                    "three",
+                    "28",
+                    "16",
+                    "3",
+                    "dozens",
+                    "9",
+                    "10",
+                    "100",
+                    "three dozen",
+                    "One",
+                    "Two",
+                    "Three"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "10th",
+                    "100th"
+                ],
+                "DATE": [
+                    "the two+ years",
+                    "two years",
+                    "February 12, 2022",
+                    "7 months ago",
+                    "the day",
+                    "2 years",
+                    "3 months",
+                    "the next 2 months",
+                    "25 years ago",
+                    "February 14, 2022",
+                    "GA 7 months ago",
+                    "2005",
+                    "2008",
+                    "2019",
+                    "7 months ago Ten years",
+                    "this week",
+                    "a couple of years",
+                    "any day of the week",
+                    "6 months ago",
+                    "April 11, 2022",
+                    "Holliday 5 months ago",
+                    "2022",
+                    "Daily",
+                    "2002-2022"
+                ],
+                "EVENT": [
+                    "The Great Resignation"
+                ],
+                "TIME": [
+                    "a few minutes later",
+                    "an hour",
+                    "7:31 pm",
+                    "11:46 pm",
+                    "7:00 am",
+                    "2:18 am"
+                ],
+                "GPE": [
+                    "Australia",
+                    "LG",
+                    "IL",
+                    "Ann Arbor"
+                ],
+                "PERCENT": [
+                    "80%",
+                    "the last 20%",
+                    "100%"
+                ],
+                "LOC": [
+                    "the Silicon Valley"
+                ]
+            },
+            "metaData": {
+                "author": "7 months ago",
+                "description": "Who is this? Princess Leia, right? End of Rogue One. Wrong, this is not Princess Leia. This is. A photograph of Carrie Fisher in her role of Princess Leia. Chances are, your brain can tell the difference between the two photos. The first is a computer generated image (“CGI”) and the se",
+                "image": "https://randsinrepose.com/wp-content/uploads/2022/02/not-leia.png",
+                "publisher": "Rands in Repose",
+                "title": "What We Lost",
+                "url": "https://randsinrepose.com/archives/what-we-lost/",
+                "date": "2022-02-14T17:53:30.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:07:00.801Z",
-    "articleCount": 76,
+    "lastUpdatedAt": "2022-09-14T03:07:04.889Z",
+    "articleCount": 77,
     "$schema": "./src/db.schema.json"
 }
