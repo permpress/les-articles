@@ -14927,9 +14927,83 @@
                 "date": "2021-08-23T00:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:21:00.213Z",
+            "domain": "cryptomator.org",
+            "originalUrl": "https://cryptomator.org/",
+            "slug": "",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:21:00.213Z",
+            "path": "articles/cryptomator.org/.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Cryptomator - Free Cloud Encryption",
+                    "Cryptomator",
+                    "Ian Ardouin-Fumat",
+                    "Verschlüsselung",
+                    "Android",
+                    "Auf Spendenbasis für Desktop",
+                    "Random Dave w",
+                    "Dropbox",
+                    "Skydrive",
+                    "Denis Serebryakov",
+                    "GoogleDrive",
+                    "Dennis Downing Jr.",
+                    "Kit Contribute GitHub"
+                ],
+                "ORG": [
+                    "Dropbox & Co CRYPTOMATOR Downloads Cryptomator Hub Support",
+                    "AES",
+                    "Cryptomator",
+                    "Subscribe Brands Trusting",
+                    "Calia) @calia1120",
+                    "Dropbox",
+                    "Daten",
+                    "Cloud-Dienste",
+                    "Erfahrungen",
+                    "Basse Tension",
+                    "Google Drive",
+                    "iCloud",
+                    "Amazon",
+                    "Privacy",
+                    "Cryptomator Blog Merchandise"
+                ],
+                "PRODUCT": [
+                    "Cryptomator",
+                    "Twitter"
+                ],
+                "CARDINAL": [
+                    "256",
+                    "#"
+                ],
+                "LOC": [
+                    "Subscribe"
+                ],
+                "DATE": [
+                    "these days",
+                    "the past 6 months"
+                ],
+                "GPE": [
+                    "Linux"
+                ],
+                "MONEY": [
+                    "zero"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "Encrypt Dropbox, Google Drive, and any other cloud. Cryptomator is free and open source.",
+                "image": "https://cryptomator.org/img/og-image.png",
+                "publisher": "Cryptomator",
+                "title": "Cryptomator - Free Cloud Encryption for Dropbox & Co",
+                "url": "https://cryptomator.org/",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:18:32.929Z",
-    "articleCount": 128,
+    "lastUpdatedAt": "2022-09-14T16:21:00.213Z",
+    "articleCount": 129,
     "$schema": "./src/db.schema.json"
 }
