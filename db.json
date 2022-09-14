@@ -14847,9 +14847,89 @@
                 "date": "2022-01-05T21:19:28.622Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:18:32.929Z",
+            "domain": "den.dev",
+            "originalUrl": "https://den.dev/blog/user-hostile-software/",
+            "slug": "blog-user-hostile-software",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:18:32.929Z",
+            "path": "articles/den.dev/blog-user-hostile-software.html",
+            "namedEntities": {
+                "ORG": [
+                    "Den Home Blog About Me",
+                    "Hacker News",
+                    "HID",
+                    "Pi-Hole",
+                    "DNS",
+                    "Electron",
+                    "Google Analytics",
+                    "YubiKey",
+                    "Solar System"
+                ],
+                "DATE": [
+                    "today",
+                    "tomorrow",
+                    "August 23, 2021",
+                    "2019",
+                    "two years",
+                    "10 years",
+                    "the days",
+                    "weekly",
+                    "Tuesday",
+                    "monthly",
+                    "1652",
+                    "2022"
+                ],
+                "PRODUCT": [
+                    "Twitter"
+                ],
+                "CARDINAL": [
+                    "two",
+                    "One",
+                    "seven",
+                    "six",
+                    "one",
+                    "Half"
+                ],
+                "PERCENT": [
+                    "85%"
+                ],
+                "MONEY": [
+                    "40",
+                    "9.99",
+                    "1,198.80"
+                ],
+                "GPE": [
+                    "Ducky"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "Blog",
+                    "Damn Lies",
+                    "Den"
+                ],
+                "TIME": [
+                    "8 minute"
+                ],
+                "WORK_OF_ART": [
+                    "Categories: Opinion Tags"
+                ]
+            },
+            "metaData": {
+                "author": "Den Delimarsky",
+                "description": "Or why software we get today is not the software we should strive to be getting tomorrow.",
+                "image": "https://cdn.den.dev/images/postmedia/user-hostile-software/header.png",
+                "publisher": "Den",
+                "title": "The Rise Of User-Hostile Software",
+                "url": "https://den.dev/blog/user-hostile-software/",
+                "date": "2021-08-23T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:18:26.935Z",
-    "articleCount": 127,
+    "lastUpdatedAt": "2022-09-14T16:18:32.929Z",
+    "articleCount": 128,
     "$schema": "./src/db.schema.json"
 }
