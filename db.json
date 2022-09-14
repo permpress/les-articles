@@ -11378,7 +11378,7 @@
             "originalUrl": "https://www.iamjonas.me/2021/10/want-to-be-great-know-lot.html",
             "slug": "2021-10-want-to-be-great-know-lothtml",
             "tags": [],
-            "updatedAt": "2022-09-14T03:18:39.346Z",
+            "updatedAt": "2022-09-14T03:20:36.443Z",
             "path": "articles/iamjonas.me/2021-10-want-to-be-great-know-lothtml.html",
             "namedEntities": {
                 "CARDINAL": [
@@ -11661,7 +11661,7 @@
             }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:20:28.890Z",
+    "lastUpdatedAt": "2022-09-14T03:20:36.443Z",
     "articleCount": 101,
     "$schema": "./src/db.schema.json"
 }
