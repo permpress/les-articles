@@ -12825,9 +12825,108 @@
                 "date": "2021-10-25T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:04:59.707Z",
+            "domain": "cate.blog",
+            "originalUrl": "https://cate.blog/2021/10/12/the-rent-versus-buy-of-career-growth/",
+            "slug": "2021-10-12-the-rent-versus-buy-of-career-growth",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:04:59.707Z",
+            "path": "articles/cate.blog/2021-10-12-the-rent-versus-buy-of-career-growth.html",
+            "namedEntities": {
+                "ORG": [
+                    "The Rent Versus Buy",
+                    "Career Growth",
+                    "Career Growth Post",
+                    "Cate Post",
+                    "Career Growth Credit",
+                    "CSS",
+                    "Attention / Context Attention",
+                    "Time Time",
+                    "HBR",
+                    "BBC",
+                    "Career GrowthHow",
+                    "DRI Your Professional DevelopmentCoachability++DRI Your Support System5",
+                    "dri",
+                    "Social Twitter",
+                    "Top Posts & Pages 5 Signs It’s Time to Quit Your Job Console DevTools Podcast",
+                    "Career Growth Honey",
+                    "Left the Tech Industry Escaping The House Elf Management Trap",
+                    "WordPress",
+                    "↑ Up Privacy & Cookies"
+                ],
+                "PERSON": [
+                    "Twitter",
+                    "Jill Biden",
+                    "Adherence Adherence",
+                    "Pixabay Step",
+                    "Instagram GitHub Subscribe",
+                    "Address Subscribe"
+                ],
+                "DATE": [
+                    "X years",
+                    "years",
+                    "49 weeks of the year",
+                    "3 weeks of",
+                    "2021",
+                    "Monday",
+                    "October",
+                    "the year",
+                    "2021-10-10",
+                    "October 17, 2021",
+                    "2022"
+                ],
+                "GPE": [
+                    "DevRel",
+                    "US",
+                    "overwork",
+                    "Writing"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "7",
+                    "10",
+                    "two",
+                    "52",
+                    "20",
+                    "One",
+                    "12,112"
+                ],
+                "TIME": [
+                    "around 40 hours",
+                    "3:01 pm"
+                ],
+                "PERCENT": [
+                    "1%"
+                ],
+                "PRODUCT": [
+                    "FLOTUS"
+                ],
+                "ORDINAL": [
+                    "second"
+                ],
+                "EVENT": [
+                    "The Year of Habits"
+                ],
+                "WORK_OF_ART": [
+                    "The Habit of Adequacy → Expecting More from Your Career",
+                    "The Rent Versus Buy"
+                ]
+            },
+            "metaData": {
+                "author": "Cate",
+                "description": "Credit: ejaugsburg / Pixabay The topic that got the most attention in my previous post about being the DRI of your career is the concept of rent versus buy when it comes to managing your career. Di…",
+                "image": "https://149354112.v2.pressablecdn.com/wp-content/cache/thumbnails/2021/10/environmental-protection-g09a8ce052_1920-1200x1200.jpg",
+                "publisher": "Accidentally in Code",
+                "title": "The Rent Versus Buy of Career Growth",
+                "url": "https://cate.blog/2021/10/12/the-rent-versus-buy-of-career-growth/",
+                "date": "2021-10-14T11:55:26.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:04:32.105Z",
-    "articleCount": 110,
+    "lastUpdatedAt": "2022-09-14T16:04:59.707Z",
+    "articleCount": 111,
     "$schema": "./src/db.schema.json"
 }
