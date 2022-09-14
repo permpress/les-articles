@@ -13139,9 +13139,186 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:07:46.309Z",
+            "domain": "swyx.io",
+            "originalUrl": "https://www.swyx.io/cloudflare-go/",
+            "slug": "cloudflare-go",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:07:46.309Z",
+            "path": "articles/swyx.io/cloudflare-go.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Home Ideas About Subscribe YouTube YouTube",
+                    "Twitter Eating the Cloud from Outside",
+                    "dev.to",
+                    "Twitter",
+                    "Clayton Christensen",
+                    "Matthew Prince",
+                    "Michelle Zatlyn",
+                    "James Allworth",
+                    "Ben Thompson",
+                    "Christensen",
+                    "Kevin Kwok’s",
+                    "John Graham-Cumming",
+                    "Kenton Varda",
+                    "Rita Kozlov",
+                    "Territory Wins",
+                    "Ben Thompson’s",
+                    "Sente",
+                    "Andy Grove",
+                    "Revue",
+                    "Javi López G. mentioned"
+                ],
+                "CARDINAL": [
+                    "2",
+                    "2021",
+                    "Two",
+                    "two",
+                    "1",
+                    "zero",
+                    "six",
+                    "eleven",
+                    "3",
+                    "5",
+                    "four",
+                    "one",
+                    "17",
+                    "7",
+                    "230",
+                    "10,000",
+                    "three",
+                    "3000",
+                    "30",
+                    "18"
+                ],
+                "ORG": [
+                    "+30",
+                    "Hacker News",
+                    "AWS’ “Hotel",
+                    "Cloudflare",
+                    "AWS",
+                    "Chess",
+                    "Disruption",
+                    "HBS",
+                    "Cloudflare’s Disruption of AWS",
+                    "iPhone",
+                    "New Market Disruption",
+                    "Allworth",
+                    "Intel",
+                    "Apple Silicon",
+                    "V8",
+                    "Amazon CloudFront",
+                    "AWS Twitter",
+                    "Cloudflare’s Disruption",
+                    "S3",
+                    "Cloudflare Workers",
+                    "Apple",
+                    "Bandwidth Alliance",
+                    "ISP",
+                    "Tech Strategy",
+                    "Tech",
+                    "Wikipedia",
+                    "Microsoft",
+                    "API",
+                    "the Supreme Court",
+                    "Google v Oracle",
+                    "Ethereum",
+                    "Amazon S3",
+                    "DMZ",
+                    "AI",
+                    "futureseek.wordpress.com",
+                    "toppertrick.wordpress.com",
+                    "GitHub"
+                ],
+                "DATE": [
+                    "2021-10-04",
+                    "September 27, 2010",
+                    "this year",
+                    "its past 5 birthdays",
+                    "2017",
+                    "2018",
+                    "2019",
+                    "2020",
+                    "2010",
+                    "2021",
+                    "almost a year",
+                    "this Birthday Week",
+                    "2022-08-26",
+                    "2022-07-13",
+                    "2022-05-01",
+                    "2022-08-08",
+                    "2021-11-08",
+                    "2021-10-23",
+                    "2021-10-18",
+                    "2021-10-16",
+                    "2021-10-11",
+                    "this week"
+                ],
+                "FAC": [
+                    "R2 Storage",
+                    "Intro"
+                ],
+                "ORDINAL": [
+                    "fourth",
+                    "first",
+                    "third",
+                    "second"
+                ],
+                "MONEY": [
+                    "$36 billion",
+                    "$1.6 trillion"
+                ],
+                "NORP": [
+                    "Cloud Distros",
+                    "Firecracker"
+                ],
+                "LOC": [
+                    "Cloud",
+                    "Delta"
+                ],
+                "WORK_OF_ART": [
+                    "Lambda for half",
+                    "Cloud",
+                    "early Internet"
+                ],
+                "PERCENT": [
+                    "80%"
+                ],
+                "EVENT": [
+                    "R2"
+                ],
+                "GPE": [
+                    "Prince",
+                    "Android",
+                    "SF",
+                    "AI"
+                ],
+                "LAW": [
+                    "the Rules of Go"
+                ],
+                "PRODUCT": [
+                    "S3’s",
+                    "dev.to"
+                ],
+                "TIME": [
+                    "morning"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "AWS is playing Chess. Cloudflare is playing Go.",
+                "image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4zf8a4nppo2jppogrshg.png",
+                "publisher": null,
+                "title": "Eating the Cloud from Outside In",
+                "url": "https://swyx.io/cloudflare-go",
+                "date": null,
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:07:23.646Z",
-    "articleCount": 114,
+    "lastUpdatedAt": "2022-09-14T16:07:46.309Z",
+    "articleCount": 115,
     "$schema": "./src/db.schema.json"
 }
