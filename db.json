@@ -10399,9 +10399,67 @@
                 "date": "2022-03-20T12:59:23.894Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:12:17.287Z",
+            "domain": "shayon.dev",
+            "originalUrl": "https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/",
+            "slug": "post-2022-17-why-i-enjoy-postgresql-infrastructure-engineers-perspective",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:12:17.287Z",
+            "path": "articles/shayon.dev/post-2022-17-why-i-enjoy-postgresql-infrastructure-engineers-perspective.html",
+            "namedEntities": {
+                "DATE": [
+                    "Perspective January 17, 2022",
+                    "last modified",
+                    "January 17, 2022 ©",
+                    "2022"
+                ],
+                "PERSON": [
+                    "~3"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "ORG": [
+                    "Infrastructure Engineer",
+                    "Infrastructure Engineers",
+                    "CONCURRENTLY",
+                    "ALTER TABLE",
+                    "CONSTRAINT",
+                    "VALID",
+                    "ALTER TABLE table_name",
+                    "ALTER",
+                    "Notice",
+                    "VALIDATE CONSTRAINT",
+                    "CHECK",
+                    "DROP CONSTRAINT constraint_name",
+                    "SQL"
+                ],
+                "GPE": [
+                    "PostgreSQL",
+                    "Postgres"
+                ],
+                "CARDINAL": [
+                    "zero"
+                ],
+                "WORK_OF_ART": [
+                    "Adding NOT NULL"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "Why I enjoy PostgreSQL - Infrastructure Engineer’s Perspective",
+                "image": "https://www.shayon.dev/logo_shayon_dev_2.png",
+                "publisher": "Shayon Mukherjee",
+                "title": "Why I enjoy PostgreSQL - Infrastructure Engineer’s Perspective",
+                "url": "https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/",
+                "date": "2022-01-17T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:12:09.767Z",
-    "articleCount": 84,
+    "lastUpdatedAt": "2022-09-14T03:12:17.287Z",
+    "articleCount": 85,
     "$schema": "./src/db.schema.json"
 }
