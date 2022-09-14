@@ -10560,9 +10560,191 @@
                 "date": "2022-05-01T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:15:06.743Z",
+            "domain": "arnoldgalovics.com",
+            "originalUrl": "https://arnoldgalovics.com/microservices-in-production/",
+            "slug": "microservices-in-production",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:15:06.743Z",
+            "path": "articles/arnoldgalovics.com/microservices-in-production.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Arnold Galovics Skip",
+                    "Arnold Galovics Home",
+                    "Arnold Galovics",
+                    "Faster",
+                    "Java",
+                    "K8S",
+                    "Kafka Jenkins",
+                    "Prometheus",
+                    "Twitter",
+                    "Git",
+                    "Netflix",
+                    "The Java",
+                    "monolith",
+                    "R.L.",
+                    "Bob",
+                    "Uncle Bob",
+                    "Reply Tdog",
+                    "Reply Dave",
+                    "Tugg Speedman",
+                    "Michael Milligan",
+                    "Reply Arnold Galovics",
+                    "Michael",
+                    "Reply Dorian",
+                    "Spring",
+                    "Ben",
+                    "Reply Crocoliser",
+                    "Monolith",
+                    "Kubernetes",
+                    "Cloud Native",
+                    "Butler Lampson",
+                    "David Wheeler",
+                    "Kevlin Henny",
+                    "Reply Javier",
+                    "Reply Marc",
+                    "Fagner Brack",
+                    "Reply Agustín",
+                    "Reply Dev",
+                    "Docker",
+                    "Cerebrado",
+                    "Reply Mack",
+                    "Cloud Feign",
+                    "Kafka"
+                ],
+                "ORG": [
+                    "Consulting & Work Courses",
+                    "Easier",
+                    "Netflix",
+                    "RAM",
+                    "Kubernetes",
+                    "Jaeger/Zipkin",
+                    "Artifactory/Nexus/Docker",
+                    "DDD",
+                    "Anyway",
+                    "The Product Owner",
+                    "Better",
+                    "API",
+                    "Previous Post Previous The Java",
+                    "Next Post",
+                    "Reply Arnold Galovics",
+                    "Reply Cookie Cutter Developer",
+                    "IMO",
+                    "EJB",
+                    "ElasticSearch",
+                    "START",
+                    "CNI",
+                    "POC",
+                    "MS",
+                    "Lampson",
+                    "MVP",
+                    "EVOLVE",
+                    "Agile",
+                    "END",
+                    "Udemy Effective Hibernate",
+                    "Consulting Contact Courses",
+                    "Clean Blocks"
+                ],
+                "DATE": [
+                    "December 16, 2021 January 19, 2022",
+                    "the last 5 years",
+                    "4 months",
+                    "2 weeks",
+                    "like 6 weeks",
+                    "an extra 4 weeks",
+                    "months ago",
+                    "months",
+                    "2022",
+                    "9 months ago",
+                    "10 weeks",
+                    "9 months ago Hi Javier",
+                    "monthly",
+                    "9 months ago Been",
+                    "9 months ago Most",
+                    "8 months ago"
+                ],
+                "CARDINAL": [
+                    "one",
+                    "hundreds/thousands",
+                    "hundreds",
+                    "10",
+                    "64vCPU",
+                    "512",
+                    "One",
+                    "80",
+                    "only one",
+                    "15",
+                    "5",
+                    "1",
+                    "2",
+                    "400",
+                    "1.",
+                    "2.",
+                    "3",
+                    "zero",
+                    "4.",
+                    "several hundreds",
+                    "50"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "sixth"
+                ],
+                "GPE": [
+                    "Netflix",
+                    "Whitespace",
+                    "Kibana",
+                    "CI(CD",
+                    "P.S.",
+                    "Kubernetes",
+                    "Relax",
+                    "Ecuador",
+                    "Udemy"
+                ],
+                "TIME": [
+                    "the matter of hours",
+                    "a minute",
+                    "night"
+                ],
+                "NORP": [
+                    "Agile"
+                ],
+                "LAW": [
+                    "chapter 2"
+                ],
+                "MONEY": [
+                    "2 53 Replies"
+                ],
+                "WORK_OF_ART": [
+                    "Unlce Bob",
+                    "A Competent Developer"
+                ],
+                "PRODUCT": [
+                    "EJB 2"
+                ],
+                "QUANTITY": [
+                    "a ton"
+                ],
+                "EVENT": [
+                    "Spring Batch Spring Batch"
+                ]
+            },
+            "metaData": {
+                "author": "Arnold Galovics",
+                "description": null,
+                "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAzNiI+PGNpcmNsZSBmaWxsPSIjRkZDQzREIiBjeD0iMTgiIGN5PSIxOCIgcj0iMTgiLz48cGF0aCBmaWxsPSIjNjY0NTAwIiBkPSJNMTAuNTE1IDIzLjYyMUMxMC41NiAyMy44IDExLjY4MyAyOCAxOCAyOGM2LjMxOCAwIDcuNDQtNC4yIDcuNDg1LTQuMzc5LjA1NS0uMjE3LS4wNDMtLjQ0Mi0uMjM3LS41NTQtLjE5NS0uMTExLS40MzktLjA3OC0uNi4wNzdDMjQuNjI5IDIzLjE2MyAyMi42OTQgMjUgMTggMjVzLTYuNjMtMS44MzctNi42NDgtMS44NTVDMTEuMjU2IDIzLjA1IDExLjEyOCAyMyAxMSAyM2MtLjA4NCAwLS4xNjkuMDIxLS4yNDYuMDY0LS4xOTYuMTEyLS4yOTQuMzM5LS4yMzkuNTU3eiIvPjxlbGxpcHNlIGZpbGw9IiM2NjQ1MDAiIGN4PSIxMiIgY3k9IjEzLjUiIHJ4PSIyLjUiIHJ5PSIzLjUiLz48ZWxsaXBzZSBmaWxsPSIjNjY0NTAwIiBjeD0iMjQiIGN5PSIxMy41IiByeD0iMi41IiByeT0iMy41Ii8+PC9zdmc+",
+                "publisher": "Arnold Galovics",
+                "title": "Don’t start with microservices in production – monoliths are your friend – Arnold Galovics",
+                "url": "https://arnoldgalovics.com/microservices-in-production/",
+                "date": "2021-12-16T08:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:13:26.387Z",
-    "articleCount": 87,
+    "lastUpdatedAt": "2022-09-14T03:15:06.743Z",
+    "articleCount": 88,
     "$schema": "./src/db.schema.json"
 }
