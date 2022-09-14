@@ -14715,9 +14715,141 @@
                 "date": "2021-07-21T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:18:26.935Z",
+            "domain": "betterprogramming.pub",
+            "originalUrl": "https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463",
+            "slug": "if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:18:26.935Z",
+            "path": "articles/betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Curt Corginia",
+                    "Safar Safarov",
+                    "Quora",
+                    "Aravind Akshan",
+                    "Medium Marko Milojevic",
+                    "Krupesh Raikar",
+                    "Fernando Doglio",
+                    "Gerard van der",
+                    "Raspberry Pi Sri Harsha",
+                    "Abhishek Asthana",
+                    "Docker",
+                    "Medium Carlo Bertuccini Stop",
+                    "Alexander Nguyen",
+                    "Target Ray Epps"
+                ],
+                "ORG": [
+                    "Better Programming Home Notifications Lists Stories Write Published",
+                    "Better Programming Curt Corginia",
+                    "the BBC Technical",
+                    "Software",
+                    "BROAD",
+                    "The Automated Coding Test",
+                    "The Coding Interview",
+                    "a4b2c1",
+                    "RPG",
+                    "CORGICorporation",
+                    "K",
+                    "Better Programming A",
+                    "Better Programming Follow Advice",
+                    "Catalin",
+                    "Tech",
+                    "Traits",
+                    "Better Programming Recommended",
+                    "NestHack Setup Media",
+                    "JioFiber",
+                    "Postman",
+                    "CTO",
+                    "COO",
+                    "CORGICorporation Follow",
+                    "Amazon",
+                    "Microsoft",
+                    "Google",
+                    "Salesforce",
+                    "VMware"
+                ],
+                "DATE": [
+                    "14, 2021",
+                    "many months",
+                    "one day",
+                    "7 months",
+                    "the same day",
+                    "2 years",
+                    "more than five years",
+                    "those years",
+                    "2019",
+                    "2 months"
+                ],
+                "WORK_OF_ART": [
+                    "Getting Started",
+                    "Medium Take",
+                    "Learn",
+                    "Everything You Need To Know About Regular Expressions in Python How",
+                    "Galaxy Shooter",
+                    "Making the Enemies Shoot Nitesh Sahni"
+                ],
+                "PERCENT": [
+                    "3.6%",
+                    "at least 90%"
+                ],
+                "CARDINAL": [
+                    "4.4 million",
+                    "one",
+                    "at least three",
+                    "One",
+                    "26",
+                    "two",
+                    "four",
+                    "5.4",
+                    "13",
+                    "2021",
+                    "millions",
+                    "5 and a Half Techniques",
+                    "zero",
+                    "584",
+                    "6"
+                ],
+                "GPE": [
+                    "the United States"
+                ],
+                "TIME": [
+                    "between 30 minutes to an hour",
+                    "30-minute"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "third"
+                ],
+                "MONEY": [
+                    "hundreds of dollars"
+                ],
+                "PRODUCT": [
+                    "Medium",
+                    "Serverless Guru"
+                ],
+                "EVENT": [
+                    "Dasuni Anupama OAuth"
+                ],
+                "LOC": [
+                    "Har Narayan"
+                ]
+            },
+            "metaData": {
+                "author": "Curt Corginia",
+                "description": "My response to an incredibly common question",
+                "image": "https://miro.medium.com/max/1200/1*mYTQe3aP6IxOVqFiy2C6qw.jpeg",
+                "publisher": "Better Programming",
+                "title": "“If software engineering is in demand, why is it so hard to get a software engineering job?”",
+                "url": "https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463",
+                "date": "2022-01-05T21:19:28.622Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:18:14.878Z",
-    "articleCount": 126,
+    "lastUpdatedAt": "2022-09-14T16:18:26.935Z",
+    "articleCount": 127,
     "$schema": "./src/db.schema.json"
 }
