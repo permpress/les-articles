@@ -11659,9 +11659,114 @@
                 "date": "2021-10-23T12:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:20:42.526Z",
+            "domain": "jrsinclair.com",
+            "originalUrl": "https://jrsinclair.com/articles/2021/how-to-get-started-with-property-based-testing-in-javascript-with-fast-check/",
+            "slug": "articles-2021-how-to-get-started-with-property-based-testing-in-javascript-with-fast-check",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:20:42.526Z",
+            "path": "articles/jrsinclair.com/articles-2021-how-to-get-started-with-property-based-testing-in-javascript-with-fast-check.html",
+            "namedEntities": {
+                "ORG": [
+                    "JavaScript",
+                    "Jest",
+                    "//",
+                    "START",
+                    "fc.array",
+                    "BDD",
+                    "TypeScript",
+                    "ALWAYS",
+                    "SHOULD",
+                    "-1",
+                    "undefined && currentTime - task",
+                    "undefined && dt -",
+                    "CI",
+                    "QuickCheck",
+                    "Algebra-Driven Design",
+                    "GitHub",
+                    "Essays Web Development Categorisation Research Stories"
+                ],
+                "PERSON": [
+                    "James Sinclair",
+                    "Abandoned",
+                    "Empty",
+                    "createdDateArb",
+                    "nat",
+                    "// Generate",
+                    "Gherkin",
+                    "genTaskState",
+                    "assert",
+                    "Bias",
+                    "// Take",
+                    "Guillermo Rauch’s",
+                    "Kent C. Dodds",
+                    "Gabriel Lebec",
+                    "John Hughes - Do",
+                    "John Hughes",
+                    "John Hughes - How",
+                    "Sandy Maguire"
+                ],
+                "DATE": [
+                    "15 th November 2021",
+                    "0",
+                    "6168533449859237",
+                    "1383591766",
+                    "1970-01-01T00:00:00.000Z'",
+                    "NaN",
+                    "the next filter",
+                    "2022"
+                ],
+                "CARDINAL": [
+                    "hundreds",
+                    "1636521855000",
+                    "60000",
+                    "60",
+                    "one",
+                    "three",
+                    "10000",
+                    "1",
+                    "42",
+                    "zero",
+                    "7",
+                    "two",
+                    "100",
+                    "tens of thousands",
+                    "four",
+                    "hundreds or thousands"
+                ],
+                "TIME": [
+                    "59 minutes ago",
+                    "less than 60 seconds",
+                    "less than 60 seconds old"
+                ],
+                "GPE": [
+                    "Jest",
+                    "myDateArbitrary",
+                    "NaN"
+                ],
+                "ORDINAL": [
+                    "First",
+                    "first"
+                ],
+                "PRODUCT": [
+                    "Twitters Subscribe"
+                ]
+            },
+            "metaData": {
+                "author": "James Sinclair",
+                "description": "Property-based testing helps us write better tests, with less code, and greater coverage. This leads to more confidence in our code, and fewer bugs in our applications. But, as always, there’s a price. Property tests take more effort to write, and they take longer to run. Still, I’m convinced that t…",
+                "image": "https://jrsinclair.com/assets/gentle-introduction-to-property-based-testing.jpg",
+                "publisher": "James Sinclair",
+                "title": "How to get started with property-based testing in JavaScript using fast-check",
+                "url": "https://jrsinclair.com/articles/2021/how-to-get-started-with-property-based-testing-in-javascript-with-fast-check/",
+                "date": "2021-11-15T07:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:20:36.443Z",
-    "articleCount": 101,
+    "lastUpdatedAt": "2022-09-14T03:20:42.526Z",
+    "articleCount": 102,
     "$schema": "./src/db.schema.json"
 }
