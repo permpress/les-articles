@@ -13316,9 +13316,93 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:16:28.010Z",
+            "domain": "jefftk.com",
+            "originalUrl": "https://www.jefftk.com/p/designing-low-upkeep-software",
+            "slug": "p-designing-low-upkeep-software",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:16:28.010Z",
+            "path": "articles/jefftk.com/p-designing-low-upkeep-software.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Jeff Kaufman Posts",
+                    "Belt Walkie-Talkies",
+                    "jefftk",
+                    "Django",
+                    "Gunicorn",
+                    "Ubuntu",
+                    "Ansible",
+                    "Anna Wise's",
+                    "Blog Posts"
+                ],
+                "WORK_OF_ART": [
+                    "RSS Contact Designing Low Upkeep Software"
+                ],
+                "DATE": [
+                    "September 25th, 2021",
+                    "lifetime",
+                    "Every two years",
+                    "two\nyears ago",
+                    "a season of",
+                    "2050",
+                    "over 30 years",
+                    "10-50 years",
+                    "September 12, 2022",
+                    "August 10, 2022",
+                    "July 12, 2022"
+                ],
+                "CARDINAL": [
+                    "One",
+                    "2to3",
+                    "12",
+                    "thousands",
+                    "11",
+                    "3",
+                    "4",
+                    "dozens",
+                    "0.5",
+                    "one"
+                ],
+                "GPE": [
+                    "RSS",
+                    "python3",
+                    "XSS"
+                ],
+                "ORG": [
+                    "Bucket\nBrigade",
+                    "the\nEA Forum",
+                    "API",
+                    "BigTech",
+                    "TypeScript",
+                    "SSH",
+                    "Kindergarteners Focus Make"
+                ],
+                "FAC": [
+                    "LessWrong",
+                    "RSS Contact"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "NORP": [
+                    "Pi"
+                ]
+            },
+            "metaData": {
+                "author": "Jeff Kaufman",
+                "description": "It’s common for me to get excited about a personal project, put a bunch of time into it, and then lose interest. As much as possible, I want these projects to continue working; upkeep isn’t fun. What does designing for minimum maintenance look like? The biggest piece is minimizing your dependencie…",
+                "image": null,
+                "publisher": null,
+                "title": "Designing Low Upkeep Software",
+                "url": "https://www.jefftk.com/p/designing-low-upkeep-software",
+                "date": "2021-09-25T12:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:07:46.309Z",
-    "articleCount": 115,
+    "lastUpdatedAt": "2022-09-14T16:16:28.010Z",
+    "articleCount": 116,
     "$schema": "./src/db.schema.json"
 }
