@@ -15293,9 +15293,44 @@
                 "date": "2020-09-07T10:40:14.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:21:28.175Z",
+            "domain": "utf9k.net",
+            "originalUrl": "https://utf9k.net/blog/conditional-gitconfig/",
+            "slug": "blog-conditional-gitconfig",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:21:28.175Z",
+            "path": "articles/utf9k.net/blog-conditional-gitconfig.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Blog //"
+                ],
+                "ORG": [
+                    "RSS Conditionally",
+                    "BeyondCorp"
+                ],
+                "DATE": [
+                    "August 12, 2021"
+                ],
+                "CARDINAL": [
+                    "zero",
+                    "One"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": null,
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEUAAABAQEBgYGDAwMCAgICgoKAA/wDg4OD//wD/AACAgACAAABM9/hNAAAAAXRSTlMAQObYZgAAAGtJREFUCNdjYGBkAAIBIGZiNjY2UAAxTFxcnMGMkBQ3VxCDMcTFxRWkhiFEvciVAcwAioAZTIKCICUMzMahocYGQIaqCxAEMTCwioQCgWMAg4kISLGjM4MiS0jLTFcHIYYQlpAlu10dXDFFAPjEF9XWoSYkAAAAAElFTkSuQmCC",
+                "publisher": "utf9k",
+                "title": "Conditionally setting your gitconfig | utf9k",
+                "url": "https://utf9k.net/blog/conditional-gitconfig/",
+                "date": "2021-08-12T07:17:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:21:19.791Z",
-    "articleCount": 131,
+    "lastUpdatedAt": "2022-09-14T16:21:28.175Z",
+    "articleCount": 132,
     "$schema": "./src/db.schema.json"
 }
