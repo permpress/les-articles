@@ -11418,9 +11418,75 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:18:47.167Z",
+            "domain": "snarky.ca",
+            "originalUrl": "https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/",
+            "slug": "programming-language-selection-is-a-form-of-premature-optimization",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:18:47.167Z",
+            "path": "articles/snarky.ca/programming-language-selection-is-a-form-of-premature-optimization.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Tall",
+                    "Snarky Canadian",
+                    "CV Selecting",
+                    "C++",
+                    "Java",
+                    "😉",
+                    "C++ Cython",
+                    "Brett Cannon"
+                ],
+                "DATE": [
+                    "Nov 14, 2021 4",
+                    "October 2022",
+                    "14, 2022 1",
+                    "Jan 29, 2022 1",
+                    "2013"
+                ],
+                "ORG": [
+                    "Python",
+                    "YouTube",
+                    "Instagram",
+                    "BC",
+                    "Canada Previous Post",
+                    "Brett Cannon"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "LOC": [
+                    "Python"
+                ],
+                "GPE": [
+                    "Python",
+                    "Numba",
+                    "Vancouver"
+                ],
+                "CARDINAL": [
+                    "1/3",
+                    "zero",
+                    "3.11",
+                    "3.10"
+                ],
+                "WORK_OF_ART": [
+                    "Minimum Viable Python"
+                ]
+            },
+            "metaData": {
+                "author": "Brett Cannon",
+                "description": "Have you ever been told that Python couldn’t be used for a project because it\nwouldn’t be fast enough? I have, and I find it a bit frustrating as big banks,\nYouTube, Instagram, and plenty of other places that are performance-sensitive\nstill manage to select Python and be happy. And",
+                "image": "https://snarky.ca/content/images/2016/12/104_0419.JPG",
+                "publisher": "Tall, Snarky Canadian",
+                "title": "Selecting a programming language can be a form of premature optimization",
+                "url": "https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/",
+                "date": "2021-11-22T03:09:06.000Z",
+                "logo": "https://snarky.ca/content/images/size/w256h256/2021/04/Profile-2017-cropped-min.png"
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:18:39.346Z",
-    "articleCount": 98,
+    "lastUpdatedAt": "2022-09-14T03:18:47.167Z",
+    "articleCount": 99,
     "$schema": "./src/db.schema.json"
 }
