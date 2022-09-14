@@ -10061,9 +10061,43 @@
                 "date": "2022-02-01T00:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:10:39.437Z",
+            "domain": "wizardzines.com",
+            "originalUrl": "https://wizardzines.com/comics/life-of-a-dns-query/",
+            "slug": "comics-life-of-a-dns-query",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:10:39.437Z",
+            "path": "articles/wizardzines.com/comics-life-of-a-dns-query.html",
+            "namedEntities": {
+                "ORG": [
+                    "DNS"
+                ],
+                "PERSON": [
+                    "Julia Evans"
+                ],
+                "DATE": [
+                    "saturday",
+                    "Saturday"
+                ],
+                "WORK_OF_ART": [
+                    "Saturday Morning Comics"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": null,
+                "image": "https://wizardzines.com/comics/life-of-a-dns-query/life-of-a-dns-query-preview.png",
+                "publisher": "wizard zines",
+                "title": "life of a DNS query",
+                "url": "https://wizardzines.com/comics/life-of-a-dns-query/",
+                "date": "2022-01-24T00:00:00.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:07:24.550Z",
-    "articleCount": 80,
+    "lastUpdatedAt": "2022-09-14T03:10:39.437Z",
+    "articleCount": 81,
     "$schema": "./src/db.schema.json"
 }
