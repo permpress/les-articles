@@ -10742,9 +10742,121 @@
                 "date": "2021-12-16T08:00:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T03:15:22.485Z",
+            "domain": "austingil.com",
+            "originalUrl": "https://austingil.com/making-accessibility-more-accessible/",
+            "slug": "making-accessibility-more-accessible",
+            "tags": [],
+            "updatedAt": "2022-09-14T03:15:22.485Z",
+            "path": "articles/austingil.com/making-accessibility-more-accessible.html",
+            "namedEntities": {
+                "PRODUCT": [
+                    "Accessibility More Accessible Skip",
+                    "VS Code",
+                    "Accessibility Linter"
+                ],
+                "WORK_OF_ART": [
+                    "Blog Talks Side Projects Contact Search Making Accessibility More Accessible Get",
+                    "“ The WebAIM Million “"
+                ],
+                "GPE": [
+                    "QA",
+                    "React"
+                ],
+                "ORG": [
+                    "CI",
+                    "WCAG",
+                    "Whocanuse.com",
+                    "WebAIM",
+                    "IDE",
+                    "JavaScript",
+                    "ESLint",
+                    "Preferring",
+                    "React/JSX",
+                    "AppInput",
+                    "TypeScript",
+                    "Lion Stylesheets",
+                    "CSS",
+                    "QA & Code Review",
+                    "DevTools",
+                    "SHOULD",
+                    "CLI",
+                    "GitHub Actions",
+                    "Lighthouse"
+                ],
+                "DATE": [
+                    "November 21, 2021",
+                    "February 2021",
+                    "QA",
+                    "August 24, 2022",
+                    "August 17, 2022 Roll Your Own Static Site Host",
+                    "July 14, 2022",
+                    "2022"
+                ],
+                "PERSON": [
+                    "Background",
+                    "Stark",
+                    "Accessible Palette",
+                    "Accessibility Tools",
+                    "Accesslint",
+                    "Deque",
+                    "Continuous Delivery",
+                    "injectAxe",
+                    "CI",
+                    "json",
+                    "npm ci - name",
+                    "Manuel Matuzovic",
+                    "Twitter",
+                    "Austin Gil"
+                ],
+                "CARDINAL": [
+                    "1 million",
+                    "one million",
+                    "51,379,694",
+                    "51.4",
+                    "one",
+                    "at least 4.5:1",
+                    "two",
+                    "One"
+                ],
+                "PERCENT": [
+                    "86.4%",
+                    "60.6%",
+                    "54.4%",
+                    "51.3%",
+                    "28.9%",
+                    "26.9%",
+                    "100%"
+                ],
+                "MONEY": [
+                    "about #BADA55"
+                ],
+                "ORDINAL": [
+                    "first"
+                ],
+                "FAC": [
+                    "Cypress",
+                    "VueConf US 2022"
+                ],
+                "EVENT": [
+                    "My Experience Speaking"
+                ]
+            },
+            "metaData": {
+                "author": null,
+                "description": "Get more team members involved with accessibility by sharing tools they’ll actually use. A11y tools for design, development, QA, and CI/CD.",
+                "image": "https://cdn.statically.io/img/austingil.com/f=auto%2Cq=70/wp-content/uploads/A11y%20Blog%20Cover.png",
+                "publisher": "Austin Gil",
+                "title": "Making Accessibility More Accessible",
+                "url": "https://austingil.com/making-accessibility-more-accessible/",
+                "date": "2022-01-21T16:38:02.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T03:15:06.743Z",
-    "articleCount": 88,
+    "lastUpdatedAt": "2022-09-14T03:15:22.485Z",
+    "articleCount": 89,
     "$schema": "./src/db.schema.json"
 }
