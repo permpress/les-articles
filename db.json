@@ -15001,9 +15001,83 @@
                 "date": null,
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:21:13.244Z",
+            "domain": "martinheinz.dev",
+            "originalUrl": "https://martinheinz.dev/blog/55",
+            "slug": "blog-55",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:21:13.244Z",
+            "path": "articles/martinheinz.dev/blog-55.html",
+            "namedEntities": {
+                "PERSON": [
+                    "Martin Heinz",
+                    "Docker Notary",
+                    "Docker",
+                    "fulcio",
+                    "Martin Heinz Home Contact Subscribe"
+                ],
+                "ORG": [
+                    "Personal Website & Blog Sigstore",
+                    "Microsoft Exchange Server",
+                    "SolarWinds",
+                    "CNCF",
+                    "rekor",
+                    "UX",
+                    "PGP",
+                    "The Update Framework",
+                    "YUM",
+                    "PyPI",
+                    "TUF",
+                    "Tekton Chains",
+                    "Key Management",
+                    "Google",
+                    "GitHub"
+                ],
+                "CARDINAL": [
+                    "2021",
+                    "one",
+                    "One",
+                    "3",
+                    "1",
+                    "2",
+                    "Zero"
+                ],
+                "DATE": [
+                    "the recent months",
+                    "March",
+                    "5",
+                    "6",
+                    "7",
+                    "3",
+                    "the end of summer",
+                    "2022"
+                ],
+                "GPE": [
+                    "Notary",
+                    "Kubernetes"
+                ],
+                "NORP": [
+                    "Trillian"
+                ],
+                "ORDINAL": [
+                    "first"
+                ]
+            },
+            "metaData": {
+                "author": "Martin Heinz",
+                "description": "<p>\nIn the recent months there’s been a lot of noise in the area of supply chain security, because of increase in attacks, with notable ones like <i>Micros...",
+                "image": "https://res.cloudinary.com/martinheinz/image/upload/v1567247069/blog/og_image_s4v0wv.png",
+                "publisher": "Martin Heinz",
+                "title": "Sigstore: A Solution to Software Supply Chain Security",
+                "url": "https://martinheinz.dev/blog/55",
+                "date": "2021-08-16T14:30:00.000Z",
+                "logo": "https://martinheinz.dev/favicon.ico"
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:21:00.213Z",
-    "articleCount": 129,
+    "lastUpdatedAt": "2022-09-14T16:21:13.245Z",
+    "articleCount": 130,
     "$schema": "./src/db.schema.json"
 }
