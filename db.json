@@ -12349,9 +12349,122 @@
                 "date": "2022-02-24T16:40:00.000Z",
                 "logo": null
             }
+        },
+        {
+            "createdAt": "2022-09-14T16:03:02.498Z",
+            "domain": "thenewstack.io",
+            "originalUrl": "https://thenewstack.io/how-to-find-a-mentor-and-get-started-in-open-source/",
+            "slug": "how-to-find-a-mentor-and-get-started-in-open-source",
+            "tags": [],
+            "updatedAt": "2022-09-14T16:03:02.498Z",
+            "path": "articles/thenewstack.io/how-to-find-a-mentor-and-get-started-in-open-source.html",
+            "namedEntities": {
+                "ORG": [
+                    "CI",
+                    "the Cloud Native Computing Foundation",
+                    "CNCF",
+                    "HSBC",
+                    "SIG",
+                    "LitmusChaos",
+                    "DevOps",
+                    "TNS",
+                    "Kasten Using Kasten",
+                    "Ransomware Attack Prevention",
+                    "Slack",
+                    "Obasi",
+                    "JavaScript",
+                    "LFX Mentorship",
+                    "Non-Code Contributions",
+                    "Learn More Using Kasten K10",
+                    "Tanzu & Kasten",
+                    "KubeCon",
+                    "EU",
+                    "The Cloud Native Computing Foundation",
+                    "The New Stack"
+                ],
+                "PERSON": [
+                    "Cloud Native Ecosystem / Culture /",
+                    "Jennifer Riggins Photo",
+                    "Monica Melton",
+                    "Kunal Kushwaha",
+                    "Divya Mohan",
+                    "Grafana Labs’",
+                    "Uchechukwu Obasi",
+                    "Ihor Dvoretskyi",
+                    "Mohan",
+                    "Kasten K10",
+                    "Java",
+                    "Kushwaha",
+                    "Thanos"
+                ],
+                "DATE": [
+                    "27th, 2021 4:00am",
+                    "year",
+                    "8 September 2022",
+                    "7 September 2022",
+                    "his freshman year",
+                    "24 August 2022",
+                    "2022",
+                    "23 August 2022",
+                    "week"
+                ],
+                "GPE": [
+                    "Unsplash",
+                    "Kubernetes",
+                    "DR",
+                    "Kushwaha",
+                    "Nigeria",
+                    "Lagos",
+                    "Sub-Saharan Africa"
+                ],
+                "PERCENT": [
+                    "80%"
+                ],
+                "CARDINAL": [
+                    "more than 138,000",
+                    "more than 100",
+                    "one",
+                    "NoSQL",
+                    "three",
+                    "millions"
+                ],
+                "LOC": [
+                    "KubeCon+CloudNativeCon North America",
+                    "Africa"
+                ],
+                "WORK_OF_ART": [
+                    "Kubernetes startup Civo",
+                    "I’m African"
+                ],
+                "TIME": [
+                    "hours",
+                    "seven hours"
+                ],
+                "PRODUCT": [
+                    "Civo",
+                    "GSOC"
+                ],
+                "ORDINAL": [
+                    "first",
+                    "second",
+                    "fifth",
+                    "First",
+                    "third"
+                ]
+            },
+            "metaData": {
+                "author": "Jennifer Riggins",
+                "description": "A KubeCon+CloudNativeCon panel on getting started in open source.",
+                "image": "https://cdn.thenewstack.io/media/2021/10/1b8f5bae-monica-melton-oc_xtqwezp4-unsplash.jpg",
+                "publisher": "The New Stack",
+                "title": "How to Find a Mentor and Get Started in Open Source",
+                "url": "https://thenewstack.io/how-to-find-a-mentor-and-get-started-in-open-source/",
+                "date": "2021-10-29T15:00:02.000Z",
+                "logo": null
+            }
         }
     ],
-    "lastUpdatedAt": "2022-09-14T16:02:52.767Z",
-    "articleCount": 106,
+    "lastUpdatedAt": "2022-09-14T16:03:02.498Z",
+    "articleCount": 107,
     "$schema": "./src/db.schema.json"
 }
