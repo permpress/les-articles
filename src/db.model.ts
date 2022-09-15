@@ -38,24 +38,6 @@ export class Database {
             $schema: this.$schema,
         }
         fs.writeFileSync('./db.json', JSON.stringify(db, null, 4))
-        fs.writeFileSync(
-            './public/assets/db.min.json',
-            JSON.stringify(
-                {
-                    ...db,
-                    articles: this.articles.map((article) => {
-                        let image = article.metaData.image
-                        // if image is base64 encoded, remove it
-                        if (image && image.startsWith('data:image')) {
-                            article.metaData.image = ''
-                        }
-                        return { ...article, namedEntities: undefined }
-                    }),
-                },
-                null,
-                4,
-            ),
-        )
     }
 }
 

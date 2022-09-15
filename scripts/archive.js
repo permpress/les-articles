@@ -10,3 +10,22 @@ fs.writeFileSync(
         4,
     ),
 )
+
+fs.writeFileSync(
+    './public/assets/db.min.json',
+    JSON.stringify(
+        {
+            ...db,
+            articles: db.articles.map((article) => {
+                let image = article.metaData?.image
+                // if image is base64 encoded, remove it
+                if (image && image.startsWith('data:image')) {
+                    article.metaData.image = ''
+                }
+                return { ...article, namedEntities: undefined }
+            }),
+        },
+        null,
+        4,
+    ),
+)
