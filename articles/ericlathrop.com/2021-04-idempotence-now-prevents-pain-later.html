@@ -1,0 +1,113 @@
+<!DOCTYPE html> <html lang="en" style><!--
+ Page saved with SingleFile 
+ url: https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/ 
+ saved date: Thu Sep 15 2022 19:08:10 GMT+0000 (Coordinated Universal Time)
+--><head><meta charset="utf-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <style>:root{--sf-img-1: url("data:image/jpeg;base64,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")}</style><style>body{margin:0;padding:0;font-family:"Helvetica","Arial",sans-serif;line-height:1.5;color:#47585c}main{margin:0 auto;max-width:40em;padding:4em 1em}h2,strong{color:#333}a{color:#1fd7ff}header{background-color:#2391a9;text-align:center;line-height:1.2;padding:2em;color:white}header a{color:#adf0ff}header h1{color:white;font-weight:300;font-size:2.5em}footer{background-color:#aad3dc}footer section{margin:0 auto;max-width:40em;padding:2em 1em 4em 1em}footer h2{margin-top:0;padding-top:0}footer a{color:white}.avatar{float:left;margin:0 1em 1em 0}ul.contact-me{list-style-type:none;display:flex;flex-direction:row;margin:1em;padding:0;justify-content:center}ul.contact-me li{display:flex;padding:1em}.about-me{max-width:40em;margin:0 auto;line-height:1.5;text-align:left}</style>
+    <style></style>
+    
+    <link rel="alternate" type="application/rss+xml" href="https://ericlathrop.com/feed/index.rss" title="Blog Posts">
+    <link rel="alternate" type="application/rss+xml" href="https://ericlathrop.com/feed/interesting-links.rss" title="Interesting Links">
+    
+    <link rel="canonical" href="https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/">
+    <link rel="next" title="Programmatically Changing Cinemachine Blends" href="https://ericlathrop.com/2021/04/programmatically-changing-cinemachine-blends/">
+    <link rel="prev" title="DNS over TLS Lets Google Serve You More Ads" href="https://ericlathrop.com/2021/03/dns-over-tls-lets-google-serve-you-more-ads/">
+    
+    <meta property="og:title" content="Idempotence Now Prevents Pain Later">
+    <meta property="og:url" content="https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Idempotence is the property of a
+    software that when run 1 or more times, it only has the effect of being run
+    once. I'll describe a process I'm making at work, and describe the problems that
+    idempotence will help avoid.">
+    <meta property="og:image" content="https://en.gravatar.com/avatar/e9495adcf20e29d401f7f2749aede801">
+    
+    <meta name="twitter:title" content="Idempotence Now Prevents Pain Later">
+    <meta name="twitter:url" content="https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="Idempotence is the property of a
+    software that when run 1 or more times, it only has the effect of being run
+    once. I'll describe a process I'm making at work, and describe the problems that
+    idempotence will help avoid.">
+    <meta name="twitter:image" content="https://en.gravatar.com/avatar/e9495adcf20e29d401f7f2749aede801">
+    <meta name="twitter:site" content="@ericlathrop">
+    <meta name="twitter:creator" content="@ericlathrop">
+    <title>Idempotence Now Prevents Pain Later by Eric Lathrop</title>
+  <meta http-equiv="content-security-policy" content="default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;"><style>img[src="data:,"],source[src="data:,"]{display:none!important}</style></head>
+
+  <body>
+    <header>
+      <h1>Idempotence Now Prevents Pain Later</h1>
+      <a href="https://ericlathrop.com/"><img src="data:image/svg+xml,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;80&quot; height=&quot;80&quot;><rect fill-opacity=&quot;0&quot;/></svg>" style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-1)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"></a>
+      <p>By <a href="https://ericlathrop.com/">Eric Lathrop</a> on <time datetime="2021-04-06T00:00:00.000Z">April 6, 2021</time></p>
+    </header>
+    <main>
+      <p><a href="https://en.wikipedia.org/wiki/Idempotence">Idempotence</a> is the property of a
+software that when run 1 or more times, it only has the effect of being run
+once. I'll describe a process I'm making at work, and describe the problems that
+idempotence will help avoid.</p>
+<p>At work we maintain customer accounts with money balances in them. We need to
+charge dormant customers a monthly fee so that we don't have to keep their money
+on our accounting books forever. The basic way to setup this process looks like
+this:</p>
+<ol>
+<li>Query the database to find all dormant accounts with a balance</li>
+<li>Charge each of these accounts a fee</li>
+<li>Setup a cron job to run this on the first of the month at midnight</li>
+</ol>
+<p>Simple enough, but think of ways it can go wrong.</p>
+<ul>
+<li>The computer running the job could reboot, be offline, or have its virtual
+machine killed, even for just a minute at midnight on the first of the month.
+In this case the job never gets run for this month. Hopefully someone notices.</li>
+<li>Maybe an auto-scaling process, or botched deployment leaves you with 2 (or
+more) computers running the job. Maybe you just want multiple servers for
+redundancy. In this case customers will be charged multiple fees! This will be
+really annoying to clean up.</li>
+</ul>
+<p>If we take a little more time to make the process idempotent, we eliminate these
+types of errors. <strong>Changes in bold</strong>.</p>
+<ol>
+<li>Query the database to find all dormant accounts with a balance, <strong>which haven't
+been charged the fee this month</strong>.</li>
+<li>Charge each of these accounts a fee</li>
+<li>Setup a cron job to run this <strong>every hour</strong></li>
+</ol>
+<p>As a bonus, since the process runs at all hours, there's more of a chance you'll
+notice any errors during normal business hours, and not need to wake up in the
+middle of the night to fix it.</p>
+
+    </main>
+    <footer>
+      <section>
+        <h2>About Me</h2>
+        <p class="about-me">
+          <img class="avatar" src="data:image/svg+xml,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;80&quot; height=&quot;80&quot;><rect fill-opacity=&quot;0&quot;/></svg>" style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-1)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important">
+          I'm a software engineer living in Louisville, Kentucky.
+          I make video games at <a href="http://twoscoopgames.com/">Two Scoop Games</a>,
+          volunteer at <a href="http://louisvillemakesgames.org/">Louisville Makes Games</a>,
+          and help organize the local tech scene at <a href="https://louisvilletech.org/">LouisvilleTech.org</a>.
+          I work primarily with JavaScript, React, Elixir, Node.js, and Ruby.
+        </p>
+        <ul class="contact-me">
+          <li><a href="mailto:eric@ericlathrop.com">Email</a></li>
+          <li><a href="https://gitlab.com/ericlathrop">GitLab</a></li>
+          <li><a href="https://github.com/ericlathrop">GitHub</a></li>
+          <li><a href="https://ebird.org/profile/MTQ4OTQ0MA">eBird Profile</a></li>
+          <li>
+            <a href="https://ebird.org/media/catalog?mediaType=p&amp;sort=upload_date_desc&amp;userId=USER1489440">
+              eBird Photos
+            </a>
+          </li>
+          <li><a href="https://www.youtube.com/watch?v=icWoUpKvUTc&amp;list=PLGSIhoCoDapIqZpNyU-V24AXBtjzC19-F">Bird Videos</a></li>
+          <li><a rel="me" href="https://mastodon.ericlathrop.com/@eric">Mastodon</a></li>
+        </ul>
+      </section>
+    </footer>
+  
+
+</body></html>
