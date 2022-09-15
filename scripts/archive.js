@@ -21,6 +21,7 @@ fs.writeFileSync(
                 // if image is base64 encoded, remove it
                 if (image && image.startsWith('data:image/')) {
                     article.metadata.image = ''
+                    console.log('remove image', article.originalUrl)
                 }
                 return { ...article, namedEntities: undefined }
             }),
