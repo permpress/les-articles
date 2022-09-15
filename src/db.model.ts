@@ -50,11 +50,11 @@ export interface Article {
     updatedAt: string
     path: string
     namedEntities: NamedEntites
-    metaData: MetaData
+    metadata: Metadata
 }
 
 export type NamedEntites = { [index: string]: string[] }
-interface MetaData {
+interface Metadata {
     title?: string
     description?: string
     image?: string

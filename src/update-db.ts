@@ -28,7 +28,7 @@ let getNamedEntities = () => {
 let namedEntities = removeDuplicateEntities(getNamedEntities())
 console.log(`${chalk.green('✓')} Named entities: ${JSON.stringify(namedEntities)}`)
 
-getMetadata(getPath(originalUrl), originalUrl).then((metaData) => {
+getMetadata(getPath(originalUrl), originalUrl).then((metadata) => {
     new Database(dbPath).appendArticle({
         createdAt: new Date().toISOString(),
         domain,
@@ -38,7 +38,7 @@ getMetadata(getPath(originalUrl), originalUrl).then((metaData) => {
         updatedAt: new Date().toISOString(),
         path: `articles/${domain}/${slug}.html`,
         namedEntities,
-        metaData,
+        metadata,
     })
     console.log(`${chalk.green('✓')} Added ${chalk.cyan(originalUrl)} to the database.`)
 })

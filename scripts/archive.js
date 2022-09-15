@@ -17,10 +17,10 @@ fs.writeFileSync(
         {
             ...db,
             articles: db.articles.map((article) => {
-                let image = article.metaData?.image
+                let image = article.metadata?.image
                 // if image is base64 encoded, remove it
-                if (image && image.startsWith('data:image')) {
-                    article.metaData.image = ''
+                if (image && image.startsWith('data:image/')) {
+                    article.metadata.image = ''
                 }
                 return { ...article, namedEntities: undefined }
             }),
