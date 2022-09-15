@@ -87,6 +87,7 @@ jobs:
                       git pull origin main
                       git stash pop
                       ./out/update-db.js ${{ github.event.inputs.url }} ${{ github.event.inputs.tags }}
+                      ./scripts/archive.js
                       git add .
                       git commit -m "article(${{ steps.set_variables.outputs.domain }}): ${{ steps.set_variables.outputs.slug }}"
                       git push origin main
