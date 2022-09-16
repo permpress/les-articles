@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style><!--
+ Page saved with SingleFile 
+ url: https://reasonablypolymorphic.com/blog/writing-technical-posts/ 
+ saved date: Fri Sep 16 2022 14:17:27 GMT+0000 (Coordinated Universal Time)
+--><head><meta charset="utf-8"><style>.utterances{position:relative;box-sizing:border-box;width:100%;max-width:760px;margin-left:auto;margin-right:auto}.utterances-frame{color-scheme:light;position:absolute;left:0;right:0;width:1px;min-width:100%;max-width:100%;height:100%;border:0}</style>
+        
+        
+        <title>How to Write Technical Posts (so people will read them) :: Reasonably Polymorphic</title>
+        <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+        <link href="https://reasonablypolymorphic.com/atom.xml" rel="alternate" title="Reasonably Polymorphic - Atom" type="application/atom+xml">
+        <link href="https://reasonablypolymorphic.com/feed.rss" rel="alternate" title="Reasonably Polymorphic - RSS" type="application/rss+xml">
+
+        <style>html{min-height:100%;height:100%;max-width:100%;margin:0;overflow-x:clip;background-color:#fff;color:#222}:root{--tg-pagella:"tgpagella","TeX Gyre Pagella","serif";--font-size:18pt}body{font-family:var(--tg-pagella),-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;width:100%;display:flex;font-size:var(--font-size);overflow-x:clip;background-color:#fff;color:#222;margin:0;align-items:stretch;min-height:100vh}body.sans-serif{--tg-pagella:"";--font-size:14pt}article{text-align:justify;margin:0 auto}.main{max-width:100ch;width:100%;margin:0px auto 0px auto;flex-grow:1;padding:2ch;padding-top:48px;box-sizing:border-box}ul{padding-left:1.2em}ul li{margin-top:5px;margin-bottom:5px}blockquote{padding:1em;margin-top:1em;margin-bottom:1em;box-shadow:2px 2px 6px black;border-radius:10px;background-color:#f3e8ff;margin-left:0;margin-right:0}@media only screen and (min-width:1500px){.main{max-width:100%;padding:0;padding-bottom:0.4em}}nav{margin-top:0;padding:0 20px 16px 20px;min-width:312px;max-width:312px;width:312px;color:#fff;font-family:"Muli",sans-serif;text-align:justify;min-height:100vh;background-color:#111}nav a{color:#d0d;text-decoration:none}nav h1{text-align:center;font-size:1.8571em;line-height:1.2308em;margin-top:60px;margin-bottom:80px}nav h1 a{color:#fff}nav p{font-size:11pt;line-height:1.1429em;margin:0 0 1.1429em 0}nav h2{font-size:1em;line-height:1.1429em;margin:0}nav ul{padding-left:24px;font-size:1em;line-height:1.1429em;margin:0 0 1.1429em 0;list-style-type:square}</style>
+        <style>body{counter-reset:katexEqnNo mmlEqnNo}</style>
+        <style>article a[href]{color:#0054F4;text-decoration:none}article a[href]:hover,div#return>a[href]:hover,div#top>a[href]:hover,aside#toc>div#toc-container ul a[href]:hover{text-decoration:2px currentColor underline!important}article a[href]:visited,div#return>a[href]:visited,div#top>a[href]:visited,aside#toc>div#toc-container ul a[href]:visited{color:#9C1BD6}article{padding-top:2em;padding-bottom:2em;margin-top:0!important;width:72ch}article>:nth-child(1),article>pre.Agda:first-of-type{margin-top:0;padding-top:0}article>p{width:100%}@keyframes highlight{0%{background-color:#F5DEB3}100%{background-color:#fff}}</style>
+
+        
+        
+
+  <noscript>
+    <style>
+      body span.reasoning-step .as-written {
+        display: inline;
+      }
+
+      body span.reasoning-step .alternate {
+        display: none;
+      }
+    </style>
+  </noscript>
+
+        <style>.sf-hidden{display:none!important}</style><link rel="canonical" href="https://reasonablypolymorphic.com/blog/writing-technical-posts/"><meta http-equiv="content-security-policy" content="default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;"><style>img[src="data:,"],source[src="data:,"]{display:none!important}</style></head>
+        <body class="sans-serif">
+<div class="main">
+
+<article>
+<header>
+  <h1><a href="https://reasonablypolymorphic.com/blog/writing-technical-posts/index.html#">How to Write Technical Posts (so people will read them)</a></h1>
+</header>
+<p class="meta">
+    <time>2019-02-07</time>
+
+    <span class="tags">
+        
+    </span>
+</p>
+<div class="content">
+    <p>One of today’s best bloggers in the functional programming space is <a href="https://chrispenner.ca/">Chris Penner</a>. Despite this, Chris is criminally underrated—nobody I talk to seems to know of his work. Go check him out as soon as you finish reading this post!</p>
+<p>This is reasonably pervasive phenomenon in our subculture; there’s lots of fantastic work being produced, but for one reason or another, it falls between the cracks. I’d propose the biggest obstacle is that most FP writing <em>isn’t optimized to be read.</em></p>
+<p>So I’d like to take some time today and talk about common failure modes in technical writing. If you don’t have a checklist you run through before publishing a post, you’ll probably get a lot of benefit from internalizing this advice.</p>
+<p>The value? You’ll make it easier for people to understand what you’re trying to tell them. Which is why you’re writing in the first place, right? The good news is that none of this is magic—just some simple guidelines for structuring your content.</p>
+<h2 id="the-guiding-principle"><a href="https://reasonablypolymorphic.com/#the-guiding-principle" class="header-link">The Guiding Principle<span class="header-link-emoji">🔗</span></a></h2>
+<p>Here’s the biggest thing to keep in mind: your reader doesn’t really care what you have to say. You get maybe four sentences to convince them that your essay is worth their time. If you haven’t made your case by then, you’ve probably lost them to the next tab they binge-opened.</p>
+<p>Even after you’ve convinced them that it’s a valuable read, you need to continue assuring them that you’re not wasting their time. If you take too long to get to the point, or if you make the information too hard to find on a quick skim, you’ve lost them again.</p>
+<p>As a result, alongside your technical content, you have two primary goals to focus on:</p>
+<ul>
+<li>Provide strong, concise motivations for everything you want to talk about.</li>
+<li>Make it easy to skim.</li>
+</ul>
+<p>If you can do these two things, you’re already most of the way to better engagement.</p>
+<h2 id="writing-strong-motivations"><a href="https://reasonablypolymorphic.com/#writing-strong-motivations" class="header-link">Writing Strong Motivations<span class="header-link-emoji">🔗</span></a></h2>
+<p>People care about solutions to problems they have, or expect to have one day. They care about other things too, but it’s not really relevant to us today.</p>
+<p>With this in mind, you want to tailor your motivations in terms of <em>solutions to problems.</em></p>
+<p>Here are some good examples of problems that you’ve probably run into (and links to their solutions for you to read later):</p>
+<ul>
+<li><a href="https://chrispenner.ca/posts/adjunction-battleship">Ed Kmett writes shitty documentation</a></li>
+<li><a href="https://reasonablypolymorphic.com/blog/higher-kinded-data/">I have lots of types that need to evolve at the same time</a></li>
+<li><a href="http://thinkingwithtypes.com/">There is no good place to learn type-level programming</a></li>
+</ul>
+<p>Bad examples of motivating documents are things that assume you care <em>simply because they exist.</em> This is <a href="http://hackage.haskell.org/package/pipes-4.3.9/docs/Pipes-Tutorial.html">pretty</a> <a href="http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/">common</a> of libraries’ tutorials. The same document that convinces you to use a technology should also show you how.</p>
+<p>As a more general rule, focusing on <em>why</em> is going to be more valuable than on <em>how.</em></p>
+<p>Why should someone care, and why your solution is a good one.</p>
+<p>“How” without a “why” suggests a contrived solution to a made-up problem. In other words, it’s easily read as “who cares?”</p>
+<h2 id="understanding-how-people-read"><a href="https://reasonablypolymorphic.com/#understanding-how-people-read" class="header-link">Understanding How People Read<span class="header-link-emoji">🔗</span></a></h2>
+<p>People who spend lots of time reading have good heuristics for skipping lots of text. If you understand these heuristics, you can make it easy for people to find what they’re looking for. And remember: they’re looking for reasons to continue reading.</p>
+<p>There are two behaviors here. The first is what I call “skimming for concepts”—which is that people will attempt to determine what text is about at a high-level. They’re looking for <em>what you’re trying to tell them</em>, as opposed to <em>what you’re actually saying.</em></p>
+<p>When skimming, people are likely to read only the headings and the first two sentences of a paragraph. If they’re convinced they know what you have to say, they’ll skip to the next paragraph. If several paragraphs in a row don’t seem relevant, they’ll skip to the next heading.</p>
+<p>If the next heading also fails to grab their attention, they’ll probably give up.</p>
+<p>The solution is to structure your argument as a tree. Headings must provide enough information to let someone know whether or not they care about the following prose.</p>
+<p>This also means that the first sentence of each paragraph should be sufficient to understand the rest of the paragraph. The remaining sentences are only allowed to reinforce or give details of the first sentence. One paragraph equals one idea.</p>
+<p>Roughly speaking, the hierarchy of your document should look like this:</p>
+<ul>
+<li>Document
+<ul>
+<li>Heading
+<ul>
+<li>First sentence
+<ul>
+<li>Rest of paragraph</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Maybe you feel like it’s hard to know how much knowledge to assume your readership knows. Understanding how people read makes this a non-issue. Present as much information as is necessary to understand your point, but make it easy to skip if people already know it. Those who don’t yet know will learn, those who do can skip past, and both camps will appreciate it.</p>
+<p>After you’ve convinced your reader that they care what you have to say, they’re more willing to read what you <em>actually have to say.</em> When the reader is ready to dive in, that’s when you can make the finer points of your argument.</p>
+<p>It’s unlikely that anyone is going to read every word of your essay. It’s even less likely that they’ll read them all in order.</p>
+<h2 id="stumbling-blocks"><a href="https://reasonablypolymorphic.com/#stumbling-blocks" class="header-link">Stumbling Blocks<span class="header-link-emoji">🔗</span></a></h2>
+<p>Now that you’ve got people ready to listen to you, it’s important to keep them on the same page as you. You really need to stay on top of anything that might break their focus.</p>
+<p>Use short sentences. If it’s too hard to parse, people won’t.</p>
+<p>Make sure your spelling and grammar have no egregious problems. You don’t need to have perfect command of the language, but you need to be able to signal that you’re trustworthy-enough to listen to. Don’t underestimate how much credibility you’ll lose from blatantly bad spelling and grammar.</p>
+<p>This stuff is relatively common-sense.</p>
+<p>What might be less so is that you also need to stay on top of conceptual stumbling blocks. If your argument makes a jump that feels poorly motivated or references something potentially unfamiliar, expect that your reader will experience vertigo.</p>
+<p>Most of the ideas we talk about in functional programming <em>are not easy,</em> and it doesn’t do anyone any favors to pretend this isn’t so. Expect that your readers will be pretty similar to you; if you had a problem understanding a piece of your topic, <em>call that out.</em> Point out the obstacle. Point out what they might be thinking, and then very explicitly show them what they should be thinking instead.</p>
+<p>For example, if your code sample uses a <a href="https://en.wikipedia.org/wiki/Functional_dependency">functional dependency</a>, it might be worth a short sentence saying “that funny bar thing is a functional dependency.” Give a tiny summary of its purpose, and provide a link for them to learn more if they need to.</p>
+<p>Another illustration: if <em>you</em> originally got confused that an “algebra in recursion schemes” is not the same thing as the algebra you learned in high-school, your readers probably will too. The first time you say “algebra” in the new context, say “this is a misleading term. This has nothing to do with solving equations like you did in high-school.”</p>
+<p>More important than what you’re saying is what you’re <em>not saying.</em> If you’re giving examples of something that fits a pattern, make sure you give examples of things that <em>do not</em> fit the pattern. A concept that is applicable everywhere is useful nowhere.</p>
+<p>Give lots of examples. Nobody I know learns via mathematical statements, nor do they learn via long, wordy, abstract prose. People learn by seeing lots of examples, and being told explicitly how these examples relate to one another. The mathematical statements are only useful <em>after</em> you have the intuition, so save them for an appropriate time.</p>
+<h2 id="conclusion"><a href="https://reasonablypolymorphic.com/#conclusion" class="header-link">Conclusion<span class="header-link-emoji">🔗</span></a></h2>
+<p>The takeaway advice from this essay is that <em>if you want lots of readers, you must make it easy for them to read.</em></p>
+<p>To that end, pay lots of attention to motivation. Why should people care what you have to say? What value does it give <em>them?</em></p>
+<p>Focus your energy on the beginnings—both of the essay as a whole, and of each paragraph. People who are unconvinced by your essay’s value will skim their way through it, and they will do that by reading only the beginnings of things.</p>
+<p>Make your information easy to find. Structure your argument in a tree, and make sure it supports random-access. Nobody is going to read the whole thing from start to finish. Instead they’re going to jump around, ignoring the pieces they already know, and looking for the bits they don’t.</p>
+<p>Use lots of short paragraphs. A paragraph should correspond to a single idea.</p>
+<p>Anticipate which parts of your argument will be difficult for your readers, and be proactive in trying to assuage those difficulties. Give lots of examples of what you’re talking about, and more importantly, what you’re not talking about.</p>
+<p>Point out where you went into the weeds while learning this stuff. Steer readers away from common mistakes and misconceptions.</p>
+<p>And finally, end on a high note. Leave people with a good feeling, and it will incentivize them to get to the bottom of your next piece. Inspirational calls to action are a good way to go out.</p>
+<blockquote>
+<p>Tell them what you’re going to tell them. Then tell them. Finally, tell them what you told them.</p>
+<p>-Unknown</p>
+</blockquote>
+<p>Funny and poignant quotes are too.</p>
+
+<p class="meta">
+</p>
+
+</div>
+
+<div class="comments">
+  <div class="utterances" style="height:269px">
+    <iframe class="utterances-frame" title="Comments" scrolling="no" loading="lazy" sandbox="allow-popups allow-top-navigation allow-top-navigation-by-user-activation" srcdoc="<!DOCTYPE html> <html lang=&quot;en&quot;><head><meta charset=&quot;utf-8&quot;><title>utterances</title><meta name=&quot;description&quot; content=&quot;A lightweight commenting system using GitHub issues.&quot;><meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;><meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;><style>html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:sans-serif}body{margin:0}header,main{display:block}a{background-color:initial}a:active,a:hover{outline-width:0}img{border-style:none}svg:not(:root){overflow:hidden}button,textarea{font:inherit;margin:0}button{overflow:visible}button{text-transform:none}html [type=button]{-webkit-appearance:button}textarea{overflow:auto}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}*{box-sizing:border-box}button,textarea{font-family:inherit}body{color:#24292e;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;line-height:1.5}a{color:#0366d6;text-decoration:none}a:hover{text-decoration:underline}button{border-radius:0;cursor:pointer}h1{margin-bottom:0;margin-top:0}h1{font-weight:600}.btn{appearance:none;border:1px solid;border-radius:6px;cursor:pointer;display:inline-block;font-size:14px;font-weight:500;line-height:20px;padding:5px 16px;position:relative;user-select:none;vertical-align:middle;white-space:nowrap}.btn:hover{text-decoration:none}.btn.disabled,.btn:disabled,.btn[aria-disabled=true]{cursor:default}.btn.disabled .octicon,.btn:disabled .octicon,.btn[aria-disabled=true] .octicon{color:inherit}.btn .octicon{margin-right:4px;vertical-align:text-bottom}.btn .octicon:only-child{margin-right:0}.btn{transition:background-color .2s cubic-bezier(.3,0,.5,1)}.btn.hover,.btn:hover,[open]>.btn{background-color:#f3f4f6;transition-duration:.1s}.btn.selected,.btn:active,.btn[aria-selected=true]{background-color:#edeff2;box-shadow:inset 0 1px 0#e1e4e833;transition:none}.btn.disabled,.btn:disabled,.btn[aria-disabled=true]{background-color:#fafbfc;border-color:#1b1f2326;color:#959da5}.btn.focus,.btn:focus{box-shadow:0 0 0 3px #0366d64d;outline:1px dotted #0000;outline-offset:2px}.btn-primary{background-color:#2ea44f;border-color:#1b1f2326;box-shadow:0 1px 0#1b1f231a,inset 0 1px 0#ffffff08;color:#fff}.btn-primary.hover,.btn-primary:hover,[open]>.btn-primary{background-color:#2c974b}.btn-primary.selected,.btn-primary:active,.btn-primary[aria-selected=true]{background-color:#2a8f47;box-shadow:inset 0 1px 0#14462033}.btn-primary.disabled,.btn-primary:disabled,.btn-primary[aria-disabled=true]{background-color:#94d3a2;border-color:#1b1f231a;box-shadow:0 1px 0#1b1f231a,inset 0 1px 0#ffffff08;color:#fffc}.btn-primary.focus,.btn-primary:focus{box-shadow:0 0 0 3px #2ea44f66}.btn-primary .octicon{color:#fffc}.markdown-body{word-wrap:break-word;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;line-height:1.5}.markdown-body:after,.markdown-body:before{content:&quot;&quot;;display:table}.markdown-body:after{clear:both}.tabnav{margin-top:0}.tabnav-tabs{display:flex;margin-bottom:-1px;overflow:auto}.tabnav-tab{background-color:initial;border:1px solid #0000;border-bottom:0;color:#24292e;display:inline-block;flex-shrink:0;font-size:14px;line-height:23px;padding:8px 16px;text-decoration:none}.tabnav-tab[aria-selected=true]{background-color:#fff;border-color:#e1e4e8;border-radius:6px 6px 0 0}.tabnav-tab:focus,.tabnav-tab:hover{color:#586069;text-decoration:none}.tabnav-tab:active{color:#6a737d}.form-control{background-position:right 8px center;background-repeat:no-repeat;box-shadow:inset 0 1px 0#e1e4e833;outline:none;vertical-align:middle}.form-control.focus,.form-control:focus,.form-select.focus,.form-select:focus{border-color:#0366d6;box-shadow:0 0 0 3px #0366d64d;outline:none}.form-control[disabled]{background-color:#f3f4f6;color:#959da5}@supports (-webkit-touch-callout:none){.form-control,.form-select{font-size:16px}@media (min-width:768px){.form-control,.form-select{font-size:14px}}}textarea.form-control{line-height:1.5;padding-bottom:8px;padding-top:8px}::placeholder{color:#6a737d;opacity:1}.text-link{color:#586069}.octicon{fill:currentColor;display:inline-block}.v-align-bottom{vertical-align:bottom!important}.timeline{margin:16px 0;padding:0 4px}.timeline-header{color:#586069;font-size:14px;margin:0;padding-left:16px}@media screen and (min-width:544px){.timeline-header{padding-left:60px}}.timeline-header em{font-weight:400}.timeline-comment{align-items:flex-start;display:flex;margin:16px 0}.timeline-comment .avatar{background-color:initial;display:none}.timeline-comment .avatar>img{border-radius:6px}.timeline-comment .comment{background-color:#fff;border:1px solid #e1e4e8;border-radius:6px;flex-basis:0;flex-grow:1;min-width:0;position:relative}.timeline-comment .new-comment-header{background-color:#f6f8fa;border-bottom:1px solid #e1e4e8;border-top-left-radius:6px;border-top-right-radius:6px;margin-bottom:0;padding:8px 8px 0}.timeline-comment .markdown-body{font-size:14px}.timeline-comment .comment-body{padding:8px}.timeline-comment .comment-body textarea{appearance:none;display:block;max-height:550px;resize:vertical}.timeline-comment .comment-body .markdown-body,.timeline-comment .comment-body textarea{border:1px solid #e1e4e8;border-radius:6px;min-height:90px;padding:8px;width:100%}.timeline-comment .comment-body textarea:focus{box-shadow:0 0 0 .2em #0366d64d}.timeline-comment .comment-body textarea:disabled{background-color:#f6f8fa}.timeline-comment .new-comment-footer{align-items:center;display:flex;justify-content:space-between;padding:0 8px 8px}.timeline-comment .new-comment-footer .markdown-info{font-size:12px;margin-right:4px}@media screen and (min-width:544px){.timeline-comment .avatar{display:block;margin-right:16px}.timeline-comment .comment:after,.timeline-comment .comment:before{border-color:#0000;border-style:solid solid outset;content:&quot; &quot;;display:block;height:0;left:-16px;pointer-events:none;position:absolute;right:100%;top:11px;width:0}.timeline-comment .comment:after{border-right-color:#f6f8fa;border-width:7px;margin-left:2px;margin-top:1px}.timeline-comment .comment:before{border-right-color:#d1d5da;border-width:8px}}body,html{background-color:initial}body{overflow:hidden;padding-bottom:20px}.form-control{font-size:14px}textarea[disabled]{cursor:not-allowed}</style><style>.sf-hidden{display:none!important}</style><meta http-equiv=&quot;content-security-policy&quot; content=&quot;default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;&quot;><style>img[src=&quot;data:,&quot;],source[src=&quot;data:,&quot;]{display:none!important}</style></head><body><main class=&quot;timeline&quot;>
+      <h1 class=&quot;timeline-header&quot;>
+        <a class=&quot;text-link&quot; target=&quot;_blank&quot;>0 Comments</a>
+        <em>
+          - powered by
+          <a class=&quot;text-link&quot; href=&quot;https://utteranc.es/&quot; target=&quot;_blank&quot;>utteranc.es</a>
+        </em>
+      </h1><!--marker--><article class=&quot;timeline-comment&quot;>
+      <a class=&quot;avatar&quot; target=&quot;_blank&quot; tabindex=&quot;-1&quot;>
+        <img height=&quot;44&quot; width=&quot;44&quot; alt=&quot;@anonymous&quot; src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNiIgdmVyc2lvbj0iMS4xIj48cGF0aCBmaWxsPSJyZ2IoMTc5LDE3OSwxNzkpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04IDEwLjVMOSAxNEg1bDEtMy41TDUuMjUgOWgzLjVMOCAxMC41ek0xMCA2SDRMMiA3aDEwbC0yLTF6TTkgMkw3IDMgNSAyIDQgNWg2TDkgMnptNC4wMyA3Ljc1TDEwIDlsMSAyLTIgM2gzLjIyYy40NSAwIC44Ni0uMzEuOTctLjc1bC41Ni0yLjI4Yy4xNC0uNTMtLjE5LTEuMDgtLjcyLTEuMjJ6TTQgOWwtMy4wMy43NWMtLjUzLjE0LS44Ni42OS0uNzIgMS4yMmwuNTYgMi4yOGMuMTEuNDQuNTIuNzUuOTcuNzVINWwtMi0zIDEtMnoiPjwvcGF0aD48L3N2Zz4=&quot;>
+      </a>
+      <form class=&quot;comment&quot; accept-charset=&quot;UTF-8&quot; action=&quot;javascript:&quot;>
+        <header class=&quot;new-comment-header tabnav&quot;>
+          <div class=&quot;tabnav-tabs&quot; role=&quot;tablist&quot;>
+            <button type=&quot;button&quot; class=&quot;tabnav-tab tab-write&quot; role=&quot;tab&quot; aria-selected=&quot;true&quot;>
+              Write
+            </button>
+            <button type=&quot;button&quot; class=&quot;tabnav-tab tab-preview&quot; role=&quot;tab&quot;>
+              Preview
+            </button>
+          </div>
+        </header>
+        <div class=&quot;comment-body&quot;>
+          <textarea class=&quot;form-control&quot; placeholder=&quot;Sign in to comment&quot; aria-label=&quot;comment&quot; disabled></textarea>
+          <div class=&quot;markdown-body&quot; style=&quot;display:none&quot;>
+            Nothing to preview
+          </div>
+        </div>
+        <footer class=&quot;new-comment-footer&quot;>
+          <a class=&quot;text-link markdown-info&quot; tabindex=&quot;-1&quot; target=&quot;_blank&quot; href=&quot;https://guides.github.com/features/mastering-markdown/&quot;>
+            <svg class=&quot;octicon v-align-bottom&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;>
+              <path fill-rule=&quot;evenodd&quot; d=&quot;M14.85 3H1.15C.52 3 0 3.52 0 4.15v7.69C0 12.48.52 13 1.15
+                13h13.69c.64 0 1.15-.52 1.15-1.15v-7.7C16 3.52 15.48 3 14.85 3zM9 11H7V8L5.5 9.92 4
+                8v3H2V5h2l1.5 2L7 5h2v6zm2.99.5L9.5 8H11V5h2v3h1.5l-2.51 3.5z&quot;>
+              </path>
+            </svg>
+            Styling with Markdown is supported
+          </a>
+          <button class=&quot;btn btn-primary sf-hidden&quot; type=&quot;submit&quot; hidden disabled>Comment</button>
+          <a class=&quot;btn btn-primary&quot; href=&quot;https://api.utteranc.es/authorize?redirect_uri=https%3A%2F%2Freasonablypolymorphic.com%2Fblog%2Fwriting-technical-posts%2F&quot; target=&quot;_top&quot;>
+            <svg class=&quot;octicon&quot; aria-hidden=&quot;true&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot; height=&quot;16&quot;><path fill-rule=&quot;evenodd&quot; d=&quot;M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z&quot;></path></svg>
+            Sign in with GitHub
+          </a>
+        </footer>
+      </form></article></main></body></html>"></iframe>
+  </div>
+</div>
+</article>
+
+</div>
+    <nav>
+        <h1><a href="https://reasonablypolymorphic.com/">REASONABLY<br>POLYMORPHIC</a></h1>
+    
+        <p> Hi there. I'm <strong>Sandy Maguire</strong>. I like improving life and
+        making cool things.</p>
+    
+        <p>If you want to get in touch, I'd love to hear from you! Send me an
+        email; you can contact me via <tt><b>sandy</b></tt> at <tt><b>sandymaguire.me</b></tt>.</p>
+    
+        <h2>SITE LINKS</h2>
+        <ul>
+            <li><a href="https://reasonablypolymorphic.com/">Archives</a></li>
+            <li><a href="https://reasonablypolymorphic.com/talks">Talks</a></li>
+        </ul>
+    
+        <h2>THINGS I MAKE</h2>
+        <ul>
+            <li>Code on <a href="http://github.com/isovector">github</a></li>
+            <li>Book <a href="https://reasonablypolymorphic.com/book/preface.html">archive</a></li>
+            <li>My other <a href="http://sandymaguire.me/">blog</a></li>
+        </ul>
+    
+        <h2>WHAT I'M DOING</h2>
+        <ul>
+            <!-- <li><a href="/erdos">Erdos Project</a></li> -->
+            <li>Music at <a href="http://last.fm/user/Paamayim">last.fm</a></li>
+            <li>Books at <a href="https://www.goodreads.com/review/list/14945161-sandy-maguire?shelf=currently-reading">goodreads</a></li>
+            <!-- <li>Papers at <a href="https://www.mendeley.com/groups/7295141/read/papers/">mendeley</a></li> -->
+        </ul>
+    
+        <p>
+        © 2015-2022 Sandy Maguire
+        </p>
+    </nav>
+
+    <!--
+    <div id="smallnav">
+      <div class="smallhome"><a href="/">REASONABLY POLYMORPHIC</a></div>
+      <div class="smallarchives"><a href="/blog/archives/">ARCHIVES</a></div>
+    </div>
+    -->
+
+
+
+</body></html>
